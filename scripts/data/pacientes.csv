@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P952,Pedro Gomez,,F,Miraflores,Cardiologia,2024-12-27,498.97
+P320,Maria Rodriguez,90.0,F,San Isidro,Pediatria,2024-03-14,301.95
+P639,Juan Perez,22.0,F,Callao,Cardiologia,2024-01-05,236.96
+P385,Laura Rodriguez,26.0,F,,Pediatria,invalid,449.03
+P147,Laura Rodriguez,55.0,F,,Cardiologia,2024-09-26,72.18
+P275,Laura Torres,21.0,F,Miraflores,Odontologia,2024-03-04,319.92
+P317,Maria Rodriguez,54.0,F,Lima,General,2024-05-30,430.22
+P424,Sofia Rodriguez,60.0,F,Miraflores,Odontologia,2024-01-16,94.26
+P658,Laura Gomez,81.0,F,San Isidro,Pediatria,2024-07-07,119.66
+P727,Sofia Gomez,88.0,M,,Dermatologia,2024-01-31,323.04
+P326,Ana Lopez,33.0,F,San Isidro,General,2024-12-29,397.45
+P522,Ana Gomez,1.0,F,Surco,General,2024-08-18,444.34
+P381,Maria Perez,60.0,F,Lima,Pediatria,2024-06-11,117.38
+P103,Maria Perez,75.0,F,,Dermatologia,invalid,297.17
+P148,Maria Lopez,71.0,M,San Isidro,Odontologia,2024-02-18,479.26
+P270,Juan Rodriguez,49.0,M,San Isidro,General,2024-07-26,88.58
+P771,Pedro Martinez,86.0,M,Surco,General,2024-04-14,155.79
+P474,Maria Gomez,50.0,M,Surco,Cardiologia,2024-03-17,
+P808,Ana Rodriguez,23.0,F,Lima,Dermatologia,invalid,217.98
+P420,Maria Lopez,35.0,F,Lima,Cardiologia,invalid,290.16
+P416,Laura Martinez,6.0,M,Surco,Pediatria,2024-07-23,371.18
+P329,Sofia Rodriguez,36.0,F,Surco,Dermatologia,2024-02-29,236.59
+P209,Laura Martinez,65.0,F,Lima,Dermatologia,2024-08-07,346.47
+P192,Pedro Torres,82.0,M,Lima,Dermatologia,2024-08-29,187.84
+P493,Ana Rodriguez,69.0,M,Surco,Dermatologia,invalid,236.6
+P027,Juan Gomez,11.0,F,Callao,Pediatria,invalid,222.65
+P758,Carlos Rodriguez,43.0,M,Callao,Cardiologia,2024-06-09,199.65
+P606,Ana Martinez,48.0,F,Surco,General,2024-10-28,414.16
+P422,Maria Perez,13.0,F,Miraflores,Pediatria,2024-11-07,
+P759,Luis Rodriguez,86.0,M,Miraflores,Cardiologia,2024-04-08,488.42
+P641,Sofia Gomez,32.0,M,Lima,Cardiologia,2024-05-09,351.82
+P489,Ana Gomez,14.0,M,Callao,Odontologia,2024-03-02,485.0
+P558,Carlos Perez,36.0,F,Miraflores,General,2024-02-14,224.23
+P799,Luis Martinez,10.0,M,Miraflores,Odontologia,2024-08-10,95.1
+P671,Juan Gomez,9.0,F,Callao,General,2024-10-08,66.89
+P127,Luis Lopez,19.0,F,Callao,General,2024-03-16,
+P708,Maria Lopez,9.0,M,Surco,Odontologia,2024-09-10,257.07
+P794,Carlos Torres,83.0,M,San Isidro,Dermatologia,invalid,433.49
+P413,Carlos Lopez,76.0,F,Callao,Dermatologia,2024-02-25,135.72
+P374,Juan Lopez,29.0,F,Lima,Dermatologia,2024-02-06,218.65
+P775,Ana Martinez,15.0,M,Callao,Cardiologia,2024-07-20,326.67
+P052,Ana Lopez,15.0,M,Miraflores,Dermatologia,2024-01-15,248.0
+P966,Juan Torres,43.0,F,San Isidro,General,2024-11-11,102.53
+P564,Ana Perez,69.0,M,Callao,Cardiologia,2024-06-02,100.68
+P188,Luis Gomez,96.0,M,Surco,Cardiologia,2024-06-06,241.44
+P674,Sofia Perez,56.0,F,San Isidro,Dermatologia,2024-09-26,348.85
+P835,Laura Martinez,65.0,F,San Isidro,Dermatologia,2024-02-08,
+P475,Maria Perez,75.0,F,Miraflores,Dermatologia,2024-08-09,162.26
+P352,Sofia Martinez,64.0,F,,General,2024-04-03,347.85
+P925,Sofia Martinez,62.0,M,Surco,General,2024-10-23,264.63
+P400,Maria Rodriguez,86.0,F,Surco,Pediatria,2024-01-15,277.73
+P154,Luis Gomez,96.0,F,Callao,Dermatologia,2024-05-09,187.59
+P179,Maria Martinez,39.0,F,Callao,Odontologia,2024-05-24,185.77
+P516,Maria Gomez,,M,San Isidro,Pediatria,2024-03-23,
+P368,Pedro Torres,87.0,M,Miraflores,Cardiologia,invalid,62.24
+P885,Luis Torres,63.0,M,,Cardiologia,2024-02-06,167.29
+P586,Laura Perez,91.0,M,Miraflores,Odontologia,2024-07-17,127.13
+P618,Juan Torres,49.0,F,,Cardiologia,2024-01-16,259.28
+P259,Laura Rodriguez,,F,Surco,General,2024-08-22,267.45
+P323,Ana Perez,32.0,F,San Isidro,General,2024-11-06,
+P448,Maria Torres,65.0,F,Surco,Pediatria,2024-04-19,334.4
+P622,Ana Gomez,96.0,F,Callao,Pediatria,2024-12-25,417.44
+P557,Pedro Perez,36.0,F,,Odontologia,2024-06-16,494.51
+P249,Sofia Lopez,69.0,F,Lima,Cardiologia,2024-04-01,169.1
+P949,Sofia Rodriguez,35.0,F,,General,2024-06-05,477.53
+P999,Maria Martinez,72.0,F,Lima,Cardiologia,2024-06-23,101.26
+P889,Luis Gomez,52.0,M,Callao,Pediatria,invalid,168.24
+P914,Pedro Lopez,76.0,F,Surco,Pediatria,2024-08-18,245.73
+P099,Sofia Torres,20.0,F,Callao,Pediatria,2024-02-02,158.54
+P699,Ana Perez,29.0,F,Surco,Dermatologia,2024-05-15,
+P345,Laura Perez,98.0,F,Lima,Cardiologia,2024-07-11,
+P413,Maria Perez,4.0,M,,Odontologia,2024-04-25,387.11
+P848,Maria Lopez,23.0,F,Miraflores,Cardiologia,2024-01-08,339.11
+P226,Juan Gomez,66.0,M,Miraflores,Cardiologia,2024-12-14,50.93
+P563,Luis Torres,74.0,F,Lima,Dermatologia,2024-04-23,94.46
+P684,Juan Lopez,,M,Miraflores,Dermatologia,2024-03-15,425.13
+P703,Maria Rodriguez,59.0,F,Callao,Odontologia,2024-09-07,63.81
+P118,Sofia Lopez,36.0,F,Miraflores,Pediatria,2024-10-09,218.05
+P115,Ana Rodriguez,16.0,F,Callao,General,2024-09-04,437.4
+P933,Maria Martinez,28.0,F,,Pediatria,2024-06-24,54.59
+P808,Luis Lopez,49.0,M,Miraflores,Pediatria,2024-08-23,122.41
+P198,Ana Lopez,98.0,M,Surco,Odontologia,2024-04-03,337.27
+P046,Sofia Torres,46.0,F,Miraflores,Odontologia,2024-02-23,282.61
+P003,Carlos Martinez,99.0,M,Surco,Pediatria,2024-02-01,241.32
+P677,Sofia Rodriguez,75.0,F,San Isidro,Dermatologia,invalid,263.36
+P894,Juan Gomez,28.0,M,Lima,Dermatologia,2024-03-02,90.03
+P071,Luis Rodriguez,51.0,F,Callao,Pediatria,2024-03-27,349.04
+P866,Juan Gomez,99.0,F,Surco,Odontologia,2024-07-17,448.25
+P752,Carlos Martinez,61.0,F,,Cardiologia,2024-08-27,226.07
+P772,Laura Perez,3.0,M,Callao,Cardiologia,2024-09-15,449.84
+P109,Maria Perez,90.0,F,Surco,Dermatologia,2024-07-17,479.58
+P995,Sofia Lopez,17.0,M,Surco,Dermatologia,invalid,433.2
+P182,Luis Lopez,54.0,F,,Dermatologia,invalid,477.28
+P885,Maria Martinez,32.0,M,Callao,Cardiologia,2024-08-10,257.28
+P654,Juan Rodriguez,95.0,F,Miraflores,Pediatria,2024-09-08,370.04
+P980,Ana Lopez,31.0,F,,Cardiologia,2024-02-12,425.75
+P568,Luis Gomez,100.0,F,Callao,Odontologia,2024-06-12,426.04
+P384,Maria Perez,7.0,M,,Cardiologia,2024-12-29,148.45
+P669,Carlos Rodriguez,74.0,M,Lima,Odontologia,2024-11-28,392.91
+P420,Juan Gomez,44.0,M,San Isidro,General,2024-08-21,276.82
+P502,Juan Torres,25.0,M,,Pediatria,2024-05-11,121.45
+P151,Maria Lopez,72.0,M,,General,2024-05-13,143.07
+P759,Luis Rodriguez,71.0,F,,Cardiologia,2024-06-02,201.68
+P998,Laura Martinez,59.0,F,Miraflores,Dermatologia,2024-04-30,134.71
+P286,Ana Rodriguez,67.0,F,Lima,Odontologia,2024-01-15,409.42
+P647,Sofia Gomez,17.0,F,San Isidro,Pediatria,2024-07-02,485.29
+P626,Maria Rodriguez,23.0,F,Lima,Cardiologia,2024-05-01,161.66
+P272,Sofia Gomez,62.0,M,Miraflores,General,invalid,367.22
+P182,Ana Torres,70.0,M,Callao,Pediatria,2024-11-29,265.55
+P153,Juan Torres,81.0,F,Callao,Pediatria,invalid,445.43
+P767,Juan Martinez,13.0,M,Callao,Dermatologia,2024-06-18,310.75
+P950,Laura Martinez,11.0,F,Callao,Odontologia,2024-08-04,177.24
+P526,Maria Martinez,40.0,M,San Isidro,Cardiologia,2024-01-20,425.44
+P146,Ana Perez,92.0,F,,Odontologia,2024-04-23,128.48
+P719,Laura Martinez,23.0,M,Lima,Cardiologia,2024-08-09,301.21
+P537,Ana Rodriguez,42.0,F,,Odontologia,2024-08-25,154.25
+P201,Laura Lopez,4.0,M,Surco,Pediatria,2024-03-21,256.48
+P553,Ana Gomez,97.0,F,,Pediatria,2024-11-19,175.94
+P419,Ana Perez,77.0,F,Surco,Pediatria,2024-11-28,152.62
+P699,Maria Rodriguez,1.0,M,,Odontologia,invalid,274.34
+P758,Carlos Perez,70.0,M,Lima,Dermatologia,invalid,331.36
+P495,Laura Perez,33.0,M,Miraflores,Cardiologia,2024-11-25,419.83
+P999,Ana Perez,71.0,F,Callao,Odontologia,2024-02-17,
+P600,Ana Perez,,F,Miraflores,Dermatologia,2024-10-04,470.2
+P959,Carlos Lopez,33.0,F,Miraflores,Cardiologia,2024-11-21,206.63
+P587,Maria Gomez,51.0,F,Lima,General,2024-08-11,135.45
+P009,Ana Perez,2.0,M,Surco,Pediatria,2024-09-07,395.79
+P155,Pedro Perez,8.0,M,,Dermatologia,2024-11-20,60.74
+P077,Ana Torres,47.0,F,,Cardiologia,2024-03-30,477.31
+P051,Ana Torres,23.0,M,Lima,Odontologia,2024-01-14,197.87
+P975,Ana Gomez,16.0,F,Callao,Odontologia,2024-08-22,329.01
+P767,Laura Gomez,47.0,F,,Odontologia,invalid,385.81
+P283,Sofia Torres,7.0,F,Callao,General,2024-02-07,92.03
+P203,Pedro Lopez,17.0,M,San Isidro,Cardiologia,2024-02-29,363.59
+P847,Laura Perez,68.0,M,Miraflores,Cardiologia,2024-06-18,71.09
+P655,Ana Torres,64.0,M,San Isidro,General,2024-06-02,
+P079,Ana Martinez,38.0,M,Miraflores,Odontologia,2024-11-10,193.3
+P984,Juan Lopez,12.0,M,Callao,Cardiologia,2024-04-12,170.48
+P133,Luis Gomez,77.0,M,Callao,Odontologia,2024-07-17,280.39
+P941,Maria Rodriguez,35.0,M,San Isidro,General,2024-02-14,144.23
+P527,Ana Martinez,54.0,F,Callao,Pediatria,2024-05-22,
+P948,Juan Martinez,61.0,M,Surco,Cardiologia,2024-09-20,389.71
+P875,Maria Lopez,26.0,M,Surco,Dermatologia,2024-11-20,135.98
+P377,Juan Martinez,40.0,F,Surco,General,2024-12-25,295.2
+P687,Ana Lopez,5.0,F,Surco,General,2024-04-10,
+P011,Pedro Perez,94.0,M,Lima,Cardiologia,invalid,264.37
+P894,Juan Gomez,34.0,M,,General,2024-07-24,190.93
+P061,Juan Rodriguez,67.0,F,Surco,Cardiologia,2024-01-05,195.94
+P570,Luis Gomez,81.0,M,Lima,General,2024-10-29,374.47
+P838,Maria Lopez,72.0,M,Callao,Pediatria,2024-05-25,66.13
+P480,Laura Lopez,67.0,M,Surco,Cardiologia,2024-08-28,70.61
+P587,Sofia Perez,25.0,F,San Isidro,Cardiologia,2024-07-07,52.2
+P129,Laura Martinez,92.0,F,,Dermatologia,2024-02-04,136.11
+P892,Laura Gomez,,M,Callao,General,2024-01-15,275.04
+P387,Sofia Perez,53.0,M,Callao,General,2024-08-14,203.77
+P075,Luis Gomez,39.0,F,San Isidro,Cardiologia,2024-06-01,455.49
+P194,Carlos Martinez,31.0,M,Miraflores,Odontologia,2024-03-30,85.81
+P949,Pedro Lopez,86.0,F,San Isidro,Cardiologia,2024-12-26,270.14
+P500,Luis Martinez,97.0,F,Callao,Cardiologia,2024-02-20,430.89
+P161,Juan Gomez,49.0,M,,Pediatria,2024-01-17,331.8
+P963,Pedro Lopez,78.0,F,,Pediatria,2024-07-31,491.07
+P093,Laura Gomez,57.0,F,Callao,Dermatologia,2024-10-17,57.58
+P777,Juan Torres,37.0,M,Callao,Pediatria,2024-07-22,235.52
+P688,Luis Gomez,54.0,M,San Isidro,Pediatria,2024-06-04,427.87
+P404,Carlos Torres,68.0,F,Miraflores,Pediatria,2024-08-20,373.97
+P378,Carlos Perez,35.0,F,,Pediatria,2024-04-30,103.94
+P328,Juan Lopez,66.0,F,Surco,Pediatria,2024-09-06,156.56
+P495,Sofia Perez,48.0,M,Lima,Pediatria,2024-12-01,240.96
+P582,Sofia Lopez,72.0,F,Surco,Odontologia,2024-04-12,319.93
+P953,Laura Perez,,F,Callao,Dermatologia,2024-07-11,165.18
+P364,Laura Lopez,80.0,M,Surco,Dermatologia,2024-01-23,142.48
+P282,Juan Torres,55.0,M,Surco,Dermatologia,2024-05-23,152.95
+P150,Ana Gomez,70.0,F,Callao,General,invalid,417.22
+P836,Maria Torres,32.0,M,San Isidro,Odontologia,2024-12-18,171.49
+P918,Maria Lopez,55.0,M,,Cardiologia,2024-05-23,
+P612,Luis Perez,86.0,F,Callao,Dermatologia,2024-08-10,175.75
+P527,Pedro Lopez,91.0,M,Lima,Dermatologia,2024-07-16,350.25
+P229,Laura Torres,11.0,F,Callao,Pediatria,2024-11-15,84.22
+P044,Pedro Rodriguez,80.0,F,San Isidro,General,2024-08-17,398.12
+P919,Maria Lopez,97.0,M,Callao,General,2024-08-10,124.66
+P242,Juan Perez,96.0,M,Callao,Dermatologia,2024-12-02,342.57
+P564,Maria Martinez,33.0,M,Callao,Pediatria,2024-02-07,290.81
+P665,Maria Perez,54.0,M,Callao,Odontologia,2024-01-09,100.37
+P995,Sofia Torres,75.0,F,Miraflores,Odontologia,2024-12-08,456.68
+P453,Ana Perez,4.0,F,,Dermatologia,2024-12-14,237.08
+P718,Sofia Lopez,2.0,M,,Dermatologia,2024-06-09,163.04
+P866,Luis Perez,5.0,F,Callao,Cardiologia,2024-03-03,265.25
+P037,Maria Rodriguez,37.0,M,Lima,Odontologia,2024-11-14,177.4
+P012,Carlos Torres,20.0,M,,General,2024-11-29,
+P068,Luis Martinez,18.0,F,,Odontologia,2024-12-07,193.42
+P574,Juan Perez,56.0,F,Surco,Odontologia,2024-05-30,176.6
+P990,Laura Lopez,,M,Lima,Odontologia,invalid,
+P151,Juan Perez,32.0,F,,Cardiologia,2024-05-16,393.74
+P804,Sofia Lopez,,F,San Isidro,Pediatria,invalid,131.51
+P250,Maria Lopez,36.0,F,Lima,Cardiologia,2024-10-07,
+P765,Juan Gomez,58.0,F,Lima,General,2024-07-21,183.51
+P293,Maria Martinez,24.0,M,Lima,Dermatologia,2024-04-27,395.58
+P224,Juan Martinez,74.0,M,Surco,Odontologia,2024-05-28,405.24
+P176,Ana Gomez,33.0,M,Callao,Odontologia,2024-07-03,106.14
+P600,Pedro Torres,57.0,F,Lima,Cardiologia,2024-07-16,299.78
+P730,Laura Perez,12.0,F,,Pediatria,2024-03-16,419.03
+P794,Sofia Martinez,74.0,F,,Dermatologia,invalid,477.62
+P668,Sofia Gomez,94.0,M,Miraflores,Dermatologia,2024-02-25,115.43
+P655,Luis Torres,22.0,F,Surco,Pediatria,2024-09-06,130.63
+P731,Maria Rodriguez,66.0,F,,Odontologia,2024-10-15,386.23
+P338,Ana Martinez,16.0,M,Callao,Cardiologia,invalid,278.59
+P029,Carlos Gomez,73.0,M,Lima,Odontologia,2024-07-11,452.8
+P694,Maria Perez,84.0,M,Surco,General,2024-01-01,399.73
+P497,Juan Perez,8.0,F,,Cardiologia,2024-03-21,452.35
+P470,Ana Gomez,52.0,F,,Cardiologia,2024-06-21,310.57
+P322,Sofia Torres,92.0,M,,Dermatologia,2024-06-14,53.0
+P154,Ana Lopez,72.0,M,Surco,Odontologia,invalid,132.8
+P026,Laura Rodriguez,2.0,F,San Isidro,General,2024-08-05,100.06
+P789,Sofia Perez,55.0,M,San Isidro,Cardiologia,2024-02-25,264.85
+P196,Maria Rodriguez,28.0,F,San Isidro,Cardiologia,2024-07-05,90.1
+P697,Ana Torres,64.0,F,,General,2024-06-25,351.76
+P975,Maria Rodriguez,26.0,F,Surco,Pediatria,2024-11-15,499.0
+P765,Juan Torres,88.0,F,Callao,Dermatologia,2024-10-11,459.02
+P886,Juan Rodriguez,39.0,F,Lima,Dermatologia,2024-04-26,152.9
+P293,Carlos Torres,60.0,M,San Isidro,General,2024-07-03,167.38
+P349,Luis Martinez,97.0,M,Callao,Odontologia,2024-03-18,92.24
+P248,Luis Lopez,94.0,F,Surco,General,2024-04-24,393.24
+P308,Luis Rodriguez,50.0,M,Surco,Cardiologia,2024-05-31,234.31
+P491,Sofia Torres,18.0,M,Surco,Cardiologia,2024-12-14,295.74
+P016,Luis Torres,91.0,F,Lima,Pediatria,2024-06-03,494.9
+P916,Luis Lopez,34.0,M,Miraflores,Cardiologia,2024-09-10,145.52
+P556,Laura Rodriguez,39.0,F,Callao,Dermatologia,2024-03-22,481.91
+P223,Pedro Lopez,,F,Miraflores,Dermatologia,2024-05-23,50.18
+P551,Maria Torres,51.0,F,San Isidro,Odontologia,2024-07-14,264.89
+P397,Sofia Lopez,20.0,M,Miraflores,Odontologia,2024-06-28,476.85
+P837,Laura Rodriguez,28.0,F,Surco,Odontologia,2024-01-08,102.48
+P381,Luis Perez,96.0,M,Surco,Pediatria,invalid,212.84
+P309,Laura Gomez,52.0,M,Callao,Cardiologia,2024-08-05,244.27
+P146,Ana Lopez,60.0,M,San Isidro,Cardiologia,2024-12-02,275.92
+P548,Maria Rodriguez,,M,Lima,General,2024-11-18,207.32
+P733,Maria Rodriguez,67.0,M,San Isidro,General,2024-11-20,63.26
+P011,Pedro Martinez,79.0,M,Miraflores,Odontologia,2024-01-27,385.86
+P063,Pedro Martinez,57.0,M,Miraflores,Pediatria,2024-03-03,398.01
+P184,Carlos Martinez,34.0,F,,Cardiologia,2024-04-23,
+P407,Luis Lopez,1.0,F,San Isidro,Odontologia,2024-04-01,286.89
+P207,Carlos Perez,36.0,F,Miraflores,Pediatria,2024-04-28,250.85
+P788,Carlos Torres,91.0,F,,General,2024-05-12,306.36
+P599,Luis Lopez,77.0,M,Miraflores,Cardiologia,2024-03-29,437.26
+P811,Maria Perez,74.0,F,Miraflores,General,2024-10-17,420.07
+P005,Sofia Torres,10.0,F,Miraflores,Odontologia,2024-03-14,379.95
+P366,Ana Martinez,6.0,F,Callao,Odontologia,2024-01-23,444.02
+P959,Luis Gomez,6.0,M,Miraflores,Cardiologia,2024-04-17,138.38
+P988,Laura Torres,89.0,M,Surco,Pediatria,2024-01-29,233.74
+P191,Juan Martinez,30.0,F,,Dermatologia,2024-05-26,243.41
+P798,Sofia Rodriguez,42.0,M,Callao,General,2024-05-06,259.22
+P833,Ana Perez,35.0,F,,General,2024-03-27,207.32
+P138,Ana Gomez,53.0,F,Surco,Cardiologia,2024-05-05,294.19
+P836,Maria Torres,58.0,M,Miraflores,General,2024-02-27,198.67
+P875,Luis Perez,43.0,F,Surco,Odontologia,2024-10-14,211.45
+P566,Sofia Perez,62.0,M,Miraflores,Dermatologia,2024-11-13,
+P277,Carlos Lopez,,F,Surco,Odontologia,2024-07-17,
+P988,Pedro Lopez,36.0,F,Miraflores,General,2024-03-27,447.91
+P960,Sofia Lopez,96.0,F,San Isidro,General,2024-04-03,319.6
+P609,Ana Lopez,76.0,M,,Pediatria,2024-12-28,394.19
+P031,Laura Gomez,98.0,F,San Isidro,Odontologia,invalid,498.89
+P648,Laura Perez,97.0,M,,Cardiologia,2024-08-25,
+P798,Juan Perez,22.0,F,San Isidro,Pediatria,2024-08-18,277.73
+P006,Carlos Martinez,4.0,F,Lima,Odontologia,2024-08-27,418.06
+P826,Pedro Perez,67.0,F,Callao,Pediatria,2024-06-25,251.79
+P845,Sofia Torres,63.0,F,Surco,Pediatria,2024-01-05,
+P122,Laura Torres,76.0,M,Surco,General,invalid,
+P988,Sofia Martinez,12.0,F,Surco,General,2024-05-25,261.08
+P118,Juan Torres,20.0,F,,Odontologia,2024-11-25,412.14
+P304,Ana Torres,28.0,F,Lima,General,2024-03-13,316.53
+P357,Juan Lopez,21.0,F,Lima,General,2024-11-15,59.41
+P436,Sofia Torres,97.0,F,San Isidro,Odontologia,2024-12-29,143.34
+P857,Ana Torres,45.0,M,Surco,Cardiologia,2024-12-21,420.31
+P442,Carlos Torres,45.0,F,Surco,Pediatria,2024-01-05,259.63
+P271,Carlos Rodriguez,58.0,M,San Isidro,General,2024-09-29,239.93
+P517,Carlos Martinez,17.0,M,Surco,Cardiologia,2024-01-12,
+P590,Sofia Lopez,83.0,M,,Cardiologia,2024-08-06,341.01
+P817,Juan Torres,67.0,M,Lima,Pediatria,2024-11-19,485.79
+P638,Ana Gomez,61.0,F,Lima,Pediatria,invalid,298.03
+P180,Juan Rodriguez,80.0,F,Surco,Odontologia,2024-09-19,349.07
+P340,Luis Perez,70.0,F,,Cardiologia,2024-08-25,217.41
+P495,Luis Martinez,100.0,M,Callao,Pediatria,2024-10-03,311.62
+P608,Laura Torres,14.0,F,Callao,Cardiologia,2024-09-09,180.9
+P098,Laura Martinez,61.0,F,,Pediatria,2024-09-04,162.7
+P421,Juan Torres,18.0,F,Lima,Pediatria,2024-02-23,180.7
+P630,Ana Torres,96.0,M,Callao,General,2024-08-07,331.43
+P533,Carlos Rodriguez,24.0,M,Surco,Odontologia,2024-03-02,145.31
+P534,Maria Perez,26.0,F,,Odontologia,2024-07-29,235.98
+P038,Sofia Martinez,65.0,M,San Isidro,Odontologia,2024-08-13,159.67
+P019,Juan Gomez,50.0,F,San Isidro,Odontologia,2024-09-21,253.65
+P069,Carlos Gomez,98.0,F,Miraflores,Cardiologia,invalid,308.29
+P285,Ana Torres,46.0,F,Lima,Dermatologia,2024-02-03,187.73
+P478,Laura Martinez,11.0,F,,Pediatria,2024-12-09,316.46
+P045,Laura Gomez,47.0,M,Callao,Odontologia,2024-06-09,468.82
+P289,Pedro Lopez,57.0,M,Surco,Odontologia,invalid,136.29
+P974,Maria Rodriguez,60.0,M,Callao,General,2024-03-25,431.81
+P223,Carlos Rodriguez,,F,Lima,Cardiologia,2024-02-14,384.76
+P023,Luis Gomez,,F,Callao,Cardiologia,2024-02-20,
+P627,Pedro Lopez,66.0,M,Callao,Cardiologia,invalid,161.9
+P737,Maria Martinez,39.0,M,San Isidro,Odontologia,2024-05-26,344.22
+P050,Ana Martinez,82.0,M,San Isidro,Pediatria,2024-12-26,442.07
+P416,Luis Gomez,28.0,F,Surco,General,2024-08-16,167.15
+P113,Juan Martinez,91.0,M,Surco,Cardiologia,2024-06-10,415.84
+P909,Maria Martinez,83.0,F,Callao,Cardiologia,2024-12-04,
+P909,Sofia Torres,71.0,F,,General,2024-12-28,467.36
+P471,Pedro Martinez,66.0,F,Callao,General,2024-09-27,187.33
+P230,Carlos Lopez,24.0,M,,Dermatologia,2024-01-29,144.07
+P155,Laura Perez,86.0,F,Lima,Pediatria,2024-10-24,
+P449,Maria Torres,77.0,F,San Isidro,General,invalid,476.07
+P775,Maria Gomez,23.0,M,Callao,Odontologia,2024-05-09,332.29
+P065,Carlos Rodriguez,80.0,M,Miraflores,Cardiologia,invalid,
+P316,Luis Torres,19.0,F,Callao,General,2024-06-22,296.26
+P171,Carlos Gomez,36.0,F,Surco,Pediatria,2024-09-01,
+P082,Carlos Gomez,82.0,M,Miraflores,General,invalid,367.74
+P688,Maria Martinez,32.0,M,San Isidro,Odontologia,2024-02-07,
+P537,Carlos Gomez,50.0,F,Surco,Pediatria,2024-03-07,75.29
+P360,Juan Rodriguez,87.0,M,,Pediatria,2024-02-08,416.72
+P557,Luis Torres,63.0,M,Lima,Dermatologia,2024-11-08,498.71
+P791,Laura Perez,45.0,F,Lima,Pediatria,2024-02-26,279.09
+P219,Ana Rodriguez,41.0,F,,Pediatria,2024-07-05,232.63
+P034,Maria Torres,73.0,M,Callao,Pediatria,invalid,458.21
+P925,Maria Perez,68.0,F,Callao,Pediatria,2024-02-03,290.71
+P002,Carlos Lopez,12.0,M,Miraflores,General,2024-02-17,197.01
+P030,Carlos Lopez,47.0,F,Surco,Odontologia,2024-12-21,81.29
+P389,Carlos Perez,92.0,F,Surco,Dermatologia,invalid,101.04
+P033,Juan Torres,49.0,M,Lima,Pediatria,invalid,55.47
+P291,Laura Perez,65.0,F,Lima,Odontologia,2024-08-06,358.85
+P470,Laura Torres,52.0,F,Callao,Cardiologia,2024-04-17,462.7
+P603,Maria Torres,91.0,M,Callao,Cardiologia,2024-03-25,434.82
+P309,Carlos Lopez,24.0,M,Lima,Odontologia,2024-11-06,71.15
+P899,Ana Rodriguez,,F,Callao,Dermatologia,2024-10-12,301.37
+P354,Juan Gomez,67.0,F,Miraflores,General,2024-06-01,50.13
+P528,Juan Perez,95.0,F,Lima,General,2024-08-11,360.91
+P242,Luis Perez,24.0,M,,Cardiologia,2024-11-01,229.69
+P401,Maria Gomez,58.0,M,Miraflores,Pediatria,2024-07-22,203.61
+P238,Sofia Rodriguez,12.0,F,,Pediatria,2024-03-30,264.02
+P332,Laura Gomez,53.0,F,San Isidro,Cardiologia,2024-08-12,464.08
+P082,Ana Perez,75.0,F,Miraflores,Cardiologia,2024-11-14,492.05
+P064,Luis Torres,15.0,M,Callao,Pediatria,2024-12-13,368.07
+P309,Laura Perez,46.0,M,Surco,Odontologia,2024-05-16,318.0
+P289,Pedro Rodriguez,17.0,M,San Isidro,Odontologia,2024-06-24,426.16
+P917,Pedro Lopez,2.0,M,Lima,General,2024-05-23,87.45
+P628,Pedro Lopez,67.0,F,Miraflores,Odontologia,2024-10-21,457.03
+P679,Maria Lopez,27.0,M,,Cardiologia,2024-05-28,
+P219,Juan Perez,,M,San Isidro,Odontologia,2024-01-14,75.52
+P558,Sofia Gomez,93.0,M,Surco,Pediatria,2024-08-17,373.11
+P070,Maria Martinez,,M,Lima,Cardiologia,2024-12-11,234.12
+P160,Pedro Lopez,74.0,M,Lima,Odontologia,invalid,249.14
+P047,Carlos Torres,95.0,M,San Isidro,Cardiologia,2024-01-22,394.65
+P099,Carlos Gomez,30.0,M,Miraflores,Pediatria,2024-03-03,423.78
+P205,Pedro Perez,26.0,M,San Isidro,General,2024-08-24,434.27
+P836,Sofia Perez,30.0,F,Callao,Pediatria,2024-10-08,301.71
+P558,Carlos Gomez,41.0,F,San Isidro,Dermatologia,2024-09-04,368.0
+P240,Juan Gomez,96.0,M,Miraflores,Pediatria,2024-07-26,287.65
+P704,Laura Martinez,62.0,F,Miraflores,General,2024-09-24,397.01
+P937,Luis Torres,13.0,M,,Pediatria,2024-01-19,146.67
+P886,Sofia Perez,14.0,M,Miraflores,Cardiologia,invalid,471.49
+P360,Sofia Torres,56.0,F,Lima,General,2024-08-17,235.18
+P092,Pedro Perez,48.0,F,,General,2024-02-16,70.4
+P099,Juan Lopez,6.0,F,Miraflores,Pediatria,2024-03-13,347.41
+P110,Pedro Rodriguez,30.0,M,Callao,Dermatologia,2024-08-11,393.41
+P043,Juan Gomez,23.0,F,Miraflores,Dermatologia,2024-02-14,377.82
+P774,Laura Perez,20.0,M,,Pediatria,2024-07-02,469.03
+P075,Luis Rodriguez,96.0,F,San Isidro,General,2024-03-30,118.85
+P861,Maria Perez,,F,Lima,Cardiologia,2024-06-25,
+P090,Carlos Gomez,23.0,F,Lima,Dermatologia,2024-12-05,311.19
+P150,Luis Gomez,7.0,M,,Odontologia,2024-06-03,87.26
+P367,Pedro Perez,47.0,M,San Isidro,Cardiologia,2024-06-11,61.32
+P490,Juan Lopez,35.0,F,Lima,Odontologia,2024-06-27,466.49
+P347,Luis Torres,81.0,M,Lima,Pediatria,2024-01-30,234.94
+P011,Ana Gomez,91.0,M,Callao,General,2024-11-04,165.21
+P642,Maria Rodriguez,43.0,M,Miraflores,General,2024-04-07,459.48
+P758,Laura Gomez,88.0,M,,Cardiologia,2024-09-22,447.65
+P914,Juan Lopez,6.0,M,San Isidro,Pediatria,2024-03-18,251.17
+P631,Laura Lopez,78.0,F,Miraflores,Cardiologia,2024-02-27,313.95
+P986,Laura Torres,25.0,F,Surco,General,2024-06-12,306.88
+P969,Luis Rodriguez,66.0,F,,General,invalid,252.09
+P503,Sofia Gomez,86.0,M,San Isidro,Odontologia,2024-02-15,271.8
+P438,Juan Perez,63.0,F,Lima,Dermatologia,2024-08-09,116.41
+P720,Maria Lopez,22.0,F,Miraflores,General,2024-06-13,423.36
+P602,Luis Perez,6.0,M,Miraflores,Dermatologia,invalid,175.54
+P972,Carlos Gomez,37.0,F,Lima,General,2024-05-12,312.56
+P221,Sofia Martinez,47.0,F,,Dermatologia,2024-06-23,92.13
+P292,Luis Lopez,23.0,M,Miraflores,General,2024-04-27,84.02
+P855,Juan Martinez,6.0,F,Lima,Dermatologia,2024-11-10,456.02
+P388,Pedro Gomez,80.0,M,Callao,Dermatologia,2024-10-25,376.34
+P679,Laura Gomez,5.0,M,Callao,Cardiologia,2024-07-20,372.17
+P978,Pedro Rodriguez,70.0,M,Miraflores,General,2024-04-04,129.43
+P551,Juan Gomez,77.0,M,Lima,General,2024-05-14,
+P103,Juan Gomez,7.0,F,,Dermatologia,2024-09-16,218.9
+P656,Pedro Torres,41.0,F,Lima,Pediatria,2024-08-23,81.9
+P015,Carlos Gomez,70.0,M,Miraflores,Cardiologia,2024-03-15,241.36
+P498,Pedro Torres,9.0,F,,Dermatologia,2024-07-31,100.31
+P081,Pedro Perez,19.0,F,Miraflores,Pediatria,2024-05-11,378.56
+P299,Juan Torres,81.0,M,San Isidro,Cardiologia,2024-11-06,
+P774,Maria Martinez,6.0,F,Callao,Pediatria,invalid,90.09
+P416,Carlos Martinez,35.0,M,Miraflores,Dermatologia,2024-02-12,
+P333,Laura Perez,32.0,F,,Cardiologia,2024-10-20,132.96
+P418,Juan Perez,89.0,M,,Dermatologia,2024-11-30,324.16
+P831,Juan Rodriguez,96.0,F,Miraflores,Pediatria,2024-03-06,408.63
+P381,Maria Torres,100.0,M,Callao,Cardiologia,2024-01-05,499.36
+P287,Luis Rodriguez,27.0,F,Lima,General,2024-03-18,192.66
+P281,Sofia Perez,,F,Miraflores,General,2024-05-17,230.23
+P026,Ana Lopez,19.0,F,,Odontologia,2024-01-18,348.89
+P933,Pedro Perez,60.0,M,San Isidro,Pediatria,invalid,198.89
+P650,Maria Gomez,32.0,F,,Pediatria,invalid,218.51
+P016,Juan Torres,1.0,F,Callao,Odontologia,2024-12-09,63.04
+P978,Juan Torres,99.0,M,Lima,Odontologia,2024-12-12,478.13
+P894,Sofia Rodriguez,13.0,M,Callao,General,2024-10-18,350.18
+P669,Laura Torres,73.0,F,Surco,General,2024-07-03,157.16
+P301,Pedro Gomez,,F,San Isidro,Cardiologia,invalid,191.2
+P157,Ana Rodriguez,6.0,F,San Isidro,Dermatologia,invalid,198.74
+P743,Pedro Rodriguez,97.0,M,Miraflores,Odontologia,2024-12-03,362.7
+P399,Pedro Rodriguez,67.0,F,,General,2024-04-20,328.29
+P341,Ana Gomez,49.0,M,San Isidro,Cardiologia,2024-05-07,75.5
+P360,Carlos Lopez,26.0,M,Miraflores,Dermatologia,2024-02-21,438.26
+P266,Maria Rodriguez,50.0,F,Callao,Odontologia,2024-02-15,51.9
+P961,Luis Perez,55.0,F,Miraflores,Odontologia,2024-07-14,99.86
+P890,Sofia Lopez,70.0,M,,General,2024-08-29,411.67
+P234,Maria Rodriguez,50.0,M,,General,2024-08-29,473.91
+P758,Laura Torres,80.0,M,,Cardiologia,2024-10-24,198.31
+P835,Maria Torres,87.0,M,Surco,Cardiologia,2024-05-06,74.07
+P908,Pedro Torres,48.0,F,San Isidro,General,2024-08-13,467.28
+P577,Juan Torres,64.0,M,Miraflores,Odontologia,2024-09-18,299.12
+P893,Sofia Rodriguez,,F,Surco,Cardiologia,2024-09-19,260.7
+P849,Sofia Lopez,65.0,M,Callao,Odontologia,2024-05-29,295.79
+P521,Pedro Torres,71.0,M,Surco,Odontologia,invalid,
+P298,Juan Torres,47.0,F,Surco,Odontologia,invalid,98.16
+P072,Carlos Gomez,51.0,M,Callao,Dermatologia,2024-01-08,453.98
+P127,Laura Perez,12.0,M,Lima,Cardiologia,2024-12-18,141.79
+P046,Pedro Torres,90.0,M,Callao,Odontologia,2024-11-07,357.01
+P015,Maria Gomez,5.0,M,,Cardiologia,2024-10-15,267.29
+P600,Ana Rodriguez,16.0,F,Miraflores,Pediatria,2024-06-12,98.04
+P673,Carlos Martinez,32.0,M,San Isidro,Cardiologia,2024-01-10,161.38
+P126,Pedro Perez,30.0,M,Miraflores,Cardiologia,2024-05-30,268.17
+P713,Juan Perez,67.0,M,Surco,Pediatria,2024-05-15,431.16
+P146,Sofia Perez,93.0,F,San Isidro,Cardiologia,2024-03-19,71.93
+P108,Juan Lopez,10.0,M,Miraflores,Cardiologia,2024-12-17,60.68
+P487,Maria Rodriguez,48.0,M,Callao,Pediatria,2024-08-13,463.11
+P033,Ana Martinez,20.0,F,San Isidro,Cardiologia,2024-11-30,78.43
+P044,Pedro Torres,98.0,M,Callao,Pediatria,2024-03-30,102.22
+P555,Carlos Lopez,100.0,F,Lima,Odontologia,2024-03-27,
+P674,Laura Rodriguez,95.0,M,,Cardiologia,2024-03-08,59.88
+P751,Juan Rodriguez,13.0,M,Lima,General,2024-03-05,290.66
+P533,Ana Perez,86.0,F,Surco,Cardiologia,2024-04-17,89.63
+P048,Sofia Rodriguez,95.0,F,Surco,General,2024-08-26,399.35
+P637,Luis Perez,,F,Lima,Cardiologia,2024-05-21,429.13
+P534,Sofia Perez,2.0,F,Lima,Odontologia,2024-12-03,189.23
+P404,Sofia Rodriguez,63.0,F,,Odontologia,2024-03-21,306.83
+P720,Carlos Perez,79.0,F,Callao,Dermatologia,2024-11-14,
+P796,Ana Rodriguez,74.0,F,Callao,General,2024-06-16,424.64
+P970,Laura Martinez,64.0,M,,Cardiologia,2024-05-25,148.56
+P624,Juan Martinez,12.0,M,Callao,Cardiologia,2024-09-11,177.26
+P536,Pedro Lopez,51.0,M,Lima,General,2024-01-15,379.48
+P052,Carlos Gomez,10.0,F,Callao,Cardiologia,2024-05-20,110.91
+P825,Sofia Lopez,48.0,F,Miraflores,Pediatria,2024-06-01,491.37
+P470,Ana Lopez,12.0,M,San Isidro,Odontologia,2024-02-28,138.28
+P446,Pedro Martinez,65.0,F,,Dermatologia,2024-07-28,192.88
+P362,Juan Lopez,19.0,M,San Isidro,Cardiologia,2024-03-01,402.89
+P593,Juan Rodriguez,50.0,F,Surco,Pediatria,2024-11-18,140.57
+P071,Laura Torres,89.0,F,Miraflores,Pediatria,2024-09-14,353.95
+P330,Sofia Torres,92.0,M,Callao,Pediatria,2024-06-05,385.39
+P738,Maria Gomez,42.0,F,Callao,General,2024-08-14,110.07
+P403,Carlos Martinez,93.0,F,,General,2024-10-15,307.38
+P783,Laura Torres,10.0,M,Surco,Dermatologia,2024-07-03,211.94
+P960,Ana Perez,66.0,F,Lima,General,2024-06-19,291.41
+P006,Sofia Lopez,98.0,M,Callao,General,2024-01-13,257.0
+P266,Maria Rodriguez,87.0,M,Surco,Cardiologia,2024-09-18,
+P210,Laura Martinez,97.0,M,Lima,Dermatologia,2024-04-26,321.9
+P904,Juan Torres,70.0,F,Miraflores,Dermatologia,2024-10-16,449.68
+P785,Pedro Torres,19.0,F,Callao,Odontologia,2024-11-04,143.96
+P183,Carlos Rodriguez,92.0,M,San Isidro,Odontologia,invalid,61.59
+P780,Maria Lopez,52.0,F,Callao,Cardiologia,2024-08-06,100.21
+P732,Maria Torres,25.0,F,Miraflores,Pediatria,2024-08-20,
+P173,Sofia Gomez,51.0,M,,Dermatologia,2024-01-30,345.31
+P727,Laura Rodriguez,,M,San Isidro,General,invalid,148.14
+P519,Laura Perez,34.0,M,Lima,General,2024-10-04,454.77
+P849,Sofia Perez,5.0,M,,Dermatologia,2024-04-05,227.63
+P697,Sofia Rodriguez,49.0,M,,Pediatria,2024-01-21,60.16
+P880,Juan Gomez,29.0,M,,Dermatologia,2024-02-26,413.54
+P838,Pedro Martinez,7.0,F,Surco,Dermatologia,2024-08-22,260.17
+P924,Luis Perez,89.0,F,San Isidro,Cardiologia,2024-10-23,
+P338,Pedro Gomez,,M,San Isidro,Cardiologia,2024-06-10,486.24
+P199,Carlos Perez,,M,,Pediatria,invalid,79.23
+P446,Pedro Torres,61.0,M,Lima,Pediatria,2024-06-11,461.72
+P955,Carlos Torres,52.0,F,Callao,General,2024-03-14,349.39
+P583,Carlos Martinez,75.0,M,Miraflores,Odontologia,2024-08-20,85.69
+P686,Juan Rodriguez,74.0,M,Miraflores,Cardiologia,2024-12-09,187.94
+P026,Ana Gomez,99.0,F,Callao,Pediatria,invalid,171.89
+P039,Maria Torres,73.0,M,San Isidro,Odontologia,2024-09-01,89.38
+P225,Ana Gomez,87.0,M,Surco,Cardiologia,2024-10-06,455.64
+P936,Carlos Gomez,5.0,F,Lima,Pediatria,2024-01-10,353.78
+P430,Ana Torres,70.0,F,Surco,Odontologia,invalid,103.3
+P439,Ana Rodriguez,87.0,M,San Isidro,Dermatologia,2024-02-18,167.51
+P470,Pedro Gomez,80.0,M,San Isidro,Dermatologia,2024-07-06,377.27
+P362,Laura Perez,80.0,M,Lima,Dermatologia,2024-10-30,370.84
+P754,Laura Gomez,79.0,F,Callao,Dermatologia,2024-11-12,477.92
+P156,Pedro Gomez,84.0,M,Lima,Dermatologia,2024-01-11,166.12
+P006,Carlos Perez,87.0,F,Lima,Pediatria,invalid,189.61
+P633,Ana Rodriguez,52.0,F,Miraflores,Cardiologia,2024-08-25,112.35
+P970,Ana Rodriguez,6.0,M,Lima,Pediatria,2024-11-04,217.76
+P792,Juan Gomez,43.0,F,Lima,General,2024-01-13,328.68
+P692,Laura Perez,60.0,F,Miraflores,General,2024-12-17,250.39
+P496,Ana Lopez,1.0,M,Miraflores,Cardiologia,invalid,
+P187,Juan Perez,64.0,M,Miraflores,Dermatologia,2024-05-14,440.94
+P556,Maria Perez,58.0,F,Callao,Odontologia,2024-09-10,296.45
+P234,Laura Perez,12.0,F,Lima,General,2024-11-22,
+P800,Laura Lopez,40.0,F,Miraflores,General,invalid,462.44
+P139,Carlos Perez,13.0,F,Lima,Odontologia,invalid,495.2
+P669,Laura Martinez,44.0,F,San Isidro,Cardiologia,2024-03-06,372.69
+P872,Sofia Torres,70.0,M,Callao,General,2024-08-04,136.43
+P200,Sofia Martinez,52.0,F,Callao,Cardiologia,2024-02-17,188.06
+P199,Sofia Torres,74.0,M,,Cardiologia,2024-05-14,304.84
+P048,Ana Lopez,17.0,M,Surco,Odontologia,2024-09-04,323.63
+P058,Ana Martinez,19.0,F,Miraflores,Pediatria,2024-02-07,409.71
+P607,Carlos Lopez,13.0,F,Surco,Odontologia,2024-09-07,90.01
+P530,Carlos Lopez,73.0,M,Surco,Odontologia,2024-10-17,467.44
+P194,Sofia Rodriguez,94.0,F,San Isidro,General,2024-04-20,203.3
+P855,Luis Rodriguez,60.0,F,Miraflores,General,2024-08-23,291.34
+P233,Luis Lopez,38.0,M,Callao,Odontologia,2024-10-25,154.62
+P680,Maria Martinez,25.0,F,,General,2024-10-25,103.17
+P898,Sofia Rodriguez,44.0,F,Surco,Dermatologia,invalid,268.75
+P264,Juan Lopez,5.0,F,Lima,Dermatologia,2024-07-07,
+P519,Pedro Gomez,72.0,M,,Cardiologia,2024-05-08,223.49
+P516,Maria Martinez,7.0,F,San Isidro,General,2024-02-24,187.9
+P968,Juan Gomez,10.0,F,Miraflores,Odontologia,2024-06-17,409.24
+P763,Pedro Perez,45.0,M,San Isidro,Odontologia,2024-01-11,409.16
+P681,Sofia Gomez,69.0,F,Surco,Pediatria,2024-06-17,157.91
+P432,Luis Rodriguez,87.0,F,,Pediatria,2024-01-10,394.34
+P101,Laura Rodriguez,20.0,M,Surco,Odontologia,2024-11-06,443.11
+P685,Luis Lopez,95.0,M,Surco,Pediatria,2024-05-11,165.38
+P617,Sofia Perez,77.0,M,Miraflores,Dermatologia,2024-02-08,365.42
+P149,Carlos Lopez,30.0,F,Lima,Dermatologia,2024-10-11,195.12
+P112,Laura Lopez,23.0,F,Callao,Pediatria,2024-07-30,328.29
+P095,Sofia Martinez,13.0,F,San Isidro,Dermatologia,2024-01-25,78.4
+P166,Ana Torres,54.0,M,Lima,Dermatologia,2024-10-21,120.95
+P827,Pedro Martinez,38.0,F,San Isidro,Pediatria,2024-12-24,492.67
+P276,Ana Perez,15.0,M,San Isidro,Dermatologia,2024-01-25,
+P506,Carlos Torres,30.0,M,Surco,Cardiologia,2024-11-27,131.75
+P627,Carlos Torres,23.0,F,,Odontologia,2024-09-23,139.43
+P705,Maria Gomez,34.0,M,Surco,Dermatologia,2024-10-22,84.51
+P982,Sofia Gomez,75.0,M,Callao,Dermatologia,invalid,128.79
+P530,Sofia Rodriguez,57.0,M,Miraflores,Odontologia,2024-08-15,292.12
+P356,Carlos Perez,20.0,F,San Isidro,General,2024-03-16,232.88
+P450,Luis Lopez,20.0,F,,Pediatria,2024-03-04,104.92
+P043,Carlos Gomez,55.0,F,Miraflores,Cardiologia,2024-09-23,192.23
+P590,Juan Martinez,36.0,F,Callao,Cardiologia,2024-08-13,227.3
+P734,Juan Lopez,40.0,M,Surco,Cardiologia,2024-10-31,117.77
+P633,Carlos Perez,7.0,F,Surco,General,2024-08-03,317.38
+P497,Ana Torres,15.0,F,San Isidro,General,2024-05-07,63.29
+P515,Juan Perez,30.0,F,Callao,Cardiologia,2024-01-21,145.63
+P368,Laura Gomez,62.0,F,Surco,Odontologia,2024-07-20,451.86
+P429,Pedro Martinez,57.0,M,Miraflores,General,invalid,298.95
+P891,Luis Rodriguez,13.0,F,Lima,Cardiologia,2024-09-24,52.43
+P058,Carlos Gomez,45.0,M,Callao,General,2024-08-02,364.65
+P190,Juan Lopez,72.0,M,Lima,Odontologia,2024-12-16,429.43
+P983,Sofia Martinez,83.0,F,Miraflores,Cardiologia,2024-09-05,97.12
+P988,Sofia Martinez,100.0,M,Lima,General,2024-02-18,335.51
+P607,Luis Gomez,28.0,M,Miraflores,Pediatria,2024-06-12,467.44
+P326,Pedro Gomez,33.0,M,Surco,Pediatria,invalid,467.81
+P156,Luis Torres,9.0,F,San Isidro,General,2024-10-04,460.43
+P089,Juan Gomez,,F,Lima,Dermatologia,2024-07-27,266.77
+P113,Pedro Gomez,70.0,F,Lima,Odontologia,2024-06-14,489.11
+P316,Carlos Torres,98.0,F,Miraflores,Cardiologia,2024-09-28,122.36
+P269,Luis Lopez,,F,Surco,Dermatologia,2024-08-24,142.85
+P348,Laura Martinez,73.0,M,Callao,Dermatologia,2024-09-03,211.36
+P133,Luis Lopez,23.0,M,Callao,General,2024-06-17,446.58
+P668,Ana Gomez,81.0,F,Miraflores,General,invalid,407.51
+P687,Maria Gomez,66.0,M,,Dermatologia,2024-01-08,413.23
+P779,Pedro Perez,33.0,F,Miraflores,General,2024-06-19,377.18
+P882,Ana Gomez,30.0,F,Lima,Pediatria,invalid,446.43
+P275,Juan Martinez,29.0,M,Miraflores,Pediatria,2024-05-21,106.03
+P219,Ana Martinez,78.0,M,Lima,Pediatria,2024-07-31,120.55
+P926,Luis Torres,75.0,F,Callao,Pediatria,2024-04-16,367.43
+P195,Sofia Rodriguez,56.0,M,Callao,Odontologia,2024-02-29,228.16
+P045,Sofia Lopez,14.0,F,Lima,Cardiologia,2024-11-14,120.05
+P568,Luis Rodriguez,42.0,F,Miraflores,Odontologia,2024-03-31,243.06
+P876,Pedro Martinez,76.0,M,Lima,General,2024-05-28,305.46
+P062,Maria Torres,11.0,F,San Isidro,General,2024-08-07,371.57
+P500,Pedro Rodriguez,51.0,F,Lima,Cardiologia,2024-03-18,242.77
+P862,Pedro Lopez,17.0,M,San Isidro,Dermatologia,2024-03-29,260.23
+P846,Juan Perez,71.0,F,Lima,Cardiologia,2024-07-10,65.86
+P029,Ana Perez,45.0,F,San Isidro,Dermatologia,2024-05-17,492.58
+P755,Carlos Martinez,53.0,M,Miraflores,General,2024-09-12,326.77
+P763,Ana Lopez,32.0,M,Miraflores,Pediatria,2024-03-22,333.49
+P439,Ana Gomez,74.0,M,,Dermatologia,2024-07-29,377.61
+P722,Ana Martinez,,M,Miraflores,Odontologia,2024-01-15,
+P491,Laura Lopez,73.0,F,Miraflores,Dermatologia,2024-05-16,470.45
+P474,Juan Rodriguez,50.0,M,Lima,Odontologia,2024-03-06,
+P545,Carlos Rodriguez,64.0,M,Surco,General,2024-12-04,414.01
+P645,Sofia Martinez,3.0,F,,Cardiologia,2024-01-04,69.03
+P915,Pedro Torres,77.0,M,Miraflores,Pediatria,2024-12-02,171.47
+P337,Laura Torres,31.0,M,Callao,Dermatologia,2024-01-12,491.46
+P644,Ana Gomez,47.0,F,Surco,General,2024-05-18,404.32
+P625,Maria Gomez,96.0,F,,Dermatologia,2024-11-09,218.91
+P759,Luis Rodriguez,,F,,Cardiologia,2024-08-18,73.2
+P864,Carlos Perez,,F,Callao,Odontologia,2024-11-10,307.89
+P060,Carlos Torres,64.0,M,Surco,Pediatria,2024-10-03,188.78
+P519,Luis Martinez,60.0,F,Miraflores,General,2024-04-25,186.57
+P245,Laura Rodriguez,80.0,M,San Isidro,Odontologia,invalid,266.55
+P431,Pedro Gomez,29.0,F,Miraflores,Cardiologia,2024-01-18,431.79
+P722,Maria Torres,53.0,F,Miraflores,Pediatria,2024-03-08,353.68
+P232,Luis Martinez,2.0,M,San Isidro,Cardiologia,2024-01-28,454.61
+P358,Laura Martinez,12.0,F,Callao,Dermatologia,2024-07-06,376.78
+P460,Maria Torres,56.0,M,,Cardiologia,2024-07-09,446.29
+P779,Sofia Gomez,,F,Lima,General,2024-09-01,376.03
+P952,Laura Gomez,41.0,M,Lima,Odontologia,2024-09-20,234.81
+P130,Maria Martinez,,M,Surco,Dermatologia,2024-07-16,105.74
+P785,Maria Gomez,97.0,F,Miraflores,Dermatologia,2024-05-19,185.43
+P607,Carlos Torres,76.0,M,San Isidro,Dermatologia,2024-08-26,481.46
+P705,Ana Rodriguez,67.0,M,,Dermatologia,invalid,283.28
+P661,Sofia Lopez,48.0,M,Miraflores,Dermatologia,2024-02-29,390.77
+P837,Luis Perez,57.0,F,Lima,Pediatria,2024-11-25,370.68
+P268,Laura Rodriguez,69.0,F,Callao,Cardiologia,2024-12-29,361.62
+P092,Laura Lopez,80.0,M,Surco,Dermatologia,2024-06-07,175.44
+P843,Juan Rodriguez,11.0,M,San Isidro,Odontologia,invalid,239.48
+P581,Pedro Lopez,,M,Lima,Pediatria,2024-06-22,431.22
+P793,Luis Torres,66.0,M,Callao,Dermatologia,2024-01-14,252.71
+P847,Carlos Torres,61.0,F,Lima,Pediatria,invalid,328.3
+P657,Luis Martinez,34.0,M,San Isidro,Pediatria,2024-08-11,282.55
+P345,Pedro Lopez,66.0,F,San Isidro,Pediatria,invalid,215.04
+P129,Luis Gomez,99.0,F,Miraflores,Pediatria,2024-11-02,400.12
+P737,Juan Lopez,98.0,M,Miraflores,General,2024-04-22,128.24
+P620,Maria Rodriguez,4.0,F,San Isidro,Cardiologia,invalid,67.55
+P746,Laura Perez,53.0,M,Surco,General,2024-11-21,358.53
+P326,Luis Martinez,72.0,F,San Isidro,General,2024-03-19,436.61
+P894,Laura Perez,23.0,F,San Isidro,Cardiologia,2024-07-26,
+P444,Ana Torres,98.0,F,Miraflores,Odontologia,2024-03-05,238.98
+P414,Sofia Torres,9.0,M,San Isidro,Odontologia,invalid,474.36
+P793,Carlos Perez,43.0,M,Callao,Pediatria,2024-02-10,427.1
+P463,Carlos Rodriguez,45.0,M,Lima,Odontologia,2024-05-25,255.56
+P746,Carlos Rodriguez,91.0,F,Miraflores,Pediatria,invalid,150.52
+P626,Luis Lopez,40.0,M,San Isidro,Cardiologia,2024-07-03,135.3
+P223,Pedro Rodriguez,28.0,F,Lima,Pediatria,2024-07-29,
+P960,Juan Rodriguez,88.0,F,Surco,Dermatologia,2024-03-30,210.62
+P030,Luis Rodriguez,83.0,F,San Isidro,Odontologia,2024-10-16,421.95
+P626,Sofia Martinez,43.0,M,,General,2024-04-30,377.69
+P332,Pedro Martinez,67.0,M,Miraflores,Dermatologia,2024-01-26,413.61
+P906,Ana Martinez,84.0,F,Callao,Odontologia,2024-05-17,106.88
+P317,Ana Martinez,5.0,F,,Cardiologia,2024-11-27,315.95
+P167,Carlos Gomez,53.0,M,San Isidro,Dermatologia,2024-09-20,446.43
+P803,Luis Martinez,39.0,M,Surco,Dermatologia,2024-06-10,351.21
+P821,Maria Gomez,14.0,F,Callao,Pediatria,2024-12-23,223.02
+P408,Ana Lopez,96.0,F,Surco,Dermatologia,2024-07-11,209.65
+P065,Pedro Martinez,80.0,F,San Isidro,Odontologia,2024-07-13,89.15
+P496,Juan Lopez,27.0,M,,Cardiologia,2024-01-11,
+P214,Laura Perez,79.0,M,Surco,Dermatologia,2024-03-21,411.27
+P944,Carlos Rodriguez,82.0,F,Lima,Odontologia,2024-10-05,88.59
+P408,Sofia Perez,87.0,F,Surco,General,2024-01-12,296.01
+P187,Sofia Lopez,35.0,M,,Odontologia,2024-08-18,244.76
+P442,Ana Perez,88.0,M,Miraflores,Odontologia,2024-07-17,403.75
+P993,Luis Gomez,40.0,M,San Isidro,Pediatria,2024-01-02,102.29
+P451,Laura Rodriguez,19.0,M,Miraflores,Odontologia,2024-12-07,186.49
+P114,Laura Perez,53.0,M,Miraflores,Odontologia,invalid,281.54
+P098,Luis Gomez,9.0,F,Miraflores,Cardiologia,2024-02-04,374.65
+P566,Maria Perez,77.0,M,San Isidro,Cardiologia,invalid,222.9
+P391,Sofia Martinez,82.0,M,Surco,Cardiologia,2024-07-24,126.69
+P139,Maria Lopez,3.0,M,Surco,Odontologia,invalid,173.1
+P198,Ana Torres,8.0,F,San Isidro,General,invalid,309.92
+P207,Laura Lopez,1.0,M,Miraflores,Odontologia,2024-01-10,65.89
+P954,Juan Martinez,11.0,F,,Pediatria,2024-10-09,327.84
+P822,Sofia Rodriguez,52.0,F,Lima,Dermatologia,invalid,244.14
+P368,Ana Rodriguez,13.0,F,San Isidro,Pediatria,2024-06-25,157.92
+P140,Carlos Rodriguez,23.0,F,,Cardiologia,2024-06-22,200.65
+P326,Sofia Torres,74.0,M,Surco,Dermatologia,2024-03-09,233.21
+P745,Pedro Martinez,10.0,F,Miraflores,General,invalid,274.23
+P660,Juan Rodriguez,80.0,M,Miraflores,Pediatria,2024-04-05,477.99
+P254,Juan Torres,14.0,M,Miraflores,Cardiologia,2024-04-02,258.24
+P139,Carlos Perez,18.0,F,San Isidro,Pediatria,2024-05-14,403.61
+P154,Maria Perez,39.0,F,Miraflores,Odontologia,invalid,258.38
+P656,Sofia Torres,64.0,M,Miraflores,Pediatria,2024-02-03,268.26
+P178,Luis Torres,91.0,M,Lima,Odontologia,invalid,212.18
+P245,Ana Rodriguez,84.0,F,Miraflores,General,2024-11-21,493.16
+P555,Ana Perez,89.0,F,,Pediatria,2024-06-07,315.15
+P165,Laura Perez,25.0,F,,Pediatria,2024-01-06,151.98
+P216,Juan Rodriguez,89.0,F,Surco,Pediatria,2024-02-05,102.18
+P205,Laura Perez,,M,Surco,Pediatria,2024-10-19,240.92
+P855,Carlos Gomez,69.0,M,Miraflores,Pediatria,2024-08-23,482.47
+P586,Laura Rodriguez,71.0,M,,Odontologia,2024-11-26,406.64
+P355,Laura Martinez,14.0,M,San Isidro,Pediatria,2024-04-05,375.79
+P940,Ana Martinez,88.0,M,Surco,Odontologia,2024-07-22,443.91
+P661,Ana Perez,44.0,M,,Dermatologia,2024-06-27,203.55
+P375,Pedro Martinez,64.0,F,Callao,Dermatologia,2024-08-01,185.16
+P906,Maria Martinez,42.0,F,,Pediatria,2024-07-14,460.89
+P086,Laura Martinez,86.0,M,San Isidro,Dermatologia,2024-09-05,61.89
+P094,Sofia Lopez,79.0,M,Surco,Dermatologia,2024-10-29,359.57
+P348,Carlos Martinez,77.0,M,Surco,Odontologia,2024-11-14,90.39
+P120,Laura Torres,45.0,M,San Isidro,Dermatologia,2024-11-11,382.99
+P549,Juan Martinez,11.0,M,,General,2024-03-08,423.61
+P234,Maria Torres,98.0,M,Surco,Pediatria,2024-08-11,53.16
+P293,Luis Rodriguez,28.0,M,,General,2024-12-16,371.58
+P583,Sofia Torres,19.0,F,Callao,Odontologia,2024-03-14,223.67
+P503,Pedro Perez,21.0,F,Lima,Odontologia,2024-01-16,290.49
+P378,Juan Rodriguez,5.0,M,Surco,Dermatologia,2024-12-27,374.75
+P328,Maria Torres,54.0,M,Surco,Dermatologia,2024-12-30,70.66
+P686,Sofia Martinez,30.0,F,Surco,Odontologia,2024-08-25,
+P163,Juan Rodriguez,86.0,M,Miraflores,Pediatria,2024-09-27,351.81
+P861,Sofia Martinez,4.0,M,Callao,Odontologia,2024-12-18,215.57
+P953,Sofia Martinez,51.0,M,Lima,Odontologia,2024-12-05,86.88
+P511,Ana Martinez,22.0,M,Surco,Cardiologia,2024-02-23,289.22
+P244,Pedro Perez,37.0,M,Lima,Odontologia,2024-12-14,433.39
+P563,Pedro Lopez,86.0,M,Surco,Odontologia,2024-05-26,303.24
+P781,Juan Rodriguez,24.0,F,Callao,Dermatologia,2024-09-19,224.01
+P968,Maria Rodriguez,4.0,F,Lima,General,2024-01-28,423.66
+P304,Luis Torres,11.0,M,Lima,General,2024-09-09,243.83
+P306,Luis Rodriguez,18.0,F,Surco,Odontologia,2024-04-13,208.15
+P418,Maria Perez,15.0,F,Surco,Pediatria,2024-03-18,172.45
+P598,Carlos Torres,11.0,M,Callao,Pediatria,2024-12-01,166.73
+P684,Sofia Martinez,65.0,F,Lima,General,invalid,323.02
+P889,Juan Torres,6.0,M,Surco,Pediatria,invalid,291.64
+P602,Juan Torres,80.0,M,San Isidro,General,2024-01-29,185.43
+P843,Ana Perez,27.0,M,,Dermatologia,2024-03-31,422.25
+P446,Ana Perez,96.0,M,Miraflores,Dermatologia,2024-08-11,119.69
+P510,Sofia Perez,58.0,F,Lima,Dermatologia,2024-03-30,165.82
+P143,Laura Perez,38.0,M,Callao,Dermatologia,2024-02-03,324.83
+P910,Pedro Perez,64.0,F,San Isidro,Odontologia,2024-07-22,294.05
+P164,Juan Perez,13.0,M,Surco,Dermatologia,invalid,305.46
+P993,Maria Lopez,72.0,F,Callao,Odontologia,2024-08-06,357.77
+P944,Juan Torres,92.0,M,Lima,Pediatria,2024-11-08,104.31
+P312,Juan Martinez,21.0,M,Lima,Cardiologia,2024-07-06,138.72
+P513,Maria Gomez,96.0,M,Callao,Cardiologia,2024-06-28,121.6
+P551,Laura Gomez,29.0,M,Lima,Pediatria,2024-04-03,320.19
+P470,Carlos Rodriguez,76.0,M,Lima,Dermatologia,2024-01-30,368.65
+P803,Laura Gomez,72.0,M,Lima,Odontologia,2024-10-27,253.61
+P887,Laura Gomez,49.0,M,Surco,Cardiologia,2024-10-22,135.9
+P775,Laura Gomez,61.0,M,Miraflores,General,2024-05-25,192.17
+P538,Pedro Perez,3.0,F,,Cardiologia,invalid,403.49
+P954,Pedro Gomez,68.0,M,San Isidro,Cardiologia,2024-01-16,261.24
+P707,Pedro Torres,65.0,F,Callao,Cardiologia,2024-12-09,211.71
+P818,Pedro Torres,18.0,M,Miraflores,General,invalid,179.72
+P227,Juan Torres,73.0,F,Surco,General,2024-10-14,71.54
+P041,Luis Martinez,44.0,M,San Isidro,Dermatologia,2024-04-28,469.59
+P057,Laura Lopez,59.0,M,Lima,Dermatologia,2024-08-19,401.81
+P066,Ana Torres,12.0,F,Lima,Dermatologia,2024-12-24,410.24
+P279,Pedro Rodriguez,43.0,F,,Pediatria,2024-06-05,448.84
+P092,Ana Torres,97.0,M,Surco,Dermatologia,2024-09-27,301.1
+P297,Luis Martinez,57.0,F,San Isidro,Cardiologia,2024-08-18,397.24
+P413,Sofia Perez,87.0,F,Lima,Odontologia,2024-06-24,113.2
+P151,Sofia Rodriguez,72.0,F,San Isidro,Odontologia,2024-09-24,84.9
+P753,Carlos Rodriguez,54.0,M,San Isidro,Cardiologia,2024-06-07,87.2
+P413,Carlos Torres,92.0,F,San Isidro,General,2024-10-20,102.95
+P355,Laura Martinez,30.0,M,,Odontologia,2024-12-25,91.49
+P304,Maria Perez,4.0,M,San Isidro,Odontologia,2024-02-08,401.64
+P095,Carlos Rodriguez,5.0,F,Callao,Pediatria,2024-04-12,73.61
+P732,Luis Perez,,M,Surco,Pediatria,2024-07-29,326.98
+P856,Carlos Rodriguez,44.0,M,San Isidro,General,2024-03-20,144.88
+P022,Ana Torres,54.0,F,Miraflores,Odontologia,2024-11-07,181.54
+P815,Pedro Martinez,44.0,F,Lima,Odontologia,2024-10-18,308.7
+P297,Sofia Gomez,54.0,F,Surco,General,2024-07-24,452.86
+P419,Pedro Rodriguez,100.0,F,,General,2024-05-09,434.8
+P468,Juan Gomez,68.0,M,Lima,Cardiologia,2024-07-13,356.1
+P074,Sofia Gomez,89.0,M,Lima,Dermatologia,2024-09-06,344.67
+P847,Luis Gomez,56.0,M,San Isidro,Pediatria,2024-09-27,228.45
+P501,Laura Torres,80.0,M,Callao,Cardiologia,2024-02-01,190.87
+P742,Luis Lopez,27.0,M,Callao,General,2024-11-20,
+P039,Ana Gomez,57.0,F,,Dermatologia,2024-01-10,347.11
+P245,Ana Rodriguez,72.0,F,Surco,Cardiologia,2024-06-23,328.66
+P809,Sofia Gomez,11.0,M,Surco,Pediatria,2024-07-27,185.3
+P531,Juan Gomez,51.0,M,Lima,Dermatologia,2024-12-04,315.91
+P620,Carlos Torres,69.0,F,,Pediatria,2024-12-10,249.36
+P804,Luis Perez,24.0,F,Callao,General,2024-03-12,305.39
+P372,Luis Martinez,41.0,F,Surco,Odontologia,2024-09-20,197.15
+P845,Ana Torres,,F,Callao,Cardiologia,2024-01-08,385.24
+P952,Ana Gomez,82.0,F,Miraflores,Odontologia,2024-10-24,251.81
+P661,Ana Martinez,32.0,M,San Isidro,Pediatria,2024-10-14,224.57
+P307,Carlos Perez,46.0,M,Miraflores,Cardiologia,2024-04-10,416.64
+P763,Pedro Torres,79.0,M,,Dermatologia,2024-07-09,142.32
+P477,Ana Perez,60.0,F,Surco,Cardiologia,2024-02-25,61.86
+P652,Laura Gomez,38.0,F,San Isidro,General,2024-01-02,371.92
+P807,Sofia Perez,87.0,F,,General,2024-02-20,413.26
+P142,Luis Gomez,85.0,F,,Dermatologia,2024-02-25,54.57
+P275,Ana Martinez,69.0,F,Callao,Dermatologia,2024-06-11,381.87
+P075,Ana Martinez,,F,Surco,Odontologia,2024-12-18,444.88
+P734,Pedro Perez,60.0,M,Miraflores,General,2024-02-27,78.7
+P649,Carlos Perez,87.0,M,,General,2024-06-02,402.31
+P994,Juan Torres,85.0,F,Lima,Cardiologia,2024-01-14,208.31
+P871,Laura Martinez,77.0,M,Callao,Pediatria,2024-12-14,361.95
+P651,Pedro Lopez,32.0,F,Callao,Pediatria,2024-09-19,164.45
+P346,Maria Martinez,18.0,M,Surco,Cardiologia,2024-02-05,58.1
+P037,Juan Lopez,80.0,M,Miraflores,Cardiologia,2024-06-02,307.78
+P970,Laura Torres,51.0,M,Surco,Odontologia,2024-10-21,135.16
+P397,Juan Gomez,84.0,M,,Odontologia,2024-03-10,205.0
+P615,Carlos Martinez,17.0,F,Surco,General,2024-07-27,69.21
+P296,Maria Lopez,97.0,F,Lima,Pediatria,2024-03-09,334.71
+P706,Pedro Lopez,58.0,F,Surco,General,2024-05-21,360.77
+P682,Laura Gomez,96.0,F,Miraflores,Dermatologia,2024-09-13,285.1
+P210,Sofia Gomez,62.0,M,Surco,Cardiologia,invalid,339.3
+P692,Pedro Rodriguez,24.0,M,Lima,General,2024-02-05,134.31
+P109,Carlos Torres,51.0,M,,Odontologia,2024-06-21,89.84
+P187,Carlos Lopez,84.0,M,,Pediatria,2024-09-27,
+P188,Laura Lopez,39.0,F,Miraflores,Pediatria,2024-09-04,298.93
+P127,Pedro Rodriguez,16.0,M,,Pediatria,2024-10-19,128.09
+P358,Luis Lopez,42.0,M,Callao,Odontologia,invalid,367.64
+P239,Luis Rodriguez,98.0,F,Callao,Odontologia,2024-11-21,330.77
+P160,Carlos Martinez,89.0,M,Surco,General,2024-12-07,347.33
+P454,Maria Martinez,39.0,M,Miraflores,Cardiologia,2024-08-04,343.85
+P909,Luis Lopez,88.0,M,San Isidro,General,2024-08-31,440.77
+P360,Carlos Torres,63.0,M,,Cardiologia,2024-12-02,191.93
+P949,Ana Gomez,31.0,M,,Dermatologia,2024-01-18,227.3
+P863,Pedro Perez,42.0,M,Callao,General,invalid,244.99
+P783,Luis Gomez,37.0,F,San Isidro,Cardiologia,2024-03-24,369.5
+P458,Maria Perez,90.0,M,Miraflores,Dermatologia,2024-04-27,388.49
+P379,Ana Perez,27.0,M,Callao,Pediatria,2024-10-04,84.1
+P174,Carlos Torres,48.0,F,,Odontologia,2024-10-22,209.75
+P911,Laura Torres,61.0,F,,Odontologia,2024-06-28,111.59
+P365,Ana Martinez,64.0,M,Callao,Cardiologia,2024-05-04,88.97
+P820,Carlos Martinez,100.0,M,Lima,General,2024-05-29,76.19
+P786,Sofia Perez,42.0,F,,Dermatologia,2024-05-16,192.59
+P762,Maria Torres,14.0,F,Callao,General,2024-05-12,468.45
+P752,Maria Rodriguez,23.0,F,Miraflores,General,2024-02-05,121.65
+P907,Juan Perez,93.0,F,Surco,Cardiologia,2024-11-16,147.2
+P439,Sofia Perez,13.0,F,,Pediatria,2024-09-28,390.45
+P281,Ana Martinez,74.0,F,Surco,General,2024-12-17,192.46
+P720,Sofia Martinez,84.0,M,San Isidro,Odontologia,2024-06-10,410.61
+P704,Laura Martinez,34.0,F,Lima,General,invalid,
+P952,Carlos Rodriguez,42.0,M,Lima,Odontologia,2024-05-19,369.32
+P794,Juan Gomez,15.0,M,Callao,General,2024-03-31,465.09
+P873,Luis Rodriguez,42.0,F,Surco,Odontologia,2024-03-20,261.67
+P598,Maria Torres,57.0,M,San Isidro,Odontologia,2024-11-01,293.57
+P140,Juan Gomez,62.0,M,,General,2024-12-29,403.01
+P056,Ana Martinez,67.0,M,Lima,Cardiologia,2024-06-08,263.29
+P815,Pedro Perez,5.0,M,Miraflores,Odontologia,2024-08-16,131.82
+P429,Maria Martinez,92.0,M,Callao,General,2024-07-13,381.57
+P965,Carlos Rodriguez,73.0,F,San Isidro,Pediatria,2024-09-11,312.07
+P191,Sofia Torres,9.0,M,Callao,Pediatria,2024-11-01,332.72
+P090,Luis Martinez,84.0,M,Lima,Pediatria,2024-04-03,75.37
+P132,Sofia Perez,,F,Lima,Pediatria,2024-02-18,300.53
+P682,Ana Torres,34.0,F,Surco,Pediatria,2024-10-05,439.21
+P891,Sofia Gomez,6.0,M,Miraflores,General,2024-03-21,473.05
+P510,Carlos Perez,9.0,M,,Cardiologia,invalid,438.26
+P359,Juan Perez,73.0,F,Miraflores,Dermatologia,2024-08-01,
+P016,Pedro Gomez,50.0,M,Surco,Cardiologia,invalid,455.63
+P187,Luis Martinez,59.0,M,San Isidro,General,2024-05-30,169.32
+P680,Ana Gomez,97.0,F,Surco,Odontologia,2024-04-21,229.4
+P359,Ana Lopez,66.0,M,Miraflores,Dermatologia,2024-11-14,263.8
+P555,Carlos Martinez,61.0,F,Callao,Pediatria,2024-02-15,145.04
+P157,Sofia Perez,45.0,M,,General,2024-04-15,399.08
+P056,Ana Torres,1.0,F,Callao,Cardiologia,2024-11-09,133.69
+P050,Ana Lopez,25.0,F,,Cardiologia,2024-01-29,104.26
+P725,Ana Lopez,42.0,F,Lima,Cardiologia,2024-06-13,91.77
+P497,Luis Lopez,97.0,F,Miraflores,General,2024-05-16,
+P920,Luis Perez,9.0,F,Lima,Cardiologia,2024-06-04,336.25
+P086,Maria Martinez,90.0,F,Lima,Pediatria,2024-09-22,352.55
+P318,Sofia Gomez,99.0,F,San Isidro,Pediatria,invalid,274.58
+P773,Pedro Martinez,15.0,F,Surco,General,2024-05-26,308.35
+P689,Luis Gomez,39.0,F,Surco,Odontologia,2024-02-15,347.57
+P234,Ana Rodriguez,82.0,F,San Isidro,General,2024-01-05,477.01
+P085,Pedro Gomez,87.0,F,Lima,Odontologia,2024-02-27,88.74
+P496,Juan Perez,95.0,M,Miraflores,Pediatria,2024-03-10,241.82
+P215,Juan Lopez,78.0,F,Miraflores,Dermatologia,2024-10-01,396.67
+P149,Pedro Martinez,,F,,Odontologia,2024-01-24,157.87
+P067,Pedro Lopez,95.0,M,Lima,Odontologia,2024-05-10,356.6
+P001,Maria Martinez,25.0,M,San Isidro,Odontologia,2024-12-02,
+P569,Sofia Rodriguez,24.0,F,Lima,Odontologia,2024-01-29,128.12
+P918,Pedro Perez,60.0,M,Miraflores,Pediatria,2024-02-24,278.14
+P722,Laura Lopez,78.0,M,Callao,General,2024-10-03,407.41
+P296,Laura Gomez,41.0,F,Surco,Dermatologia,2024-03-13,264.15
+P043,Juan Gomez,80.0,F,Callao,General,2024-09-06,172.22
+P381,Pedro Perez,78.0,F,Miraflores,Odontologia,2024-04-03,157.15
+P877,Carlos Perez,59.0,M,,Pediatria,2024-08-25,289.08
+P414,Juan Martinez,70.0,F,Miraflores,General,2024-04-30,472.26
+P191,Laura Perez,77.0,M,Callao,Odontologia,2024-05-27,384.33
+P566,Luis Gomez,9.0,M,Callao,Dermatologia,invalid,497.96
+P275,Pedro Rodriguez,11.0,F,Lima,Cardiologia,2024-08-13,106.66
+P389,Juan Rodriguez,69.0,F,San Isidro,Odontologia,2024-08-27,248.68
+P842,Ana Lopez,48.0,M,,General,2024-04-07,172.18
+P826,Juan Perez,37.0,M,Miraflores,Dermatologia,2024-02-08,385.88
+P598,Laura Gomez,32.0,F,Callao,Pediatria,2024-03-04,177.61
+P391,Carlos Gomez,7.0,M,San Isidro,Pediatria,2024-10-08,104.49
+P220,Sofia Torres,9.0,F,Surco,Dermatologia,2024-02-04,123.22
+P503,Ana Martinez,34.0,F,Lima,Cardiologia,2024-04-13,263.92
+P787,Luis Martinez,82.0,M,San Isidro,General,2024-08-31,122.26
+P272,Sofia Martinez,99.0,F,Surco,Pediatria,2024-08-08,253.35
+P123,Luis Martinez,15.0,M,Surco,Pediatria,2024-06-03,72.49
+P323,Laura Torres,70.0,F,Callao,Odontologia,2024-04-10,376.03
+P930,Carlos Lopez,60.0,M,Callao,General,invalid,491.24
+P259,Luis Rodriguez,82.0,F,San Isidro,Cardiologia,2024-11-04,408.96
+P934,Pedro Martinez,32.0,F,Miraflores,General,invalid,68.06
+P892,Juan Rodriguez,87.0,F,Lima,General,invalid,437.59
+P291,Laura Perez,90.0,M,Lima,Odontologia,2024-08-31,496.62
+P424,Laura Martinez,62.0,F,Surco,Pediatria,2024-01-27,494.43
+P248,Laura Torres,100.0,F,Miraflores,Pediatria,2024-10-18,214.87
+P348,Carlos Torres,57.0,F,Surco,General,2024-11-25,
+P751,Pedro Martinez,84.0,F,Miraflores,Cardiologia,2024-12-03,111.57
+P917,Laura Rodriguez,94.0,M,,Pediatria,2024-07-21,251.16
+P989,Maria Torres,61.0,F,San Isidro,Dermatologia,2024-09-11,423.07
+P783,Juan Lopez,27.0,M,Surco,Pediatria,2024-03-10,266.05
+P924,Luis Torres,19.0,F,San Isidro,General,invalid,422.73
+P819,Juan Torres,75.0,M,Callao,Cardiologia,invalid,280.51
+P899,Sofia Rodriguez,33.0,M,Lima,Odontologia,2024-10-31,99.85
+P154,Ana Lopez,42.0,M,Lima,Odontologia,2024-01-04,471.07
+P777,Pedro Perez,30.0,F,Miraflores,Odontologia,2024-01-05,288.44
+P714,Carlos Perez,42.0,M,Callao,Dermatologia,2024-12-24,
+P972,Laura Martinez,80.0,M,San Isidro,Odontologia,2024-05-06,282.18
+P624,Juan Gomez,,M,,Dermatologia,2024-01-29,283.81
+P904,Ana Gomez,64.0,M,Miraflores,Pediatria,2024-04-30,386.06
+P863,Sofia Gomez,39.0,M,Surco,Cardiologia,2024-05-24,128.93
+P102,Carlos Rodriguez,47.0,M,,Odontologia,invalid,368.64
+P942,Ana Torres,11.0,F,San Isidro,Pediatria,invalid,295.03
+P227,Pedro Gomez,83.0,F,Surco,Pediatria,2024-11-03,429.07
+P438,Juan Lopez,22.0,M,Surco,Odontologia,2024-04-09,77.09
+P234,Pedro Lopez,66.0,F,San Isidro,General,2024-11-10,448.85
+P858,Pedro Rodriguez,19.0,M,Surco,Odontologia,2024-07-26,306.89
+P218,Maria Perez,75.0,F,Callao,Odontologia,2024-04-01,60.85
+P352,Carlos Lopez,46.0,M,San Isidro,Odontologia,2024-09-22,136.72
+P174,Ana Perez,56.0,F,,Pediatria,2024-04-17,249.76
+P160,Ana Martinez,87.0,M,San Isidro,General,2024-11-18,391.59
+P144,Ana Rodriguez,,M,Lima,Pediatria,2024-08-19,95.36
+P641,Luis Perez,35.0,M,,Cardiologia,2024-04-04,167.57
+P580,Maria Lopez,28.0,M,Callao,Cardiologia,2024-11-07,224.17
+P844,Pedro Rodriguez,45.0,F,Lima,Cardiologia,2024-08-15,244.18
+P797,Carlos Perez,89.0,M,Miraflores,Cardiologia,2024-07-15,464.71
+P261,Maria Martinez,76.0,F,San Isidro,Odontologia,2024-12-27,317.05
+P939,Carlos Lopez,77.0,F,Callao,Pediatria,2024-09-25,449.13
+P101,Sofia Lopez,25.0,M,San Isidro,Odontologia,2024-03-15,64.35
+P822,Juan Rodriguez,37.0,M,Callao,Dermatologia,2024-01-30,
+P762,Luis Perez,49.0,F,Lima,Dermatologia,2024-04-04,300.12
+P167,Ana Torres,38.0,M,San Isidro,Cardiologia,2024-09-23,
+P586,Laura Perez,34.0,M,,Odontologia,2024-04-18,232.2
+P465,Pedro Rodriguez,93.0,F,Miraflores,Cardiologia,2024-04-04,62.27
+P138,Maria Lopez,5.0,M,San Isidro,Pediatria,2024-07-24,471.04
+P527,Pedro Torres,83.0,F,Lima,Cardiologia,2024-05-10,319.08
+P260,Laura Torres,37.0,M,Miraflores,Dermatologia,2024-06-10,283.17
+P368,Juan Torres,30.0,M,Surco,General,2024-10-11,74.24
+P427,Laura Martinez,59.0,F,Miraflores,Dermatologia,2024-05-29,387.63
+P978,Laura Gomez,84.0,F,San Isidro,Pediatria,2024-09-19,362.7
+P933,Ana Torres,80.0,F,,Dermatologia,2024-05-13,301.81
+P646,Carlos Martinez,85.0,F,Lima,Dermatologia,2024-07-17,183.01
+P674,Ana Gomez,64.0,M,Lima,General,2024-04-19,148.98
+P538,Ana Rodriguez,80.0,F,Callao,Cardiologia,invalid,472.0
+P650,Luis Perez,25.0,F,Callao,Cardiologia,2024-02-19,139.08
+P918,Luis Torres,61.0,M,,Cardiologia,2024-02-21,476.12
+P513,Maria Rodriguez,10.0,F,Miraflores,Cardiologia,2024-09-27,105.9
+P178,Laura Lopez,81.0,F,,Pediatria,2024-06-08,188.43
+P408,Luis Torres,8.0,F,San Isidro,General,2024-01-22,373.09
+P096,Juan Perez,51.0,F,San Isidro,Pediatria,2024-10-09,300.73
+P724,Juan Gomez,63.0,M,,Dermatologia,2024-04-06,360.95
+P895,Luis Rodriguez,79.0,M,Lima,Dermatologia,invalid,295.39
+P026,Juan Martinez,25.0,F,Callao,Pediatria,2024-09-22,495.03
+P032,Luis Gomez,87.0,M,Surco,Cardiologia,invalid,181.74
+P319,Maria Lopez,38.0,F,,General,2024-11-16,474.8
+P141,Juan Torres,78.0,F,Miraflores,Dermatologia,2024-09-12,297.05
+P587,Juan Rodriguez,42.0,M,Miraflores,Cardiologia,2024-12-22,134.97
+P812,Laura Lopez,69.0,M,Callao,General,2024-11-28,464.6
+P134,Juan Rodriguez,83.0,F,Surco,Pediatria,invalid,
+P461,Maria Torres,72.0,F,Callao,Cardiologia,2024-11-20,67.69
+P511,Luis Perez,100.0,M,Surco,Cardiologia,2024-04-30,250.88
+P749,Carlos Torres,56.0,M,Miraflores,Dermatologia,2024-07-07,
+P782,Pedro Lopez,59.0,F,Surco,Pediatria,2024-12-16,311.23
+P644,Carlos Torres,19.0,M,Callao,Cardiologia,2024-05-21,179.34
+P634,Luis Lopez,49.0,M,San Isidro,General,invalid,157.84
+P910,Luis Lopez,40.0,F,Lima,Cardiologia,invalid,202.42
+P444,Ana Martinez,55.0,F,Miraflores,Dermatologia,2024-08-26,273.33
+P803,Juan Lopez,97.0,M,,Odontologia,2024-10-13,288.86
+P687,Laura Gomez,31.0,F,Callao,General,2024-10-26,291.93
+P991,Laura Lopez,61.0,M,Callao,General,2024-08-07,114.79
+P227,Laura Torres,97.0,F,Miraflores,Pediatria,2024-04-18,291.59
+P197,Laura Perez,7.0,F,,Cardiologia,invalid,231.67
+P844,Sofia Torres,49.0,M,Callao,General,2024-05-29,339.81
+P231,Juan Rodriguez,48.0,M,Callao,Odontologia,2024-05-15,
+P310,Juan Torres,79.0,M,Lima,Dermatologia,2024-06-03,278.04
+P785,Sofia Gomez,71.0,M,San Isidro,Dermatologia,2024-10-24,173.8
+P232,Juan Martinez,77.0,M,,Dermatologia,2024-11-30,393.57
+P617,Sofia Martinez,25.0,F,Surco,Odontologia,2024-10-14,88.47
+P828,Juan Rodriguez,69.0,F,,Cardiologia,2024-07-05,389.75
+P429,Pedro Gomez,98.0,F,San Isidro,Dermatologia,2024-04-15,
+P556,Pedro Martinez,82.0,M,Surco,Dermatologia,2024-06-11,406.22
+P708,Sofia Martinez,66.0,F,Miraflores,General,2024-06-12,111.79
+P113,Pedro Martinez,47.0,M,Lima,General,2024-11-04,215.99
+P421,Laura Torres,12.0,M,San Isidro,Cardiologia,2024-11-23,437.5
+P786,Sofia Lopez,21.0,F,,Dermatologia,2024-03-21,274.35
+P136,Sofia Perez,20.0,M,Miraflores,Dermatologia,2024-11-01,294.54
+P432,Ana Torres,53.0,M,San Isidro,General,2024-04-05,484.35
+P004,Pedro Rodriguez,78.0,F,Lima,Pediatria,2024-01-13,324.06
+P147,Carlos Martinez,11.0,F,,Dermatologia,2024-10-10,246.83
+P558,Luis Perez,99.0,M,Lima,Cardiologia,2024-10-09,109.53
+P263,Ana Lopez,36.0,F,,General,invalid,210.8
+P888,Sofia Rodriguez,47.0,F,Lima,Pediatria,2024-08-07,233.48
+P983,Maria Rodriguez,61.0,F,Callao,Odontologia,invalid,
+P816,Luis Martinez,95.0,F,San Isidro,Pediatria,invalid,497.46
+P788,Pedro Martinez,32.0,F,Miraflores,Pediatria,2024-02-21,168.38
+P338,Ana Martinez,,M,Lima,Cardiologia,2024-09-28,118.19
+P925,Carlos Torres,97.0,M,San Isidro,Odontologia,2024-05-23,50.13
+P321,Laura Martinez,81.0,F,Lima,Odontologia,2024-07-12,359.43
+P883,Pedro Gomez,34.0,M,Miraflores,General,2024-11-04,304.88
+P128,Juan Lopez,20.0,F,San Isidro,Odontologia,2024-08-06,116.63
+P327,Pedro Torres,48.0,M,,Cardiologia,2024-09-21,367.28
+P989,Luis Torres,48.0,M,Surco,Dermatologia,invalid,385.69
+P308,Luis Gomez,24.0,F,,Dermatologia,2024-11-19,224.96
+P117,Sofia Martinez,67.0,M,,General,2024-03-17,
+P273,Ana Gomez,24.0,M,,Dermatologia,2024-10-24,239.62
+P177,Laura Torres,,F,San Isidro,Pediatria,2024-09-30,462.19
+P240,Luis Martinez,70.0,F,,Pediatria,2024-05-20,150.79
+P425,Juan Torres,1.0,M,,Pediatria,2024-04-11,356.62
+P726,Juan Perez,77.0,M,Miraflores,General,2024-01-17,160.7
+P968,Luis Rodriguez,3.0,M,Surco,Cardiologia,2024-11-08,
+P059,Laura Torres,64.0,F,,Pediatria,2024-03-10,212.85
+P931,Carlos Martinez,10.0,F,Lima,Pediatria,2024-06-07,332.2
+P944,Carlos Perez,44.0,M,Miraflores,Odontologia,2024-01-12,
+P298,Luis Perez,13.0,F,Surco,Odontologia,2024-01-13,493.04
+P442,Luis Perez,82.0,M,Surco,Dermatologia,2024-08-26,52.01
+P052,Ana Lopez,,F,,General,2024-09-13,290.15
+P374,Pedro Martinez,39.0,M,Lima,General,2024-01-08,455.87
+P783,Sofia Perez,42.0,F,Lima,Odontologia,2024-03-25,151.02
+P053,Maria Lopez,12.0,M,Miraflores,General,2024-02-08,288.4
+P103,Ana Lopez,,M,Callao,Cardiologia,2024-03-18,393.82
+P173,Luis Martinez,89.0,M,San Isidro,General,2024-06-16,440.59
+P622,Laura Torres,27.0,M,Surco,Dermatologia,2024-11-25,194.57
+P026,Pedro Perez,7.0,F,,Pediatria,2024-02-20,357.86
+P777,Luis Perez,26.0,F,Surco,Cardiologia,2024-06-18,386.32
+P950,Ana Perez,96.0,M,Miraflores,Dermatologia,2024-11-06,404.81
+P951,Pedro Gomez,18.0,M,Surco,General,2024-11-23,309.47
+P399,Juan Torres,88.0,M,Callao,General,2024-10-28,
+P455,Luis Rodriguez,98.0,M,Lima,Pediatria,2024-03-20,100.62
+P517,Ana Gomez,56.0,F,Miraflores,General,2024-02-06,416.39
+P552,Luis Torres,58.0,F,Miraflores,Dermatologia,2024-09-03,
+P661,Luis Rodriguez,,M,Miraflores,Dermatologia,2024-06-12,356.28
+P586,Maria Gomez,55.0,M,Miraflores,Cardiologia,2024-06-10,349.89
+P710,Laura Perez,34.0,F,Miraflores,Odontologia,2024-09-11,461.17
+P875,Sofia Torres,100.0,M,San Isidro,Odontologia,2024-02-09,299.8
+P047,Sofia Gomez,15.0,F,Callao,General,2024-12-22,352.29
+P562,Carlos Lopez,29.0,M,Lima,Odontologia,2024-08-29,220.24
+P257,Maria Rodriguez,,M,,Dermatologia,2024-07-20,279.59
+P442,Juan Perez,96.0,F,San Isidro,Pediatria,2024-12-08,319.07
+P582,Pedro Martinez,65.0,F,Miraflores,Pediatria,2024-06-08,211.36
+P256,Luis Rodriguez,71.0,M,Miraflores,Cardiologia,2024-01-15,367.15
+P493,Maria Rodriguez,10.0,F,Surco,Pediatria,invalid,218.9
+P723,Carlos Martinez,77.0,M,San Isidro,Dermatologia,2024-04-11,274.67
+P345,Laura Martinez,32.0,M,Callao,Pediatria,2024-11-26,322.76
+P216,Luis Torres,84.0,M,Lima,Dermatologia,2024-06-08,199.14
+P104,Juan Martinez,76.0,F,,Pediatria,2024-09-19,415.09
+P540,Pedro Gomez,61.0,M,,Cardiologia,2024-08-01,114.73
+P180,Laura Torres,70.0,F,Surco,Odontologia,2024-04-11,380.35
+P741,Maria Gomez,23.0,M,San Isidro,Dermatologia,2024-07-22,203.84
+P697,Luis Rodriguez,54.0,F,Lima,General,2024-08-01,130.2
+P320,Carlos Rodriguez,9.0,F,,Pediatria,2024-06-09,68.31
+P799,Laura Rodriguez,20.0,M,San Isidro,Cardiologia,2024-09-19,132.77
+P190,Pedro Rodriguez,38.0,F,Surco,Odontologia,2024-05-29,59.03
+P015,Juan Lopez,87.0,F,Surco,Pediatria,2024-01-01,398.64
+P465,Juan Torres,55.0,F,,Pediatria,2024-09-21,485.6
+P136,Carlos Martinez,39.0,M,Surco,Odontologia,2024-08-06,470.63
+P494,Luis Perez,100.0,M,Surco,General,2024-02-22,324.03
+P504,Juan Lopez,64.0,M,Callao,Pediatria,2024-06-25,279.08
+P843,Luis Martinez,45.0,M,Callao,Pediatria,2024-12-20,285.79
+P166,Luis Martinez,4.0,M,San Isidro,Pediatria,2024-01-18,
+P371,Juan Martinez,97.0,M,San Isidro,General,2024-07-02,194.39
+P411,Laura Gomez,49.0,M,,Pediatria,invalid,498.27
+P606,Maria Perez,68.0,M,Miraflores,Pediatria,2024-12-29,248.65
+P072,Luis Rodriguez,8.0,M,Surco,General,2024-06-17,153.06
+P492,Maria Martinez,21.0,M,,General,2024-09-29,56.98
+P465,Ana Martinez,16.0,M,Lima,Odontologia,invalid,162.22
+P438,Luis Rodriguez,96.0,M,,Dermatologia,2024-05-07,446.14
+P061,Juan Martinez,50.0,F,Lima,Pediatria,2024-11-28,186.38
+P814,Sofia Lopez,55.0,F,,Pediatria,2024-12-30,264.95
+P390,Juan Lopez,58.0,F,Callao,Dermatologia,2024-11-20,249.39
+P521,Maria Rodriguez,49.0,M,Callao,Cardiologia,invalid,259.7
+P395,Carlos Perez,100.0,F,Miraflores,General,2024-03-26,216.49
+P113,Pedro Torres,11.0,F,Lima,Cardiologia,invalid,313.4
+P357,Pedro Lopez,5.0,M,Callao,Dermatologia,2024-11-12,57.35
+P992,Carlos Lopez,12.0,F,Lima,Odontologia,2024-09-14,417.51
+P751,Carlos Lopez,56.0,F,Callao,Dermatologia,2024-07-17,457.28
+P266,Pedro Lopez,57.0,F,San Isidro,General,2024-05-17,50.87
+P291,Pedro Rodriguez,55.0,M,Miraflores,Cardiologia,2024-05-25,152.47
+P942,Ana Perez,37.0,F,Miraflores,Odontologia,2024-01-13,344.14
+P547,Sofia Martinez,53.0,M,,Pediatria,2024-05-05,83.13
+P130,Maria Lopez,29.0,F,San Isidro,Cardiologia,2024-11-03,
+P420,Pedro Perez,76.0,M,Callao,Cardiologia,2024-09-27,423.19
+P703,Juan Lopez,70.0,F,Miraflores,Odontologia,2024-10-18,255.77
+P237,Luis Lopez,42.0,M,,Dermatologia,2024-02-01,94.57
+P590,Luis Martinez,73.0,M,Surco,Pediatria,2024-03-12,389.17
+P176,Ana Rodriguez,87.0,M,Miraflores,Cardiologia,2024-12-21,324.43
+P289,Luis Perez,17.0,M,San Isidro,General,2024-08-14,184.86
+P259,Luis Torres,87.0,F,Lima,Pediatria,2024-11-08,375.94
+P846,Ana Gomez,24.0,M,Callao,Pediatria,2024-05-30,164.64
+P479,Laura Lopez,10.0,F,San Isidro,Cardiologia,2024-03-02,462.97
+P522,Ana Gomez,89.0,F,,Pediatria,2024-05-02,420.53
+P237,Laura Gomez,78.0,F,,General,2024-11-26,89.29
+P187,Luis Lopez,96.0,M,Miraflores,Odontologia,2024-12-02,200.43
+P766,Luis Lopez,26.0,M,Lima,Odontologia,2024-04-10,232.23
+P341,Maria Lopez,,F,,Cardiologia,2024-06-11,93.28
+P724,Carlos Rodriguez,24.0,M,San Isidro,Cardiologia,2024-05-28,246.59
+P459,Laura Torres,74.0,F,San Isidro,Pediatria,2024-05-21,380.57
+P312,Sofia Martinez,66.0,F,Lima,Cardiologia,2024-03-01,487.6
+P235,Sofia Lopez,26.0,F,,Cardiologia,2024-10-29,118.4
+P807,Pedro Gomez,8.0,F,Callao,General,2024-04-24,394.34
+P752,Maria Perez,89.0,F,Miraflores,Odontologia,2024-05-18,352.01
+P565,Juan Rodriguez,52.0,M,,Pediatria,2024-12-16,205.43
+P659,Carlos Torres,79.0,M,Lima,Odontologia,2024-05-30,474.72
+P779,Carlos Martinez,67.0,M,Lima,Cardiologia,2024-09-25,166.48
+P721,Juan Rodriguez,95.0,M,,Odontologia,2024-07-31,403.78
+P865,Maria Lopez,100.0,F,Callao,Dermatologia,2024-10-12,178.01
+P712,Luis Gomez,67.0,F,Miraflores,Odontologia,2024-12-10,444.13
+P231,Carlos Martinez,36.0,F,Miraflores,Pediatria,2024-05-14,197.95
+P969,Maria Lopez,47.0,F,,Odontologia,2024-12-09,117.75
+P893,Ana Lopez,,F,Surco,Dermatologia,2024-01-18,212.28
+P213,Juan Rodriguez,46.0,M,Surco,Dermatologia,2024-05-05,147.31
+P589,Sofia Gomez,11.0,F,San Isidro,Odontologia,2024-10-31,328.87
+P592,Sofia Gomez,54.0,F,San Isidro,General,2024-10-24,246.24
+P359,Sofia Martinez,48.0,M,Lima,General,2024-05-12,244.48
+P711,Luis Perez,63.0,F,Miraflores,Odontologia,2024-03-23,52.02
+P406,Ana Rodriguez,46.0,F,Miraflores,Dermatologia,2024-04-15,181.39
+P172,Laura Perez,31.0,M,,Cardiologia,2024-07-18,480.14
+P553,Sofia Rodriguez,4.0,M,Lima,Dermatologia,2024-04-17,358.32
+P300,Luis Perez,40.0,M,Surco,Dermatologia,2024-09-07,383.38
+P578,Maria Torres,100.0,F,San Isidro,Dermatologia,2024-09-05,206.45
+P713,Carlos Lopez,80.0,M,,General,2024-10-04,498.58
+P537,Pedro Lopez,73.0,F,Lima,Odontologia,2024-11-24,148.15
+P206,Laura Torres,68.0,M,,Cardiologia,2024-10-17,354.19
+P952,Carlos Martinez,65.0,M,Miraflores,Dermatologia,2024-03-15,156.9
+P052,Maria Perez,81.0,F,Callao,Cardiologia,2024-12-30,387.97
+P470,Maria Martinez,80.0,F,San Isidro,Pediatria,invalid,288.01
+P201,Carlos Torres,24.0,M,Lima,Dermatologia,invalid,449.51
+P663,Laura Martinez,20.0,M,Miraflores,Dermatologia,invalid,481.78
+P748,Maria Gomez,74.0,F,Surco,General,2024-04-23,376.58
+P693,Sofia Lopez,26.0,F,Miraflores,Odontologia,2024-08-08,114.24
+P124,Maria Perez,59.0,F,Callao,Cardiologia,2024-06-20,241.16
+P774,Sofia Rodriguez,96.0,F,Miraflores,General,2024-10-01,399.52
+P299,Maria Lopez,90.0,F,Lima,Cardiologia,2024-03-01,458.04
+P654,Luis Gomez,4.0,F,San Isidro,Cardiologia,2024-03-31,299.2
+P576,Carlos Torres,35.0,M,Surco,Odontologia,2024-04-28,121.29
+P565,Pedro Lopez,3.0,M,Callao,General,2024-02-20,433.79
+P855,Carlos Gomez,77.0,F,Miraflores,Dermatologia,2024-08-20,415.84
+P464,Carlos Gomez,40.0,F,Surco,Pediatria,2024-04-27,71.79
+P994,Carlos Lopez,9.0,F,Miraflores,General,2024-08-22,168.13
+P295,Juan Rodriguez,4.0,F,,Cardiologia,2024-02-07,185.91
+P715,Sofia Lopez,84.0,M,Surco,Odontologia,2024-09-30,194.42
+P237,Ana Perez,40.0,M,Miraflores,General,2024-08-14,139.28
+P751,Maria Rodriguez,43.0,F,Lima,Dermatologia,2024-07-24,363.6
+P893,Luis Rodriguez,56.0,F,,Cardiologia,2024-02-24,
+P809,Pedro Lopez,78.0,F,,Cardiologia,2024-08-09,300.55
+P740,Maria Lopez,8.0,F,,Cardiologia,2024-08-17,408.86
+P807,Luis Torres,62.0,F,Lima,Cardiologia,invalid,69.51
+P014,Juan Rodriguez,84.0,M,Surco,Odontologia,2024-09-21,264.17
+P659,Juan Lopez,59.0,M,Surco,Cardiologia,2024-03-12,405.64
+P533,Luis Lopez,89.0,F,Callao,General,2024-10-03,244.56
+P378,Juan Gomez,82.0,M,Lima,Pediatria,2024-05-02,434.13
+P047,Laura Rodriguez,17.0,M,Miraflores,General,2024-01-02,167.44
+P375,Ana Gomez,39.0,M,San Isidro,Cardiologia,2024-09-10,124.68
+P946,Sofia Martinez,76.0,M,Surco,Dermatologia,2024-12-17,
+P759,Laura Rodriguez,16.0,M,Callao,Pediatria,2024-11-10,267.46
+P800,Pedro Gomez,40.0,F,Lima,Cardiologia,2024-07-21,461.36
+P424,Maria Martinez,64.0,M,Callao,Dermatologia,2024-03-04,486.94
+P341,Sofia Perez,,M,Callao,General,invalid,142.37
+P091,Maria Perez,50.0,F,San Isidro,Odontologia,2024-01-18,473.1
+P532,Sofia Martinez,,M,Lima,Dermatologia,2024-08-22,255.61
+P444,Sofia Rodriguez,71.0,M,Lima,Pediatria,2024-11-05,119.47
+P364,Laura Martinez,50.0,F,Callao,Odontologia,2024-05-13,73.13
+P626,Juan Gomez,94.0,F,,General,2024-09-16,98.68
+P984,Luis Lopez,36.0,F,Callao,General,2024-07-21,263.74
+P959,Laura Lopez,93.0,M,Miraflores,Odontologia,2024-01-26,220.67
+P769,Ana Martinez,34.0,M,Callao,Dermatologia,2024-07-14,108.21
+P758,Pedro Lopez,23.0,F,Surco,Pediatria,2024-06-03,204.36
+P843,Maria Rodriguez,62.0,M,Surco,General,2024-03-13,421.19
+P969,Laura Martinez,47.0,F,San Isidro,Dermatologia,2024-07-18,213.04
+P660,Carlos Rodriguez,2.0,F,Surco,Cardiologia,2024-07-18,362.37
+P665,Ana Torres,39.0,M,San Isidro,Odontologia,2024-02-24,99.39
+P154,Luis Lopez,90.0,F,Miraflores,Cardiologia,invalid,304.54
+P564,Sofia Torres,22.0,M,Surco,Odontologia,2024-10-31,360.04
+P110,Laura Perez,66.0,M,Surco,Odontologia,2024-11-18,
+P224,Luis Perez,26.0,M,San Isidro,Dermatologia,2024-06-25,497.4
+P401,Pedro Torres,91.0,F,Surco,Odontologia,2024-04-03,123.75
+P464,Ana Gomez,,F,,Dermatologia,2024-03-15,100.89
+P214,Juan Lopez,37.0,M,Lima,Odontologia,2024-04-11,455.93
+P311,Ana Gomez,67.0,F,Lima,Pediatria,2024-01-17,259.8
+P010,Carlos Rodriguez,81.0,F,Surco,General,2024-08-11,433.41
+P070,Juan Martinez,18.0,M,Callao,Dermatologia,2024-06-15,367.44
+P913,Juan Torres,40.0,F,Surco,Cardiologia,2024-12-13,179.62
+P919,Luis Gomez,60.0,F,,General,2024-01-14,87.0
+P799,Sofia Martinez,41.0,F,San Isidro,Pediatria,2024-09-04,296.73
+P334,Maria Perez,80.0,F,Callao,Dermatologia,2024-08-30,327.86
+P285,Laura Torres,45.0,F,Miraflores,Dermatologia,2024-01-08,302.55
+P908,Laura Rodriguez,18.0,M,Surco,Cardiologia,2024-05-06,104.04
+P571,Laura Gomez,30.0,F,Miraflores,Odontologia,2024-01-20,477.89
+P050,Carlos Torres,96.0,F,Lima,Pediatria,2024-04-23,177.3
+P820,Pedro Rodriguez,82.0,M,Surco,General,2024-04-17,345.16
+P724,Luis Gomez,36.0,M,Lima,Cardiologia,2024-11-10,179.24
+P701,Sofia Martinez,8.0,F,San Isidro,General,2024-08-11,398.08
+P431,Laura Rodriguez,,F,Lima,Pediatria,2024-07-03,166.81
+P533,Carlos Perez,49.0,M,Lima,General,2024-12-01,428.76
+P122,Juan Rodriguez,34.0,F,Surco,Pediatria,2024-11-12,383.23
+P684,Pedro Gomez,68.0,F,,Odontologia,2024-06-07,378.94
+P988,Luis Torres,94.0,M,Surco,General,2024-03-14,287.79
+P590,Sofia Gomez,,F,Miraflores,Pediatria,2024-12-10,499.27
+P950,Laura Perez,78.0,F,,General,2024-05-03,428.09
+P111,Carlos Perez,5.0,F,Surco,Pediatria,2024-01-22,402.05
+P674,Laura Martinez,80.0,F,Lima,Pediatria,invalid,423.9
+P287,Luis Perez,47.0,M,Callao,Cardiologia,2024-09-08,223.97
+P204,Juan Torres,,M,Lima,Odontologia,2024-11-26,50.05
+P853,Ana Torres,15.0,F,Miraflores,Cardiologia,invalid,283.26
+P081,Carlos Gomez,19.0,F,,Odontologia,2024-07-22,415.47
+P070,Luis Perez,94.0,F,Surco,Dermatologia,invalid,397.31
+P426,Carlos Gomez,25.0,M,San Isidro,Dermatologia,2024-11-10,214.95
+P742,Ana Perez,26.0,F,Callao,Odontologia,2024-10-22,249.95
+P429,Pedro Gomez,45.0,F,San Isidro,Pediatria,2024-04-13,307.52
+P853,Ana Gomez,45.0,M,Callao,General,2024-10-27,259.92
+P861,Luis Gomez,82.0,M,Miraflores,Odontologia,2024-06-30,408.84
+P910,Carlos Lopez,57.0,M,Surco,Cardiologia,2024-07-04,
+P684,Luis Martinez,82.0,F,Surco,Dermatologia,2024-03-21,425.98
+P292,Sofia Rodriguez,64.0,M,Callao,General,2024-01-01,60.88
+P541,Laura Rodriguez,82.0,F,Lima,Pediatria,2024-05-23,261.59
+P471,Luis Gomez,57.0,F,Miraflores,General,2024-08-16,245.1
+P816,Luis Martinez,18.0,F,Surco,Cardiologia,2024-10-08,87.81
+P369,Pedro Perez,92.0,F,,Pediatria,2024-05-14,391.16
+P667,Juan Gomez,79.0,F,Surco,Odontologia,2024-11-13,494.19
+P279,Sofia Gomez,96.0,M,,Cardiologia,2024-12-30,233.55
+P559,Pedro Gomez,33.0,M,Surco,Cardiologia,invalid,212.59
+P665,Ana Perez,57.0,M,Miraflores,Cardiologia,2024-11-03,95.84
+P844,Pedro Perez,19.0,F,Callao,Dermatologia,2024-11-28,487.72
+P139,Ana Gomez,29.0,M,Callao,Cardiologia,2024-10-25,196.8
+P608,Luis Martinez,76.0,F,Surco,Dermatologia,2024-06-27,441.77
+P866,Sofia Rodriguez,2.0,M,Surco,Dermatologia,2024-11-25,324.31
+P382,Sofia Lopez,19.0,F,Lima,Pediatria,2024-11-22,279.77
+P718,Pedro Martinez,32.0,F,Miraflores,Cardiologia,2024-02-20,102.58
+P794,Sofia Lopez,37.0,F,Callao,Odontologia,2024-10-08,169.35
+P923,Ana Torres,11.0,F,Miraflores,Dermatologia,2024-05-20,266.75
+P329,Sofia Lopez,4.0,M,San Isidro,Dermatologia,2024-06-24,297.87
+P280,Luis Torres,63.0,F,,Odontologia,2024-10-01,379.09
+P196,Ana Martinez,95.0,F,San Isidro,Odontologia,2024-10-20,199.93
+P797,Laura Perez,14.0,F,Lima,Dermatologia,2024-11-12,
+P214,Juan Perez,40.0,M,,Dermatologia,2024-01-03,253.5
+P995,Luis Rodriguez,34.0,F,,Dermatologia,2024-05-10,161.58
+P266,Luis Gomez,33.0,M,Lima,Pediatria,2024-07-09,69.7
+P361,Sofia Gomez,29.0,M,,General,2024-06-06,305.78
+P052,Carlos Torres,84.0,F,San Isidro,Cardiologia,2024-06-25,290.39
+P995,Ana Perez,98.0,F,Callao,General,2024-04-10,262.94
+P074,Sofia Perez,44.0,M,,Cardiologia,2024-03-23,271.12
+P495,Juan Perez,25.0,F,,Dermatologia,invalid,387.52
+P624,Pedro Perez,7.0,F,,Dermatologia,2024-04-19,397.41
+P687,Juan Gomez,38.0,M,San Isidro,General,2024-11-21,283.88
+P882,Luis Torres,71.0,M,Lima,Dermatologia,2024-12-21,346.87
+P266,Juan Lopez,42.0,M,,General,invalid,378.05
+P111,Maria Torres,6.0,M,Miraflores,Pediatria,2024-08-16,459.22
+P033,Maria Lopez,74.0,F,San Isidro,Pediatria,2024-12-08,454.38
+P740,Sofia Rodriguez,31.0,F,Miraflores,Cardiologia,2024-10-18,211.06
+P273,Carlos Gomez,57.0,F,Miraflores,Dermatologia,2024-10-27,197.22
+P971,Maria Rodriguez,76.0,F,Surco,Odontologia,invalid,
+P083,Juan Rodriguez,58.0,F,Miraflores,Odontologia,2024-04-11,67.31
+P193,Carlos Gomez,,F,Callao,General,2024-12-14,202.52
+P587,Pedro Lopez,,F,San Isidro,Odontologia,2024-05-24,133.66
+P560,Pedro Perez,90.0,M,Miraflores,Cardiologia,2024-01-11,133.93
+P550,Pedro Perez,17.0,M,Surco,Dermatologia,invalid,282.45
+P773,Juan Torres,60.0,F,Lima,Pediatria,2024-06-12,276.57
+P807,Sofia Rodriguez,61.0,M,San Isidro,General,2024-03-14,389.99
+P880,Maria Perez,44.0,F,Callao,Cardiologia,2024-03-26,456.03
+P866,Juan Rodriguez,35.0,F,Miraflores,Pediatria,2024-04-28,165.73
+P723,Laura Gomez,59.0,M,Miraflores,General,2024-08-26,119.77
+P251,Luis Rodriguez,70.0,F,Callao,Dermatologia,2024-07-07,420.34
+P381,Juan Perez,90.0,M,Lima,Dermatologia,2024-09-29,322.05
+P070,Sofia Torres,29.0,F,Miraflores,Cardiologia,2024-03-22,460.31
+P465,Maria Gomez,71.0,M,,Odontologia,2024-06-17,342.11
+P785,Ana Martinez,,F,San Isidro,Odontologia,2024-07-06,214.72
+P189,Pedro Lopez,89.0,M,Surco,Cardiologia,2024-09-10,
+P271,Luis Perez,40.0,M,Lima,Dermatologia,2024-02-02,
+P164,Pedro Torres,6.0,M,Miraflores,Dermatologia,2024-01-31,82.08
+P613,Luis Lopez,27.0,F,Miraflores,Pediatria,2024-09-14,370.93
+P167,Pedro Lopez,,M,Miraflores,General,2024-07-27,375.19
+P717,Carlos Gomez,16.0,M,Callao,Odontologia,invalid,480.17
+P550,Juan Perez,10.0,F,San Isidro,Pediatria,2024-03-04,312.56
+P047,Sofia Perez,88.0,M,Miraflores,General,2024-07-12,298.8
+P239,Maria Rodriguez,99.0,M,San Isidro,Cardiologia,2024-10-21,404.9
+P546,Maria Lopez,36.0,M,Miraflores,Dermatologia,2024-02-29,370.13
+P871,Laura Lopez,,F,,Dermatologia,2024-03-16,179.33
+P810,Carlos Martinez,3.0,F,San Isidro,Cardiologia,2024-11-13,255.28
+P458,Carlos Gomez,50.0,M,Surco,Pediatria,2024-03-17,403.48
+P236,Sofia Torres,70.0,M,Lima,Dermatologia,2024-07-18,125.31
+P938,Juan Rodriguez,26.0,M,,General,2024-06-01,426.92
+P364,Ana Martinez,20.0,M,,Odontologia,2024-03-27,
+P374,Pedro Martinez,68.0,M,Lima,Cardiologia,2024-02-02,372.94
+P173,Laura Torres,83.0,F,Lima,Cardiologia,2024-11-14,448.64
+P341,Carlos Gomez,68.0,M,Surco,Odontologia,2024-06-02,164.17
+P060,Maria Lopez,64.0,F,Callao,Cardiologia,2024-05-05,296.3
+P225,Sofia Martinez,16.0,M,,Pediatria,2024-03-04,
+P636,Sofia Lopez,12.0,F,,Pediatria,2024-02-25,50.45
+P667,Maria Rodriguez,14.0,M,Callao,General,2024-08-11,198.35
+P154,Carlos Lopez,43.0,F,Surco,Pediatria,2024-08-20,198.89
+P839,Maria Perez,71.0,F,,Dermatologia,2024-06-23,185.18
+P871,Carlos Lopez,13.0,F,San Isidro,Dermatologia,2024-07-19,90.45
+P187,Sofia Torres,23.0,M,Miraflores,Odontologia,2024-04-03,282.05
+P529,Luis Gomez,29.0,M,,General,2024-01-23,447.39
+P045,Ana Gomez,19.0,F,San Isidro,Dermatologia,invalid,403.77
+P725,Ana Torres,16.0,F,,Odontologia,2024-06-12,118.95
+P521,Juan Rodriguez,90.0,F,Miraflores,Cardiologia,2024-08-19,107.13
+P754,Juan Rodriguez,32.0,F,Lima,Odontologia,2024-05-26,245.24
+P159,Ana Gomez,13.0,F,Miraflores,Cardiologia,2024-01-05,89.55
+P954,Laura Lopez,37.0,F,,Cardiologia,2024-09-28,385.7
+P151,Maria Torres,72.0,F,Callao,Dermatologia,2024-09-05,194.1
+P919,Maria Perez,31.0,F,,Odontologia,2024-08-25,136.89
+P054,Carlos Martinez,49.0,F,,Cardiologia,2024-07-08,368.36
+P438,Maria Torres,4.0,F,Callao,Cardiologia,invalid,386.74
+P345,Laura Perez,69.0,M,Miraflores,Cardiologia,2024-08-06,180.17
+P161,Maria Torres,5.0,M,San Isidro,Odontologia,2024-08-22,219.2
+P002,Sofia Rodriguez,81.0,F,Callao,Dermatologia,2024-01-12,253.59
+P863,Pedro Rodriguez,6.0,M,Callao,Cardiologia,2024-07-23,156.76
+P369,Sofia Torres,31.0,F,Surco,Odontologia,2024-11-04,162.91
+P832,Ana Lopez,88.0,M,Callao,Dermatologia,2024-07-08,208.47
+P512,Maria Lopez,21.0,F,Miraflores,Pediatria,2024-10-31,282.13
+P534,Laura Torres,25.0,M,,Odontologia,2024-01-10,200.31
+P240,Pedro Lopez,12.0,M,,Odontologia,2024-08-18,274.96
+P623,Carlos Gomez,76.0,M,Callao,General,2024-07-21,152.64
+P269,Pedro Rodriguez,29.0,M,Miraflores,Dermatologia,2024-01-31,476.98
+P427,Juan Torres,67.0,M,Surco,Odontologia,2024-06-25,85.51
+P814,Carlos Perez,36.0,F,Callao,Cardiologia,2024-07-23,453.64
+P906,Luis Gomez,24.0,F,Miraflores,Odontologia,2024-12-30,
+P133,Carlos Lopez,69.0,F,San Isidro,Odontologia,2024-12-09,320.98
+P861,Laura Rodriguez,63.0,F,San Isidro,Cardiologia,2024-01-15,79.43
+P016,Ana Perez,90.0,M,Callao,Odontologia,2024-11-04,236.05
+P477,Ana Torres,53.0,F,Miraflores,Cardiologia,invalid,456.13
+P980,Ana Perez,57.0,M,Lima,Odontologia,2024-10-27,60.56
+P403,Carlos Martinez,9.0,F,Lima,General,2024-05-22,170.09
+P071,Maria Lopez,78.0,F,Callao,Dermatologia,2024-10-27,404.91
+P153,Sofia Rodriguez,7.0,F,San Isidro,Dermatologia,2024-01-13,
+P700,Laura Perez,55.0,F,San Isidro,Pediatria,2024-05-12,188.29
+P836,Luis Rodriguez,36.0,M,Surco,Cardiologia,2024-09-21,462.58
+P346,Maria Rodriguez,30.0,M,Miraflores,Pediatria,2024-12-19,439.63
+P304,Laura Rodriguez,62.0,F,Callao,General,2024-08-20,57.11
+P180,Pedro Torres,93.0,F,Surco,General,2024-03-01,148.65
+P911,Laura Lopez,50.0,M,Lima,Dermatologia,2024-10-18,272.63
+P213,Luis Martinez,43.0,M,,Dermatologia,2024-10-11,247.84
+P924,Juan Torres,67.0,F,Lima,Cardiologia,2024-06-12,423.26
+P394,Ana Torres,10.0,M,,Dermatologia,2024-09-02,467.99
+P166,Luis Perez,49.0,F,Miraflores,Odontologia,2024-07-16,421.73
+P274,Pedro Gomez,41.0,F,Lima,Pediatria,2024-02-04,279.49
+P596,Ana Perez,,M,San Isidro,Cardiologia,2024-06-30,453.93
+P899,Sofia Lopez,77.0,F,Callao,Dermatologia,2024-07-03,424.62
+P273,Ana Martinez,91.0,M,Lima,Dermatologia,2024-12-03,497.9
+P736,Juan Lopez,13.0,M,Lima,Dermatologia,invalid,181.14
+P359,Sofia Torres,24.0,M,Lima,Cardiologia,2024-01-08,170.9
+P470,Luis Lopez,78.0,F,Surco,Odontologia,2024-12-19,381.82
+P099,Ana Rodriguez,86.0,F,,General,2024-10-07,
+P244,Maria Lopez,72.0,M,,Pediatria,2024-01-20,342.8
+P708,Carlos Lopez,7.0,F,Miraflores,General,2024-04-06,266.39
+P154,Ana Torres,17.0,M,San Isidro,Pediatria,2024-03-10,377.62
+P306,Ana Gomez,56.0,F,Callao,Dermatologia,2024-10-01,372.44
+P985,Laura Torres,64.0,F,Surco,Cardiologia,2024-07-13,203.54
+P721,Luis Lopez,90.0,F,Lima,Pediatria,2024-09-21,436.86
+P244,Pedro Gomez,47.0,F,Lima,Odontologia,2024-03-06,429.75
+P448,Ana Lopez,24.0,M,Surco,Odontologia,2024-01-18,327.19
+P518,Ana Lopez,49.0,M,Miraflores,Cardiologia,2024-06-14,185.58
+P238,Juan Rodriguez,15.0,F,San Isidro,Cardiologia,2024-06-09,171.33
+P785,Laura Rodriguez,26.0,M,Lima,Cardiologia,invalid,219.85
+P438,Sofia Lopez,85.0,F,Surco,Pediatria,2024-02-11,217.61
+P438,Carlos Martinez,85.0,M,Miraflores,Odontologia,2024-03-08,53.8
+P276,Maria Gomez,32.0,M,Miraflores,Cardiologia,2024-06-24,413.01
+P134,Pedro Perez,70.0,F,San Isidro,Pediatria,invalid,485.75
+P177,Maria Torres,91.0,F,,Pediatria,2024-10-23,499.64
+P714,Juan Perez,80.0,M,Miraflores,Pediatria,2024-10-09,
+P879,Luis Gomez,44.0,M,,Pediatria,2024-04-11,435.65
+P978,Maria Rodriguez,55.0,F,Surco,General,2024-12-09,
+P453,Juan Torres,,M,Surco,General,2024-12-01,363.14
+P394,Ana Gomez,8.0,F,Miraflores,General,2024-06-26,66.89
+P077,Ana Perez,6.0,M,Callao,Pediatria,invalid,409.87
+P337,Maria Torres,40.0,M,Callao,Odontologia,2024-08-17,150.88
+P238,Pedro Martinez,24.0,M,Surco,Pediatria,2024-07-28,422.38
+P002,Juan Rodriguez,29.0,F,Miraflores,Dermatologia,2024-09-28,459.24
+P321,Juan Rodriguez,63.0,M,Lima,General,2024-12-17,84.75
+P393,Luis Lopez,42.0,F,Miraflores,General,2024-11-08,244.27
+P314,Luis Martinez,45.0,M,Miraflores,Odontologia,2024-12-28,330.07
+P201,Laura Lopez,11.0,M,San Isidro,Dermatologia,2024-10-28,110.61
+P314,Luis Torres,60.0,F,Callao,General,2024-06-09,377.48
+P828,Juan Perez,53.0,F,Lima,Pediatria,invalid,93.25
+P599,Luis Lopez,31.0,M,Surco,General,2024-10-04,111.66
+P193,Ana Torres,11.0,F,,General,2024-08-31,191.37
+P977,Ana Rodriguez,3.0,F,Lima,Cardiologia,2024-10-05,290.57
+P715,Laura Gomez,46.0,F,,General,2024-10-14,154.34
+P742,Luis Martinez,99.0,M,Miraflores,Pediatria,2024-03-14,50.02
+P883,Luis Gomez,91.0,M,Miraflores,General,2024-02-12,140.33
+P833,Juan Martinez,99.0,M,,Dermatologia,2024-11-25,208.37
+P788,Ana Rodriguez,41.0,F,Lima,Pediatria,2024-10-31,209.38
+P522,Sofia Perez,39.0,F,,Dermatologia,2024-10-26,367.93
+P778,Carlos Martinez,66.0,M,Lima,Dermatologia,2024-08-30,283.83
+P696,Pedro Gomez,70.0,M,San Isidro,Pediatria,2024-04-09,76.39
+P518,Luis Rodriguez,21.0,M,Miraflores,Pediatria,2024-09-09,466.15
+P941,Pedro Rodriguez,100.0,F,Lima,Cardiologia,2024-12-28,357.22
+P697,Maria Martinez,24.0,M,Miraflores,Cardiologia,2024-03-12,429.48
+P448,Juan Martinez,27.0,M,San Isidro,Pediatria,2024-08-09,353.14
+P934,Juan Perez,59.0,F,Surco,Odontologia,invalid,93.99
+P631,Sofia Torres,97.0,M,Miraflores,General,invalid,257.33
+P667,Luis Perez,31.0,M,Callao,Pediatria,2024-08-03,237.37
+P819,Carlos Rodriguez,42.0,M,Callao,Cardiologia,2024-03-24,306.68
+P295,Maria Martinez,83.0,F,Lima,Pediatria,2024-09-13,194.3
+P669,Ana Lopez,42.0,M,Callao,Odontologia,2024-08-22,217.41
+P697,Juan Gomez,34.0,F,Miraflores,Odontologia,2024-03-26,103.89
+P641,Carlos Perez,7.0,M,Miraflores,Dermatologia,2024-11-22,161.15
+P175,Luis Martinez,19.0,M,Lima,Pediatria,2024-12-01,116.26
+P951,Carlos Martinez,92.0,F,,Pediatria,2024-01-20,388.16
+P226,Juan Lopez,7.0,M,Miraflores,Odontologia,2024-03-16,424.37
+P602,Pedro Torres,51.0,F,Callao,Pediatria,2024-01-03,455.41
+P361,Carlos Martinez,75.0,F,,Pediatria,2024-04-14,50.46
+P518,Maria Gomez,34.0,M,Surco,Cardiologia,2024-03-28,119.21
+P573,Laura Martinez,55.0,M,Surco,Dermatologia,2024-04-11,426.19
+P828,Juan Lopez,32.0,F,Lima,Odontologia,2024-10-17,
+P857,Maria Torres,74.0,F,Lima,General,2024-01-13,138.85
+P051,Laura Torres,92.0,M,San Isidro,Pediatria,2024-06-03,219.55
+P151,Pedro Martinez,89.0,F,Surco,General,2024-03-26,
+P990,Luis Perez,33.0,F,San Isidro,General,2024-05-26,309.21
+P859,Pedro Torres,15.0,F,Lima,Odontologia,2024-12-10,322.5
+P533,Juan Gomez,56.0,F,Lima,Odontologia,2024-12-22,192.98
+P016,Luis Rodriguez,17.0,M,Callao,Dermatologia,2024-01-05,
+P210,Pedro Lopez,24.0,F,Miraflores,Cardiologia,2024-12-24,403.87
+P393,Juan Perez,1.0,F,Callao,Dermatologia,invalid,241.67
+P554,Juan Torres,87.0,F,Miraflores,Pediatria,2024-01-15,273.13
+P865,Maria Lopez,8.0,F,Lima,Pediatria,2024-06-27,257.19
+P745,Pedro Gomez,16.0,M,Callao,Dermatologia,2024-01-14,264.02
+P232,Maria Lopez,81.0,F,Lima,Odontologia,2024-11-19,110.57
+P641,Pedro Martinez,61.0,M,Surco,Odontologia,2024-09-11,116.66
+P028,Luis Perez,44.0,M,,General,2024-09-22,316.91
+P671,Pedro Lopez,,F,Miraflores,Odontologia,2024-08-27,462.75
+P765,Juan Gomez,67.0,F,,Dermatologia,invalid,354.53
+P202,Carlos Martinez,47.0,F,Lima,General,2024-12-07,137.13
+P709,Luis Gomez,13.0,M,,Odontologia,2024-04-02,125.59
+P607,Laura Perez,61.0,F,Surco,General,2024-02-26,143.06
+P713,Juan Martinez,54.0,F,Miraflores,Cardiologia,2024-06-10,218.75
+P275,Sofia Perez,51.0,M,Surco,Dermatologia,2024-06-01,59.12
+P560,Laura Torres,54.0,F,Lima,General,2024-02-28,
+P462,Carlos Perez,16.0,F,,General,2024-04-14,188.45
+P353,Maria Lopez,,F,Callao,Pediatria,2024-11-29,413.51
+P207,Pedro Rodriguez,6.0,F,Lima,General,2024-07-23,164.85
+P427,Luis Gomez,86.0,M,Lima,General,2024-06-13,
+P361,Luis Torres,65.0,F,San Isidro,Odontologia,2024-09-07,383.0
+P164,Ana Torres,51.0,F,San Isidro,Pediatria,2024-01-25,76.67
+P274,Carlos Martinez,73.0,F,Surco,Dermatologia,2024-07-06,321.73
+P588,Juan Perez,75.0,F,Lima,General,2024-03-14,311.29
+P558,Luis Gomez,,M,San Isidro,Odontologia,2024-11-22,199.47
+P148,Pedro Rodriguez,10.0,F,Callao,General,2024-10-30,393.93
+P160,Maria Gomez,96.0,M,Callao,Odontologia,2024-01-02,78.66
+P243,Pedro Perez,65.0,F,,Pediatria,2024-12-06,299.79
+P087,Laura Torres,44.0,M,Surco,Cardiologia,2024-03-22,486.94
+P332,Juan Torres,50.0,F,Lima,Cardiologia,2024-03-29,376.38
+P966,Sofia Lopez,62.0,F,Lima,General,2024-05-09,434.93
+P310,Carlos Lopez,13.0,M,San Isidro,Dermatologia,2024-10-08,86.91
+P508,Ana Torres,45.0,M,San Isidro,Cardiologia,invalid,289.14
+P584,Carlos Torres,,M,,Dermatologia,2024-03-22,472.78
+P930,Pedro Gomez,70.0,M,,Pediatria,2024-04-06,343.68
+P401,Ana Rodriguez,37.0,F,Callao,Pediatria,2024-02-29,377.76
+P246,Maria Perez,,M,San Isidro,Odontologia,invalid,
+P121,Pedro Martinez,50.0,M,,Dermatologia,2024-03-03,421.18
+P308,Laura Perez,92.0,M,Surco,Odontologia,2024-12-03,368.67
+P979,Maria Martinez,,M,Lima,Odontologia,2024-01-14,225.63
+P636,Ana Torres,34.0,F,Lima,General,2024-09-18,246.21
+P731,Luis Martinez,29.0,M,San Isidro,Odontologia,invalid,295.06
+P026,Luis Gomez,35.0,F,San Isidro,General,2024-07-14,159.96
+P605,Juan Perez,77.0,F,San Isidro,General,2024-05-16,236.09
+P288,Maria Perez,60.0,M,Lima,Dermatologia,2024-09-15,320.41
+P903,Laura Rodriguez,27.0,F,,Odontologia,2024-10-23,392.24
+P391,Carlos Perez,41.0,M,Surco,Dermatologia,2024-08-03,221.83
+P391,Luis Torres,53.0,F,,Odontologia,2024-03-24,494.59
+P410,Maria Martinez,76.0,M,Callao,Pediatria,2024-01-21,246.41
+P688,Juan Martinez,19.0,M,Miraflores,Pediatria,2024-08-27,96.67
+P558,Carlos Torres,42.0,M,Surco,General,2024-04-07,494.78
+P810,Luis Gomez,11.0,M,Callao,Dermatologia,invalid,248.97
+P904,Carlos Gomez,41.0,M,Surco,Odontologia,2024-03-09,368.47
+P857,Laura Lopez,49.0,M,,Odontologia,2024-02-13,396.15
+P377,Laura Rodriguez,48.0,M,Lima,Odontologia,2024-03-30,330.7
+P878,Juan Gomez,52.0,M,San Isidro,Pediatria,invalid,358.43
+P242,Ana Torres,82.0,F,Callao,General,2024-10-08,170.07
+P884,Carlos Martinez,36.0,M,,Cardiologia,2024-09-04,106.18
+P945,Juan Gomez,11.0,M,Surco,Pediatria,2024-07-04,138.05
+P498,Luis Perez,71.0,M,Miraflores,General,2024-03-28,213.81
+P607,Ana Torres,24.0,F,Callao,Pediatria,2024-06-09,487.43
+P303,Pedro Lopez,9.0,F,,Pediatria,2024-05-08,309.89
+P194,Laura Gomez,83.0,M,Miraflores,Cardiologia,2024-06-08,346.78
+P911,Luis Lopez,87.0,M,Callao,Odontologia,2024-12-14,235.16
+P608,Laura Perez,18.0,F,Callao,Cardiologia,2024-02-09,56.33
+P035,Pedro Martinez,30.0,M,Miraflores,Cardiologia,2024-01-03,395.93
+P615,Ana Rodriguez,63.0,M,Callao,General,2024-09-01,451.89
+P767,Ana Perez,83.0,M,Callao,Cardiologia,2024-01-17,396.74
+P668,Carlos Lopez,7.0,M,San Isidro,Pediatria,2024-01-26,133.62
+P282,Ana Rodriguez,89.0,F,Lima,Dermatologia,2024-01-11,241.47
+P853,Carlos Rodriguez,26.0,M,San Isidro,General,2024-07-17,164.1
+P478,Luis Gomez,43.0,M,Lima,Cardiologia,2024-02-18,333.51
+P836,Sofia Rodriguez,48.0,F,Lima,Pediatria,2024-10-05,494.49
+P295,Ana Rodriguez,55.0,F,Lima,Cardiologia,2024-05-11,432.98
+P226,Maria Martinez,17.0,F,San Isidro,Pediatria,2024-12-05,255.31
+P267,Sofia Gomez,57.0,F,San Isidro,General,2024-01-31,248.86
+P600,Pedro Torres,4.0,M,,Odontologia,2024-12-15,249.57
+P907,Maria Rodriguez,40.0,F,San Isidro,General,2024-03-06,
+P761,Laura Gomez,11.0,M,Callao,Odontologia,2024-07-14,
+P344,Ana Rodriguez,100.0,M,San Isidro,Dermatologia,2024-09-05,367.93
+P147,Laura Gomez,68.0,M,,Odontologia,2024-12-06,99.89
+P643,Laura Perez,26.0,F,Callao,Dermatologia,2024-07-12,78.3
+P800,Sofia Gomez,28.0,M,Lima,Odontologia,2024-05-28,144.44
+P124,Juan Perez,3.0,M,San Isidro,Dermatologia,2024-02-05,312.29
+P597,Pedro Gomez,41.0,F,San Isidro,Dermatologia,2024-07-31,292.03
+P165,Juan Martinez,14.0,F,San Isidro,Pediatria,2024-04-28,63.73
+P813,Laura Lopez,90.0,M,Surco,Dermatologia,invalid,84.91
+P256,Luis Martinez,80.0,M,Callao,Cardiologia,2024-06-08,382.12
+P823,Luis Torres,32.0,F,Lima,Pediatria,2024-12-30,418.07
+P600,Sofia Rodriguez,12.0,M,Surco,Cardiologia,invalid,215.84
+P557,Laura Martinez,55.0,F,Lima,General,2024-08-01,279.29
+P790,Juan Perez,5.0,F,Lima,General,invalid,
+P773,Juan Lopez,80.0,F,Surco,Pediatria,2024-08-10,296.44
+P148,Laura Torres,59.0,M,San Isidro,Dermatologia,2024-08-09,318.22
+P368,Sofia Perez,57.0,M,Lima,Odontologia,2024-03-12,60.2
+P229,Juan Martinez,47.0,M,Callao,Odontologia,invalid,300.69
+P865,Pedro Martinez,31.0,F,Callao,Dermatologia,2024-07-23,362.27
+P023,Maria Lopez,25.0,F,Miraflores,General,2024-09-07,409.06
+P971,Sofia Gomez,43.0,M,Callao,Dermatologia,2024-08-05,203.01
+P348,Maria Gomez,30.0,M,Surco,Odontologia,invalid,344.37
+P589,Juan Gomez,57.0,F,Callao,Odontologia,2024-03-19,216.95
+P861,Ana Gomez,,M,Miraflores,Cardiologia,2024-03-04,124.12
+P622,Carlos Martinez,,F,Miraflores,Cardiologia,2024-06-19,433.15
+P701,Luis Gomez,68.0,F,San Isidro,Pediatria,2024-03-15,366.69
+P791,Pedro Perez,2.0,M,Lima,General,2024-11-20,217.89
+P770,Sofia Gomez,75.0,F,Surco,Odontologia,2024-01-07,90.04
+P166,Sofia Perez,50.0,F,,Cardiologia,2024-03-26,348.5
+P134,Pedro Perez,,F,Miraflores,Pediatria,2024-09-20,469.79
+P423,Laura Gomez,15.0,F,Surco,Cardiologia,2024-01-07,130.14
+P806,Laura Torres,25.0,M,,Dermatologia,2024-10-25,411.93
+P754,Juan Martinez,48.0,M,Lima,Cardiologia,2024-06-19,466.87
+P061,Carlos Perez,14.0,F,Lima,Odontologia,2024-08-25,437.85
+P116,Laura Martinez,64.0,F,,Pediatria,2024-10-04,103.17
+P203,Laura Martinez,66.0,F,Callao,Dermatologia,2024-05-03,331.72
+P442,Ana Torres,33.0,F,San Isidro,General,2024-04-15,198.34
+P163,Maria Gomez,66.0,M,Lima,Odontologia,2024-11-08,244.21
+P147,Sofia Torres,95.0,F,,Pediatria,2024-01-11,228.86
+P255,Laura Martinez,14.0,M,Miraflores,Cardiologia,2024-08-07,216.74
+P807,Ana Lopez,29.0,M,Surco,General,2024-03-01,297.04
+P891,Luis Torres,86.0,M,San Isidro,Dermatologia,2024-11-01,489.87
+P034,Pedro Lopez,63.0,M,Lima,Pediatria,2024-06-29,151.51
+P342,Ana Lopez,81.0,F,Surco,Cardiologia,2024-05-28,431.47
+P238,Pedro Martinez,,F,Lima,Pediatria,invalid,417.66
+P232,Maria Torres,70.0,M,San Isidro,Pediatria,2024-10-09,409.48
+P407,Carlos Lopez,86.0,F,,Odontologia,2024-10-06,394.39
+P252,Carlos Martinez,30.0,F,Callao,Cardiologia,2024-07-17,446.54
+P448,Pedro Rodriguez,100.0,M,Surco,General,2024-08-14,474.68
+P372,Juan Martinez,23.0,F,Callao,Cardiologia,2024-09-04,321.87
+P361,Pedro Torres,35.0,M,Lima,General,2024-03-27,123.5
+P570,Carlos Rodriguez,38.0,M,Miraflores,Dermatologia,2024-10-18,168.68
+P186,Luis Lopez,83.0,M,Lima,Pediatria,2024-10-24,489.13
+P088,Juan Rodriguez,53.0,M,San Isidro,Pediatria,2024-07-10,496.37
+P367,Laura Martinez,11.0,M,,General,2024-01-18,135.96
+P104,Carlos Martinez,39.0,F,Surco,Pediatria,2024-11-01,491.39
+P945,Maria Martinez,7.0,F,San Isidro,Pediatria,2024-05-31,404.77
+P652,Maria Perez,45.0,F,San Isidro,Odontologia,2024-05-14,414.25
+P649,Pedro Torres,5.0,F,Surco,General,2024-08-02,336.72
+P410,Laura Rodriguez,34.0,F,Callao,Dermatologia,2024-06-07,312.44
+P020,Ana Lopez,88.0,M,,Dermatologia,invalid,305.41
+P631,Laura Torres,8.0,F,Lima,Pediatria,2024-10-29,225.34
+P287,Juan Lopez,61.0,F,San Isidro,Cardiologia,2024-05-01,
+P074,Carlos Torres,22.0,M,San Isidro,Odontologia,2024-06-18,490.4
+P646,Ana Gomez,82.0,F,,Odontologia,2024-03-21,422.15
+P378,Carlos Torres,8.0,M,San Isidro,Pediatria,2024-07-18,
+P700,Carlos Martinez,27.0,F,Miraflores,Odontologia,2024-05-03,367.05
+P555,Pedro Perez,72.0,F,San Isidro,General,2024-03-11,405.01
+P680,Ana Perez,39.0,M,Surco,Dermatologia,2024-04-05,384.48
+P032,Pedro Rodriguez,18.0,M,San Isidro,Dermatologia,2024-06-21,114.78
+P200,Sofia Lopez,3.0,M,Miraflores,Cardiologia,invalid,447.51
+P423,Juan Torres,59.0,F,San Isidro,Odontologia,2024-04-24,143.48
+P482,Maria Lopez,95.0,F,Surco,Dermatologia,2024-02-05,120.41
+P652,Pedro Martinez,3.0,M,,Pediatria,2024-03-22,284.73
+P361,Sofia Gomez,4.0,F,Lima,Cardiologia,2024-02-02,159.35
+P808,Maria Martinez,66.0,M,Callao,Odontologia,2024-05-07,458.01
+P028,Laura Rodriguez,23.0,F,Surco,Dermatologia,2024-05-24,104.7
+P906,Pedro Rodriguez,74.0,M,,Pediatria,2024-11-28,175.74
+P029,Ana Martinez,79.0,F,San Isidro,Odontologia,2024-11-06,439.78
+P356,Maria Torres,71.0,F,Lima,Cardiologia,2024-12-30,138.39
+P003,Juan Lopez,85.0,M,Surco,Cardiologia,2024-03-12,261.85
+P888,Maria Rodriguez,65.0,F,Callao,Odontologia,2024-08-09,282.93
+P173,Maria Rodriguez,29.0,M,San Isidro,Dermatologia,2024-12-03,485.91
+P654,Sofia Martinez,36.0,M,San Isidro,Pediatria,invalid,179.84
+P077,Maria Perez,40.0,M,Surco,Pediatria,invalid,414.41
+P355,Juan Martinez,76.0,M,Miraflores,Dermatologia,2024-04-24,261.39
+P387,Luis Martinez,66.0,F,,Pediatria,2024-05-09,352.14
+P177,Sofia Lopez,6.0,M,Callao,Pediatria,2024-11-23,224.99
+P670,Ana Perez,18.0,F,Miraflores,General,2024-08-20,184.09
+P168,Sofia Gomez,96.0,M,San Isidro,Odontologia,2024-01-17,403.78
+P140,Pedro Lopez,15.0,M,Surco,Pediatria,2024-01-30,154.33
+P353,Maria Rodriguez,81.0,F,San Isidro,Pediatria,2024-04-07,431.57
+P955,Ana Lopez,69.0,M,Callao,Pediatria,2024-03-17,81.14
+P336,Sofia Rodriguez,95.0,F,Lima,Cardiologia,2024-06-14,218.44
+P247,Carlos Torres,98.0,F,,Cardiologia,2024-01-05,231.51
+P815,Laura Lopez,72.0,M,Lima,Dermatologia,2024-09-19,308.88
+P827,Juan Gomez,53.0,F,,Odontologia,2024-02-06,381.59
+P170,Juan Rodriguez,67.0,M,Lima,Pediatria,2024-05-30,
+P921,Laura Torres,9.0,F,Callao,Cardiologia,2024-09-07,443.62
+P433,Sofia Torres,27.0,M,,General,2024-06-24,323.67
+P030,Laura Lopez,8.0,F,San Isidro,Odontologia,2024-08-12,89.78
+P923,Pedro Perez,24.0,M,Callao,Dermatologia,2024-04-06,450.14
+P112,Juan Gomez,73.0,M,Surco,General,2024-09-02,437.31
+P738,Maria Martinez,58.0,F,Callao,Cardiologia,2024-01-17,479.49
+P462,Ana Lopez,96.0,M,Callao,Cardiologia,2024-04-18,58.44
+P605,Luis Rodriguez,42.0,F,San Isidro,Pediatria,2024-03-19,141.77
+P570,Pedro Gomez,,F,Callao,Pediatria,2024-09-23,167.93
+P724,Juan Rodriguez,11.0,M,Lima,Cardiologia,2024-03-18,378.62
+P161,Sofia Martinez,58.0,M,Miraflores,Odontologia,2024-12-12,205.86
+P635,Maria Lopez,98.0,M,,Cardiologia,2024-08-17,173.3
+P692,Carlos Rodriguez,40.0,F,Miraflores,Odontologia,2024-12-22,232.26
+P072,Ana Rodriguez,43.0,F,Callao,Dermatologia,2024-01-28,442.06
+P498,Maria Perez,33.0,M,Lima,General,2024-12-03,68.07
+P794,Juan Torres,48.0,M,,Odontologia,2024-07-20,114.04
+P234,Sofia Torres,95.0,M,Surco,Odontologia,2024-02-17,235.64
+P559,Carlos Rodriguez,79.0,M,Callao,Cardiologia,2024-11-26,393.38
+P809,Pedro Perez,49.0,F,,Cardiologia,2024-10-01,389.97
+P595,Laura Martinez,62.0,M,Callao,Cardiologia,2024-09-15,284.11
+P795,Carlos Torres,85.0,M,Callao,Dermatologia,2024-02-25,243.66
+P119,Juan Rodriguez,68.0,M,San Isidro,Dermatologia,2024-04-04,282.22
+P701,Laura Martinez,39.0,F,San Isidro,Cardiologia,2024-08-04,286.24
+P259,Sofia Martinez,60.0,F,,Pediatria,2024-01-16,77.69
+P902,Juan Lopez,58.0,F,Miraflores,Odontologia,2024-01-03,472.04
+P625,Sofia Rodriguez,78.0,F,Callao,General,invalid,473.69
+P274,Luis Gomez,27.0,M,Surco,General,2024-10-06,
+P901,Carlos Lopez,87.0,M,San Isidro,Dermatologia,2024-12-06,82.68
+P997,Pedro Torres,26.0,F,San Isidro,Dermatologia,2024-03-18,199.82
+P850,Luis Lopez,45.0,M,Callao,Odontologia,2024-11-14,171.15
+P510,Juan Martinez,50.0,M,Miraflores,Dermatologia,invalid,410.72
+P362,Sofia Lopez,74.0,F,Lima,Cardiologia,2024-10-09,246.7
+P795,Sofia Perez,78.0,F,San Isidro,Cardiologia,2024-05-12,404.34
+P804,Carlos Perez,83.0,M,Miraflores,Cardiologia,2024-12-24,106.28
+P182,Pedro Perez,29.0,M,Surco,Dermatologia,2024-11-28,191.19
+P611,Ana Perez,,F,Callao,Pediatria,2024-09-06,118.35
+P596,Juan Perez,98.0,F,Callao,General,2024-10-25,325.85
+P276,Sofia Torres,88.0,F,Miraflores,Pediatria,2024-05-06,331.36
+P487,Maria Lopez,76.0,F,Miraflores,General,invalid,188.26
+P853,Carlos Rodriguez,26.0,F,Surco,General,2024-08-26,59.45
+P594,Maria Torres,11.0,F,Callao,General,2024-07-25,66.48
+P695,Ana Torres,41.0,F,Lima,Dermatologia,2024-02-09,156.91
+P667,Ana Gomez,85.0,M,Lima,Odontologia,2024-09-30,389.87
+P251,Pedro Perez,81.0,F,Lima,Dermatologia,2024-08-31,478.85
+P522,Carlos Torres,77.0,M,Miraflores,Dermatologia,2024-02-17,54.12
+P080,Pedro Martinez,37.0,F,Miraflores,Dermatologia,2024-10-05,150.19
+P058,Sofia Perez,96.0,F,Callao,Dermatologia,2024-11-13,252.11
+P705,Luis Perez,63.0,M,Lima,Odontologia,2024-04-08,373.58
+P522,Laura Perez,6.0,M,Surco,General,2024-05-22,142.51
+P395,Pedro Rodriguez,3.0,M,,Dermatologia,2024-12-25,238.35
+P012,Juan Torres,66.0,M,Miraflores,General,invalid,232.05
+P298,Juan Perez,23.0,F,Surco,Odontologia,2024-08-10,175.93
+P070,Luis Rodriguez,83.0,M,San Isidro,Pediatria,2024-11-25,469.99
+P413,Luis Perez,95.0,F,Callao,Pediatria,2024-07-15,459.95
+P363,Maria Torres,15.0,M,Callao,General,2024-07-29,127.18
+P414,Laura Perez,78.0,M,San Isidro,Odontologia,2024-06-03,
+P576,Carlos Lopez,66.0,M,Lima,Cardiologia,2024-04-08,64.71
+P296,Carlos Gomez,56.0,F,Callao,General,2024-08-30,285.52
+P459,Ana Torres,17.0,M,Callao,Odontologia,2024-06-19,381.62
+P822,Sofia Perez,92.0,M,,Odontologia,invalid,454.61
+P766,Sofia Torres,50.0,F,San Isidro,Cardiologia,2024-09-13,183.49
+P352,Ana Perez,37.0,F,Lima,Dermatologia,2024-12-29,285.44
+P784,Ana Martinez,47.0,F,San Isidro,Cardiologia,2024-05-06,235.54
+P167,Laura Rodriguez,35.0,F,San Isidro,Odontologia,invalid,400.13
+P585,Maria Perez,62.0,F,San Isidro,Pediatria,2024-09-20,435.55
+P080,Juan Martinez,79.0,F,,Odontologia,2024-05-29,335.13
+P226,Carlos Rodriguez,56.0,M,San Isidro,Dermatologia,2024-12-13,182.82
+P292,Luis Torres,18.0,F,San Isidro,Dermatologia,2024-02-01,217.39
+P002,Ana Rodriguez,32.0,F,Callao,Dermatologia,2024-11-04,69.74
+P626,Juan Lopez,51.0,F,Callao,Cardiologia,invalid,138.72
+P529,Luis Gomez,90.0,M,Callao,Odontologia,2024-02-02,447.61
+P745,Laura Rodriguez,71.0,M,,Odontologia,2024-11-26,497.73
+P506,Carlos Torres,59.0,F,Surco,Pediatria,2024-07-29,241.28
+P795,Luis Torres,4.0,F,San Isidro,General,2024-08-28,332.12
+P692,Pedro Rodriguez,39.0,F,San Isidro,Dermatologia,invalid,174.88
+P354,Luis Gomez,100.0,M,Surco,General,2024-01-29,257.63
+P667,Ana Lopez,,M,San Isidro,Pediatria,2024-03-31,428.81
+P263,Sofia Lopez,22.0,M,,Pediatria,2024-08-20,136.98
+P068,Pedro Martinez,94.0,F,,Pediatria,invalid,397.61
+P580,Luis Perez,96.0,F,Lima,General,2024-07-23,498.05
+P819,Ana Martinez,29.0,F,Callao,Dermatologia,2024-10-08,86.55
+P109,Juan Torres,39.0,M,Miraflores,Pediatria,2024-03-18,260.14
+P321,Juan Martinez,35.0,M,Miraflores,Odontologia,2024-08-16,
+P704,Pedro Rodriguez,31.0,F,Callao,General,2024-12-11,96.65
+P620,Ana Rodriguez,53.0,F,Surco,Odontologia,2024-09-08,445.43
+P970,Luis Torres,77.0,M,San Isidro,Cardiologia,2024-04-27,91.03
+P769,Ana Rodriguez,22.0,F,Surco,Pediatria,2024-01-30,134.8
+P870,Maria Lopez,46.0,F,,General,2024-10-02,225.56
+P521,Maria Martinez,73.0,F,Callao,Pediatria,2024-07-08,474.89
+P184,Ana Torres,37.0,F,San Isidro,Dermatologia,2024-10-19,230.55
+P868,Juan Rodriguez,44.0,F,Surco,Dermatologia,2024-11-20,393.47
+P644,Pedro Lopez,71.0,F,Surco,General,2024-04-02,413.32
+P166,Laura Gomez,34.0,F,Lima,Cardiologia,2024-08-29,119.8
+P384,Ana Torres,69.0,F,,Pediatria,2024-01-08,147.86
+P457,Carlos Martinez,100.0,M,Surco,Odontologia,2024-09-03,382.09
+P601,Luis Gomez,69.0,M,Lima,Cardiologia,2024-03-15,267.4
+P491,Luis Martinez,24.0,M,Miraflores,Cardiologia,2024-03-24,166.81
+P871,Pedro Gomez,31.0,F,Surco,Dermatologia,2024-08-13,188.64
+P428,Carlos Perez,88.0,F,Surco,General,2024-05-18,
+P720,Ana Perez,85.0,M,,Cardiologia,2024-09-04,120.14
+P541,Ana Martinez,73.0,F,San Isidro,General,2024-06-18,
+P012,Juan Torres,15.0,F,Lima,Odontologia,2024-03-20,378.76
+P104,Pedro Martinez,63.0,M,Lima,Odontologia,2024-01-05,135.16
+P217,Laura Gomez,7.0,M,Surco,Cardiologia,2024-11-08,319.29
+P670,Sofia Lopez,83.0,M,Callao,Cardiologia,2024-03-22,377.89
+P329,Juan Torres,7.0,F,Miraflores,Pediatria,2024-04-19,326.61
+P659,Ana Lopez,,F,Callao,Dermatologia,2024-10-04,323.7
+P880,Ana Lopez,8.0,M,San Isidro,Pediatria,2024-11-05,174.42
+P785,Carlos Lopez,56.0,F,San Isidro,Pediatria,2024-12-02,305.1
+P929,Ana Lopez,15.0,F,,General,2024-10-28,60.14
+P312,Carlos Martinez,,F,Miraflores,Dermatologia,2024-02-27,420.41
+P012,Laura Lopez,72.0,M,Callao,Pediatria,2024-07-24,284.96
+P989,Juan Rodriguez,38.0,F,Surco,Dermatologia,2024-01-14,325.21
+P816,Laura Lopez,63.0,M,Miraflores,Pediatria,2024-01-29,149.24
+P739,Laura Lopez,86.0,F,,Pediatria,invalid,62.97
+P907,Carlos Torres,39.0,M,Miraflores,Dermatologia,2024-03-12,317.53
+P952,Sofia Gomez,29.0,F,Lima,Cardiologia,2024-02-29,354.9
+P902,Maria Martinez,52.0,M,,Pediatria,2024-07-11,92.14
+P254,Maria Perez,89.0,M,San Isidro,Dermatologia,2024-10-09,92.05
+P686,Sofia Rodriguez,99.0,M,Surco,General,2024-01-21,59.73
+P079,Laura Torres,30.0,F,,General,2024-09-27,480.21
+P914,Pedro Torres,94.0,F,Callao,Dermatologia,2024-01-07,474.61
+P226,Pedro Perez,60.0,F,Lima,Dermatologia,2024-05-23,217.92
+P950,Pedro Martinez,49.0,M,Surco,Pediatria,invalid,336.71
+P889,Carlos Torres,38.0,M,Surco,General,2024-08-02,238.94
+P874,Laura Lopez,5.0,F,Surco,Odontologia,2024-07-01,183.74
+P565,Maria Martinez,37.0,F,,Dermatologia,2024-12-26,181.56
+P941,Sofia Perez,74.0,F,Lima,Dermatologia,2024-05-29,439.7
+P928,Sofia Martinez,62.0,F,San Isidro,General,2024-03-19,410.44
+P675,Juan Martinez,7.0,F,Miraflores,Dermatologia,invalid,461.99
+P722,Sofia Perez,6.0,F,Surco,Cardiologia,2024-08-20,312.68
+P061,Sofia Rodriguez,19.0,M,Callao,Cardiologia,invalid,321.72
+P176,Luis Rodriguez,97.0,F,San Isidro,Cardiologia,2024-07-06,160.97
+P431,Luis Rodriguez,52.0,M,,Odontologia,2024-01-21,387.73
+P119,Pedro Rodriguez,69.0,F,Lima,Dermatologia,2024-10-15,337.81
+P193,Carlos Torres,54.0,F,Lima,Pediatria,2024-06-10,419.36
+P207,Juan Gomez,51.0,M,Callao,Dermatologia,2024-09-03,444.76
+P666,Pedro Lopez,57.0,M,Surco,Dermatologia,2024-02-02,477.07
+P350,Pedro Lopez,55.0,M,Callao,Pediatria,2024-09-30,163.69
+P133,Sofia Rodriguez,49.0,M,San Isidro,Pediatria,2024-10-16,321.42
+P275,Laura Lopez,43.0,M,Lima,Cardiologia,2024-09-13,480.7
+P285,Ana Torres,39.0,M,,Pediatria,2024-11-16,62.78
+P153,Carlos Rodriguez,94.0,M,Miraflores,Pediatria,2024-05-15,196.96
+P582,Juan Gomez,1.0,M,Lima,General,2024-03-01,120.65
+P548,Maria Lopez,57.0,M,Lima,Pediatria,invalid,
+P960,Laura Lopez,26.0,M,Lima,Odontologia,2024-07-24,221.6
+P717,Juan Martinez,81.0,M,Callao,General,2024-01-02,436.91
+P269,Carlos Rodriguez,68.0,F,Callao,General,2024-10-17,273.35
+P356,Carlos Lopez,60.0,M,,Cardiologia,2024-05-14,247.84
+P254,Laura Lopez,69.0,F,San Isidro,Dermatologia,2024-08-17,
+P272,Laura Martinez,16.0,M,Miraflores,Dermatologia,2024-06-08,263.59
+P291,Maria Perez,94.0,F,Surco,Cardiologia,2024-07-01,397.2
+P970,Maria Torres,80.0,F,San Isidro,Pediatria,2024-07-04,434.97
+P137,Maria Perez,70.0,F,Surco,Pediatria,2024-05-25,253.14
+P920,Juan Gomez,,M,Callao,Cardiologia,2024-07-14,231.26
+P110,Carlos Rodriguez,65.0,F,Surco,Pediatria,2024-04-28,484.76
+P179,Pedro Lopez,18.0,F,San Isidro,Dermatologia,2024-07-07,89.73
+P648,Sofia Torres,,M,San Isidro,General,2024-10-11,232.71
+P308,Pedro Martinez,34.0,M,San Isidro,Pediatria,2024-02-09,277.22
+P315,Laura Lopez,92.0,F,Callao,Dermatologia,2024-11-21,187.28
+P453,Pedro Torres,40.0,M,Lima,Cardiologia,invalid,82.01
+P448,Ana Rodriguez,12.0,F,San Isidro,Cardiologia,2024-10-07,315.81
+P353,Carlos Perez,61.0,F,Surco,Pediatria,2024-01-19,180.19
+P145,Luis Gomez,88.0,F,,Cardiologia,invalid,322.2
+P039,Maria Gomez,80.0,F,Lima,Cardiologia,2024-08-01,462.4
+P206,Luis Lopez,49.0,M,Callao,Odontologia,2024-08-11,292.61
+P434,Juan Rodriguez,32.0,F,San Isidro,Cardiologia,2024-07-22,249.17
+P616,Ana Rodriguez,70.0,M,San Isidro,Odontologia,2024-02-25,191.81
+P806,Luis Gomez,93.0,F,Lima,Odontologia,2024-08-01,327.59
+P853,Laura Gomez,45.0,M,Callao,Pediatria,2024-03-12,171.42
+P199,Juan Martinez,88.0,F,Lima,General,2024-08-08,54.32
+P272,Luis Torres,82.0,M,Miraflores,General,2024-03-29,361.41
+P777,Maria Lopez,56.0,M,Surco,General,invalid,93.44
+P782,Sofia Martinez,88.0,F,Callao,Cardiologia,2024-02-17,181.33
+P534,Luis Torres,13.0,M,Surco,Odontologia,2024-09-20,86.08
+P539,Maria Torres,78.0,M,Miraflores,Dermatologia,2024-02-25,54.36
+P671,Carlos Rodriguez,52.0,M,Miraflores,Dermatologia,invalid,98.8
+P174,Maria Martinez,78.0,M,San Isidro,Cardiologia,2024-01-28,213.35
+P525,Maria Torres,76.0,F,Callao,Dermatologia,2024-03-02,51.01
+P448,Pedro Torres,12.0,M,Surco,Cardiologia,2024-03-22,330.07
+P825,Laura Martinez,24.0,M,Lima,General,2024-05-18,446.76
+P664,Juan Gomez,77.0,F,Callao,Pediatria,2024-07-09,115.74
+P087,Laura Lopez,20.0,F,Miraflores,Cardiologia,2024-11-23,466.67
+P720,Carlos Gomez,3.0,M,San Isidro,Odontologia,2024-08-06,239.52
+P493,Sofia Perez,99.0,F,,Odontologia,invalid,163.33
+P452,Juan Gomez,90.0,F,Lima,Cardiologia,2024-07-12,387.97
+P348,Ana Torres,98.0,F,Surco,General,2024-08-23,292.78
+P936,Carlos Rodriguez,96.0,M,,General,2024-02-22,357.15
+P347,Juan Perez,2.0,F,Surco,General,2024-10-24,267.88
+P513,Pedro Martinez,31.0,M,San Isidro,Dermatologia,2024-10-22,292.95
+P153,Sofia Rodriguez,23.0,F,,Dermatologia,2024-06-03,484.5
+P206,Luis Rodriguez,68.0,M,Surco,Cardiologia,2024-08-07,75.71
+P701,Sofia Lopez,45.0,M,Surco,Dermatologia,2024-11-25,433.93
+P902,Carlos Torres,77.0,F,Callao,Pediatria,2024-01-30,86.42
+P096,Carlos Torres,74.0,F,San Isidro,Cardiologia,2024-07-03,
+P240,Laura Gomez,11.0,M,San Isidro,Pediatria,2024-12-08,
+P941,Ana Lopez,54.0,F,Surco,Cardiologia,2024-02-02,149.57
+P632,Pedro Gomez,88.0,M,Callao,Dermatologia,2024-12-24,
+P667,Maria Perez,16.0,F,Lima,Odontologia,2024-04-26,497.16
+P627,Luis Rodriguez,36.0,F,,General,2024-09-07,330.55
+P931,Pedro Rodriguez,78.0,M,Callao,General,2024-08-08,166.63
+P928,Laura Lopez,81.0,M,Surco,Cardiologia,2024-05-03,395.47
+P006,Pedro Torres,32.0,M,Surco,General,invalid,
+P548,Maria Rodriguez,62.0,M,Miraflores,Cardiologia,2024-12-15,139.08
+P554,Pedro Martinez,30.0,F,,Dermatologia,2024-06-24,118.31
+P270,Pedro Lopez,97.0,F,San Isidro,Dermatologia,2024-05-29,66.5
+P409,Luis Rodriguez,15.0,F,Surco,Odontologia,2024-05-18,128.98
+P009,Juan Lopez,15.0,M,,Dermatologia,invalid,238.95
+P777,Juan Martinez,28.0,M,Lima,Cardiologia,invalid,483.56
+P675,Luis Lopez,13.0,F,Callao,Dermatologia,2024-03-08,306.31
+P376,Ana Perez,52.0,F,Surco,Pediatria,2024-07-02,73.29
+P689,Maria Torres,71.0,M,Miraflores,Odontologia,2024-06-10,96.28
+P671,Maria Torres,76.0,F,Callao,Odontologia,2024-08-30,232.08
+P998,Sofia Martinez,,F,Callao,General,2024-07-19,270.91
+P092,Luis Martinez,51.0,F,Surco,Cardiologia,2024-05-02,170.72
+P107,Carlos Lopez,,F,,Cardiologia,invalid,122.44
+P682,Juan Lopez,13.0,F,San Isidro,Dermatologia,2024-06-17,93.92
+P424,Laura Torres,99.0,F,Lima,Cardiologia,invalid,272.16
+P358,Juan Rodriguez,77.0,F,Miraflores,Pediatria,2024-03-08,373.23
+P613,Sofia Lopez,77.0,F,,Pediatria,2024-07-08,330.77
+P283,Sofia Gomez,51.0,M,San Isidro,General,invalid,360.4
+P599,Ana Perez,48.0,F,Surco,Odontologia,2024-04-27,433.7
+P848,Juan Martinez,78.0,F,Surco,Cardiologia,2024-08-23,258.63
+P156,Maria Martinez,62.0,M,Surco,General,2024-04-14,338.88
+P086,Maria Martinez,100.0,F,Miraflores,Odontologia,2024-11-15,110.62
+P204,Pedro Rodriguez,87.0,F,Miraflores,General,invalid,385.26
+P644,Juan Rodriguez,66.0,F,Lima,Dermatologia,invalid,238.95
+P434,Ana Gomez,,F,Surco,General,2024-10-21,
+P642,Carlos Perez,25.0,F,Lima,General,invalid,197.83
+P620,Maria Perez,83.0,F,Miraflores,General,2024-03-05,327.04
+P809,Laura Perez,15.0,F,Callao,Dermatologia,2024-08-18,467.36
+P029,Carlos Torres,61.0,M,Callao,Odontologia,2024-08-25,185.36
+P716,Luis Gomez,39.0,M,Surco,Dermatologia,invalid,119.57
+P486,Luis Rodriguez,7.0,F,Lima,Cardiologia,2024-03-08,461.7
+P451,Sofia Martinez,46.0,F,Callao,Pediatria,2024-07-18,62.62
+P447,Juan Lopez,68.0,F,Surco,Dermatologia,2024-06-30,294.69
+P933,Sofia Rodriguez,9.0,F,Miraflores,Cardiologia,2024-03-22,483.68
+P648,Laura Torres,81.0,F,,Dermatologia,2024-05-12,369.98
+P476,Pedro Rodriguez,73.0,M,San Isidro,General,2024-08-08,340.71
+P236,Ana Lopez,18.0,F,Miraflores,General,2024-06-03,269.71
+P097,Laura Rodriguez,89.0,M,Lima,General,2024-11-21,349.18
+P369,Laura Lopez,,M,Callao,Dermatologia,2024-07-30,378.48
+P817,Carlos Gomez,62.0,F,,Pediatria,2024-07-28,489.52
+P998,Sofia Martinez,24.0,M,San Isidro,Dermatologia,2024-08-13,395.56
+P219,Ana Perez,74.0,F,,Cardiologia,2024-01-28,146.69
+P835,Juan Rodriguez,98.0,M,Miraflores,Pediatria,2024-12-24,411.82
+P614,Pedro Lopez,67.0,F,Callao,Pediatria,2024-11-17,125.96
+P771,Luis Martinez,37.0,F,,Dermatologia,2024-09-15,351.93
+P880,Luis Gomez,14.0,F,Surco,General,2024-09-15,119.75
+P191,Laura Martinez,84.0,F,San Isidro,Cardiologia,2024-06-02,159.39
+P696,Carlos Torres,71.0,F,Surco,Pediatria,2024-06-06,235.7
+P386,Laura Martinez,51.0,M,Callao,Pediatria,2024-08-02,310.73
+P887,Juan Martinez,5.0,F,Surco,General,2024-12-22,309.66
+P439,Sofia Rodriguez,28.0,M,Lima,Cardiologia,2024-05-20,153.91
+P199,Sofia Perez,,F,San Isidro,Dermatologia,2024-04-18,342.98
+P431,Carlos Lopez,1.0,F,,Cardiologia,2024-09-19,211.88
+P655,Luis Rodriguez,16.0,M,San Isidro,Pediatria,2024-01-06,270.07
+P827,Luis Martinez,,F,,Dermatologia,2024-03-16,93.65
+P207,Juan Lopez,74.0,F,Callao,Cardiologia,2024-09-22,275.33
+P665,Sofia Gomez,42.0,M,Callao,Dermatologia,2024-04-29,113.31
+P262,Sofia Rodriguez,5.0,F,Callao,Pediatria,2024-12-24,184.28
+P424,Maria Martinez,52.0,M,Lima,Odontologia,2024-06-13,195.44
+P352,Juan Torres,26.0,M,Lima,Cardiologia,2024-08-21,286.5
+P414,Maria Martinez,66.0,F,,Dermatologia,2024-02-03,205.0
+P042,Sofia Martinez,39.0,F,,Cardiologia,invalid,433.48
+P783,Luis Lopez,92.0,F,Surco,Cardiologia,invalid,442.71
+P077,Carlos Perez,42.0,M,,Pediatria,2024-09-27,435.45
+P946,Ana Gomez,81.0,M,Miraflores,Odontologia,2024-04-19,195.97
+P213,Carlos Perez,99.0,M,,General,2024-03-26,443.89
+P715,Maria Perez,35.0,M,Lima,General,2024-01-10,484.94
+P737,Maria Rodriguez,43.0,F,Miraflores,Cardiologia,invalid,185.13
+P524,Carlos Martinez,47.0,F,Surco,Dermatologia,2024-07-21,463.81
+P733,Ana Martinez,26.0,M,Surco,Odontologia,2024-10-27,
+P627,Pedro Perez,91.0,M,Lima,Pediatria,2024-03-24,429.57
+P497,Laura Rodriguez,91.0,M,Surco,Pediatria,2024-02-05,251.32
+P220,Ana Gomez,43.0,F,San Isidro,Pediatria,2024-09-08,293.13
+P713,Carlos Rodriguez,22.0,F,Surco,Dermatologia,2024-07-09,249.28
+P016,Ana Rodriguez,83.0,M,,General,2024-05-01,67.98
+P086,Ana Martinez,49.0,F,,Pediatria,2024-02-21,439.23
+P821,Ana Torres,96.0,F,San Isidro,Pediatria,2024-06-29,321.01
+P177,Laura Torres,,F,Callao,Dermatologia,invalid,230.29
+P248,Sofia Lopez,20.0,F,Lima,Odontologia,2024-03-28,103.98
+P390,Juan Lopez,3.0,F,San Isidro,Cardiologia,2024-02-22,305.9
+P375,Ana Lopez,15.0,M,Surco,Pediatria,2024-01-04,307.37
+P082,Ana Martinez,54.0,M,San Isidro,Pediatria,invalid,99.41
+P965,Juan Martinez,44.0,M,San Isidro,Cardiologia,2024-09-16,426.39
+P201,Laura Rodriguez,91.0,F,San Isidro,Pediatria,2024-11-14,405.02
+P917,Sofia Martinez,51.0,F,Surco,General,2024-08-13,499.9
+P217,Sofia Rodriguez,,M,San Isidro,Pediatria,2024-06-20,305.56
+P833,Sofia Perez,75.0,F,Miraflores,General,2024-07-07,332.3
+P467,Sofia Lopez,62.0,M,San Isidro,Odontologia,2024-03-02,472.34
+P101,Juan Perez,21.0,M,Surco,Cardiologia,2024-02-20,130.56
+P931,Sofia Lopez,38.0,F,Miraflores,General,2024-01-11,426.63
+P418,Carlos Lopez,50.0,F,Miraflores,Cardiologia,2024-11-22,463.87
+P892,Luis Lopez,59.0,M,Lima,General,2024-08-03,173.88
+P813,Sofia Gomez,56.0,M,Lima,Odontologia,2024-01-10,430.61
+P688,Juan Gomez,73.0,F,Surco,Odontologia,2024-06-19,120.6
+P272,Luis Lopez,49.0,F,Lima,Pediatria,2024-10-27,90.6
+P374,Carlos Lopez,81.0,M,Surco,General,2024-10-06,269.92
+P725,Ana Gomez,32.0,M,Callao,Odontologia,invalid,311.45
+P604,Maria Lopez,95.0,F,San Isidro,Dermatologia,2024-05-19,435.09
+P277,Juan Lopez,1.0,F,Surco,Odontologia,2024-11-06,446.02
+P899,Ana Lopez,2.0,F,San Isidro,Dermatologia,2024-10-18,106.7
+P694,Maria Rodriguez,9.0,M,Lima,General,invalid,455.89
+P667,Ana Perez,53.0,M,Surco,Dermatologia,2024-11-05,320.41
+P099,Juan Torres,95.0,F,San Isidro,General,2024-11-10,439.04
+P885,Laura Torres,67.0,F,Surco,Dermatologia,2024-12-18,374.71
+P369,Maria Lopez,32.0,M,Callao,Pediatria,2024-08-28,471.57
+P056,Ana Lopez,67.0,F,Miraflores,Odontologia,2024-07-27,150.18
+P430,Carlos Martinez,,F,Lima,Pediatria,2024-07-02,95.56
+P175,Luis Torres,26.0,F,San Isidro,General,2024-07-02,496.27
+P252,Juan Lopez,15.0,F,Callao,General,2024-04-29,280.66
+P904,Maria Rodriguez,4.0,F,Surco,Odontologia,2024-04-26,219.96
+P690,Maria Torres,19.0,F,San Isidro,General,2024-06-04,87.94
+P165,Carlos Lopez,71.0,F,San Isidro,Odontologia,2024-12-25,204.71
+P431,Sofia Perez,79.0,M,Lima,Odontologia,2024-04-06,100.18
+P141,Juan Lopez,28.0,F,Miraflores,General,invalid,145.62
+P347,Carlos Torres,90.0,M,Callao,General,2024-12-16,57.24
+P804,Carlos Rodriguez,,F,Lima,Dermatologia,invalid,180.08
+P991,Juan Torres,95.0,F,,General,2024-07-23,357.82
+P197,Carlos Martinez,87.0,M,Miraflores,Cardiologia,2024-11-05,90.81
+P768,Juan Rodriguez,12.0,F,Lima,General,2024-04-05,382.97
+P615,Sofia Lopez,6.0,F,San Isidro,General,2024-09-19,472.43
+P721,Ana Gomez,62.0,F,,General,invalid,481.16
+P605,Luis Lopez,96.0,F,Callao,Cardiologia,2024-08-11,461.39
+P200,Maria Torres,78.0,M,Callao,Pediatria,2024-04-15,263.03
+P834,Juan Lopez,94.0,M,,General,2024-05-28,352.64
+P258,Juan Perez,94.0,F,Surco,Dermatologia,2024-01-18,430.32
+P320,Laura Perez,17.0,F,,Pediatria,2024-08-01,433.77
+P849,Maria Martinez,51.0,F,Miraflores,Cardiologia,2024-08-13,394.16
+P255,Maria Rodriguez,,F,Callao,General,2024-07-17,
+P935,Laura Gomez,11.0,M,Callao,Odontologia,2024-04-28,442.44
+P232,Pedro Torres,85.0,F,Miraflores,Cardiologia,2024-08-15,322.1
+P961,Pedro Gomez,23.0,M,Surco,Cardiologia,2024-07-10,378.83
+P886,Carlos Lopez,84.0,M,Callao,General,2024-04-28,204.08
+P754,Luis Gomez,72.0,M,Surco,Pediatria,2024-03-05,350.66
+P694,Laura Rodriguez,75.0,F,,Cardiologia,2024-02-21,217.53
+P556,Sofia Torres,3.0,F,Surco,Dermatologia,2024-06-12,463.52
+P987,Pedro Lopez,,F,Miraflores,Pediatria,2024-04-09,178.45
+P642,Laura Torres,6.0,F,Callao,General,2024-09-19,198.8
+P327,Juan Gomez,92.0,F,,Odontologia,invalid,474.46
+P378,Maria Gomez,,F,Lima,Cardiologia,2024-11-27,169.27
+P177,Juan Lopez,54.0,M,Lima,Pediatria,2024-04-30,490.46
+P135,Pedro Rodriguez,91.0,F,Lima,Odontologia,2024-12-07,203.14
+P313,Carlos Lopez,91.0,F,Surco,Dermatologia,2024-04-02,77.4
+P381,Juan Gomez,98.0,F,Callao,Odontologia,invalid,127.72
+P709,Maria Martinez,85.0,M,Callao,Pediatria,2024-01-11,484.91
+P434,Laura Martinez,,F,,Pediatria,2024-11-20,
+P807,Maria Rodriguez,52.0,F,Callao,Cardiologia,2024-07-02,182.41
+P957,Carlos Lopez,86.0,F,Surco,Dermatologia,2024-10-19,390.71
+P229,Carlos Torres,73.0,F,Surco,Cardiologia,2024-05-05,242.43
+P645,Maria Martinez,55.0,M,Miraflores,Cardiologia,2024-12-07,201.46
+P961,Juan Gomez,88.0,M,San Isidro,Pediatria,2024-06-19,304.57
+P505,Maria Martinez,19.0,F,Surco,Pediatria,invalid,117.99
+P520,Maria Gomez,82.0,M,San Isidro,Odontologia,2024-12-31,
+P299,Laura Torres,1.0,M,,Odontologia,2024-10-06,384.95
+P247,Luis Martinez,92.0,F,Miraflores,Pediatria,invalid,88.11
+P347,Juan Gomez,65.0,M,,Odontologia,2024-04-02,335.82
+P257,Pedro Rodriguez,51.0,F,,Odontologia,2024-09-24,152.55
+P343,Carlos Lopez,48.0,F,,Odontologia,2024-01-15,113.53
+P543,Maria Gomez,62.0,M,Surco,General,2024-11-06,98.36
+P139,Maria Torres,60.0,F,,Dermatologia,2024-08-04,384.02
+P293,Juan Rodriguez,,F,Miraflores,Cardiologia,2024-05-22,
+P417,Sofia Martinez,4.0,M,San Isidro,Dermatologia,2024-08-22,284.64
+P233,Laura Gomez,62.0,F,San Isidro,Odontologia,2024-07-13,117.7
+P126,Sofia Torres,7.0,F,Miraflores,Dermatologia,2024-05-19,318.64
+P273,Laura Martinez,65.0,F,Miraflores,Cardiologia,2024-02-15,166.61
+P471,Laura Rodriguez,,M,,Dermatologia,2024-04-02,372.55
+P425,Luis Lopez,74.0,M,Callao,Odontologia,2024-09-06,366.27
+P951,Juan Rodriguez,87.0,F,Lima,Dermatologia,2024-01-27,106.0
+P933,Carlos Lopez,31.0,F,Lima,Pediatria,2024-01-24,416.73
+P806,Pedro Torres,12.0,F,San Isidro,Pediatria,2024-07-18,416.62
+P964,Luis Gomez,42.0,F,Callao,General,2024-10-19,154.7
+P636,Carlos Rodriguez,22.0,M,Callao,Dermatologia,2024-05-22,364.12
+P863,Pedro Lopez,64.0,F,Miraflores,General,invalid,474.28
+P751,Carlos Torres,12.0,F,Miraflores,General,2024-12-22,164.56
+P457,Luis Lopez,12.0,M,Lima,Pediatria,2024-12-22,388.68
+P208,Maria Perez,64.0,M,San Isidro,Odontologia,2024-04-21,186.86
+P194,Maria Torres,29.0,M,Surco,Dermatologia,2024-02-04,184.91
+P597,Sofia Torres,100.0,F,Miraflores,Dermatologia,2024-02-21,205.93
+P194,Carlos Rodriguez,17.0,F,Callao,Odontologia,2024-08-13,292.45
+P728,Pedro Perez,26.0,M,,Cardiologia,2024-03-14,253.18
+P992,Ana Rodriguez,76.0,M,,General,2024-11-24,236.44
+P966,Sofia Perez,9.0,M,Miraflores,Cardiologia,2024-10-31,179.45
+P689,Carlos Lopez,62.0,M,San Isidro,General,invalid,436.16
+P439,Luis Gomez,97.0,F,Lima,Pediatria,2024-10-09,383.54
+P092,Ana Rodriguez,45.0,M,Lima,Pediatria,2024-02-10,88.73
+P334,Maria Martinez,64.0,M,Miraflores,Dermatologia,2024-11-02,398.41
+P706,Luis Lopez,74.0,F,Miraflores,Odontologia,2024-10-03,429.74
+P924,Carlos Lopez,95.0,M,Lima,General,2024-06-28,459.12
+P286,Laura Torres,89.0,M,Lima,Dermatologia,invalid,74.49
+P395,Luis Gomez,5.0,M,Surco,Cardiologia,2024-02-12,354.28
+P249,Sofia Martinez,58.0,F,Callao,Odontologia,2024-08-22,94.32
+P009,Pedro Gomez,98.0,M,Lima,Dermatologia,2024-05-13,141.76
+P049,Pedro Rodriguez,80.0,F,,Odontologia,2024-02-03,
+P097,Ana Gomez,21.0,F,Surco,General,2024-09-04,446.07
+P738,Juan Martinez,5.0,F,Lima,Dermatologia,2024-06-29,402.91
+P662,Sofia Torres,50.0,M,San Isidro,Odontologia,2024-12-26,454.86
+P521,Maria Lopez,44.0,F,Miraflores,Odontologia,2024-04-07,288.67
+P813,Sofia Torres,83.0,F,Surco,General,2024-11-21,173.52
+P729,Laura Lopez,34.0,M,Callao,General,2024-05-23,91.14
+P894,Pedro Rodriguez,79.0,F,Surco,Odontologia,2024-02-21,354.58
+P539,Juan Perez,,M,Surco,Cardiologia,invalid,203.6
+P417,Luis Perez,42.0,M,San Isidro,Cardiologia,2024-10-06,64.95
+P802,Maria Perez,63.0,F,San Isidro,Cardiologia,2024-04-24,461.26
+P449,Maria Martinez,49.0,M,Miraflores,Odontologia,2024-05-04,418.94
+P831,Laura Torres,12.0,F,San Isidro,Cardiologia,2024-06-07,
+P993,Juan Torres,99.0,F,Surco,Dermatologia,2024-12-20,83.39
+P913,Ana Rodriguez,60.0,F,,General,2024-09-12,313.24
+P069,Luis Torres,33.0,M,San Isidro,Odontologia,2024-03-04,383.7
+P646,Pedro Gomez,94.0,F,,Dermatologia,2024-08-21,285.24
+P924,Juan Martinez,41.0,F,San Isidro,Cardiologia,2024-10-09,435.97
+P970,Laura Gomez,92.0,F,,Dermatologia,invalid,245.36
+P659,Sofia Rodriguez,63.0,M,,Pediatria,2024-07-15,232.49
+P358,Maria Rodriguez,49.0,M,Miraflores,Dermatologia,2024-08-28,492.73
+P526,Maria Gomez,30.0,M,Miraflores,General,2024-10-30,235.92
+P357,Ana Martinez,50.0,F,Callao,General,2024-09-12,212.01
+P029,Luis Lopez,80.0,M,,Cardiologia,2024-05-23,173.31
+P089,Pedro Torres,96.0,F,Miraflores,Dermatologia,invalid,454.23
+P162,Pedro Perez,18.0,M,San Isidro,Cardiologia,2024-04-19,212.58
+P413,Laura Martinez,43.0,F,Callao,Pediatria,2024-06-17,436.88
+P967,Sofia Torres,80.0,M,San Isidro,General,2024-08-13,
+P568,Sofia Lopez,89.0,F,Surco,General,2024-03-19,52.54
+P663,Maria Martinez,49.0,M,Lima,Dermatologia,2024-10-25,50.21
+P019,Maria Perez,25.0,M,Callao,Odontologia,2024-07-31,90.42
+P937,Juan Perez,2.0,M,Miraflores,Dermatologia,2024-05-14,91.89
+P055,Luis Lopez,74.0,F,Lima,Dermatologia,2024-05-04,342.32
+P104,Luis Rodriguez,56.0,F,,General,2024-07-26,218.79
+P937,Pedro Torres,36.0,F,San Isidro,Cardiologia,2024-10-05,
+P856,Sofia Martinez,,F,,Pediatria,2024-03-22,235.15
+P101,Luis Gomez,47.0,F,Miraflores,Cardiologia,2024-06-26,274.71
+P689,Sofia Lopez,46.0,M,Lima,General,2024-07-16,424.06
+P498,Luis Rodriguez,93.0,F,Lima,Pediatria,2024-04-29,294.24
+P996,Sofia Rodriguez,28.0,M,Lima,General,2024-06-26,439.25
+P544,Pedro Rodriguez,89.0,M,Lima,Cardiologia,2024-06-21,119.46
+P555,Ana Martinez,24.0,F,Surco,Dermatologia,invalid,107.31
+P638,Pedro Rodriguez,63.0,F,Callao,Pediatria,2024-11-22,331.9
+P442,Juan Rodriguez,67.0,M,Callao,Cardiologia,2024-11-28,425.54
+P525,Luis Torres,65.0,F,Callao,Cardiologia,2024-10-11,149.44
+P685,Ana Rodriguez,90.0,F,Callao,Odontologia,invalid,187.8
+P683,Laura Gomez,94.0,M,Lima,Dermatologia,2024-03-14,200.85
+P230,Laura Gomez,9.0,M,San Isidro,Pediatria,2024-01-02,461.73
+P029,Luis Perez,26.0,F,Surco,Cardiologia,2024-03-19,239.06
+P522,Juan Rodriguez,17.0,F,Miraflores,Odontologia,2024-04-02,168.9
+P122,Sofia Lopez,98.0,F,Miraflores,General,2024-04-15,403.87
+P591,Carlos Lopez,52.0,F,Lima,Pediatria,2024-06-28,448.06
+P204,Carlos Martinez,55.0,F,San Isidro,Odontologia,2024-10-17,
+P287,Luis Gomez,69.0,F,,Dermatologia,2024-03-01,273.43
+P110,Laura Lopez,70.0,F,Surco,General,invalid,174.4
+P895,Luis Gomez,28.0,F,Callao,Dermatologia,2024-10-26,412.47
+P526,Juan Martinez,88.0,F,Miraflores,Odontologia,2024-04-20,153.29
+P582,Ana Perez,6.0,F,San Isidro,Odontologia,2024-07-12,207.33
+P463,Ana Torres,,F,Miraflores,Pediatria,invalid,70.23
+P079,Carlos Torres,,M,Miraflores,General,2024-06-21,87.47
+P627,Pedro Torres,,M,Surco,General,2024-01-14,61.99
+P960,Luis Gomez,29.0,M,Surco,Pediatria,2024-09-19,341.82
+P760,Sofia Martinez,2.0,M,Callao,General,2024-12-03,468.57
+P768,Carlos Torres,63.0,M,Callao,Odontologia,2024-05-08,193.26
+P197,Laura Rodriguez,,M,Surco,Dermatologia,2024-12-13,273.17
+P797,Luis Martinez,48.0,F,Callao,Cardiologia,2024-05-08,294.8
+P727,Ana Rodriguez,17.0,F,Callao,Odontologia,2024-05-12,453.44
+P615,Juan Torres,48.0,M,Lima,General,2024-01-17,393.25
+P142,Pedro Perez,26.0,F,Callao,Odontologia,2024-03-11,362.32
+P355,Juan Torres,21.0,F,,Odontologia,2024-10-18,436.14
+P862,Juan Torres,92.0,F,,Dermatologia,2024-04-15,130.98
+P759,Pedro Torres,77.0,M,,Dermatologia,2024-01-28,162.63
+P937,Carlos Torres,61.0,F,San Isidro,General,2024-10-31,152.4
+P092,Laura Gomez,90.0,F,San Isidro,Odontologia,2024-05-03,
+P743,Pedro Lopez,35.0,F,San Isidro,General,2024-02-22,310.17
+P618,Pedro Martinez,14.0,M,,Dermatologia,2024-04-25,194.27
+P863,Maria Gomez,42.0,F,,General,2024-12-17,380.4
+P444,Juan Torres,,M,Callao,Pediatria,2024-02-16,283.05
+P955,Maria Rodriguez,34.0,F,Surco,Cardiologia,invalid,268.88
+P915,Luis Martinez,56.0,M,Callao,Dermatologia,2024-07-20,263.42
+P511,Sofia Torres,11.0,F,Surco,General,2024-03-21,271.78
+P692,Ana Gomez,78.0,F,Miraflores,Cardiologia,2024-03-06,320.85
+P316,Laura Torres,35.0,M,San Isidro,Cardiologia,2024-04-27,161.62
+P886,Pedro Perez,35.0,M,San Isidro,Cardiologia,invalid,471.39
+P190,Pedro Perez,49.0,F,San Isidro,Odontologia,invalid,256.4
+P554,Luis Torres,78.0,F,Miraflores,General,invalid,262.89
+P256,Laura Martinez,13.0,F,Miraflores,General,2024-08-05,403.87
+P782,Sofia Lopez,88.0,M,Lima,Dermatologia,2024-08-14,198.71
+P334,Juan Gomez,75.0,M,Surco,Dermatologia,2024-02-14,74.15
+P387,Luis Torres,10.0,F,San Isidro,Cardiologia,2024-01-21,412.59
+P377,Ana Lopez,51.0,M,Surco,General,2024-01-01,245.28
+P917,Ana Rodriguez,12.0,F,Surco,Dermatologia,2024-03-11,480.81
+P177,Ana Gomez,18.0,M,San Isidro,Dermatologia,2024-11-15,251.57
+P074,Maria Perez,61.0,M,Surco,General,2024-07-09,58.26
+P516,Juan Rodriguez,72.0,M,Lima,Odontologia,2024-10-05,260.72
+P324,Ana Gomez,19.0,F,Miraflores,Odontologia,2024-07-07,102.63
+P244,Laura Perez,95.0,M,Surco,Cardiologia,2024-04-09,488.77
+P851,Luis Lopez,21.0,M,Miraflores,Dermatologia,2024-10-13,171.77
+P039,Pedro Gomez,89.0,F,Lima,Pediatria,2024-11-20,161.31
+P088,Juan Perez,30.0,F,Miraflores,Dermatologia,2024-02-02,252.58
+P118,Maria Torres,21.0,M,Miraflores,Odontologia,2024-09-03,440.97
+P764,Luis Perez,37.0,M,,Pediatria,2024-04-16,250.95
+P495,Luis Martinez,84.0,F,San Isidro,Odontologia,2024-08-20,274.34
+P044,Laura Rodriguez,99.0,M,,Odontologia,2024-01-15,336.99
+P811,Maria Rodriguez,49.0,M,Miraflores,Cardiologia,2024-10-06,69.11
+P319,Carlos Rodriguez,7.0,M,,Dermatologia,2024-10-15,53.63
+P829,Ana Perez,3.0,M,Surco,Odontologia,2024-12-04,91.43
+P093,Pedro Perez,58.0,F,Miraflores,Dermatologia,2024-10-27,300.53
+P338,Luis Martinez,60.0,M,Miraflores,Odontologia,2024-10-19,134.99
+P318,Ana Gomez,96.0,M,Lima,General,2024-11-19,381.46
+P917,Luis Torres,62.0,F,Miraflores,Cardiologia,2024-09-09,219.78
+P672,Pedro Lopez,70.0,F,Callao,Odontologia,2024-02-25,144.13
+P573,Carlos Gomez,44.0,M,Surco,Pediatria,2024-08-20,54.66
+P947,Juan Gomez,21.0,F,Surco,Odontologia,2024-12-14,333.14
+P683,Carlos Rodriguez,82.0,F,Callao,Cardiologia,2024-12-21,390.49
+P922,Pedro Martinez,80.0,M,San Isidro,Dermatologia,2024-09-12,295.55
+P003,Ana Martinez,51.0,M,Surco,Dermatologia,2024-11-05,203.19
+P210,Maria Lopez,98.0,F,San Isidro,Dermatologia,2024-06-12,205.25
+P366,Sofia Rodriguez,51.0,M,San Isidro,Dermatologia,2024-05-02,237.76
+P109,Pedro Gomez,2.0,F,Callao,General,2024-10-26,138.71
+P159,Maria Gomez,91.0,M,Miraflores,Odontologia,2024-04-10,157.88
+P407,Luis Perez,98.0,F,Callao,General,2024-01-30,360.25
+P428,Carlos Torres,,F,Miraflores,General,2024-03-19,
+P841,Sofia Torres,74.0,M,Surco,Cardiologia,2024-01-15,412.48
+P978,Sofia Gomez,15.0,M,San Isidro,Pediatria,2024-09-28,402.81
+P342,Ana Torres,98.0,M,Miraflores,Odontologia,2024-08-20,
+P867,Pedro Torres,5.0,M,Surco,General,2024-06-22,433.28
+P785,Carlos Lopez,21.0,M,Surco,General,2024-10-01,
+P730,Juan Torres,64.0,M,Miraflores,General,2024-01-18,250.46
+P854,Sofia Torres,41.0,F,San Isidro,Odontologia,2024-12-15,213.2
+P762,Ana Torres,94.0,M,Lima,Pediatria,2024-09-23,299.04
+P258,Sofia Gomez,30.0,M,San Isidro,Odontologia,2024-04-08,181.71
+P102,Juan Torres,98.0,M,Surco,Odontologia,2024-11-18,452.74
+P040,Pedro Martinez,,F,Surco,Pediatria,invalid,154.37
+P654,Ana Perez,29.0,F,Callao,General,2024-07-09,463.9
+P750,Laura Lopez,68.0,F,Callao,Dermatologia,2024-05-05,319.41
+P625,Pedro Martinez,99.0,M,,Cardiologia,2024-04-18,57.06
+P073,Luis Lopez,59.0,F,,Odontologia,2024-11-14,379.41
+P926,Juan Lopez,83.0,M,Miraflores,General,2024-10-01,110.69
+P178,Luis Torres,100.0,M,Surco,Odontologia,2024-01-20,195.32
+P455,Pedro Martinez,43.0,F,Surco,Odontologia,2024-04-03,
+P604,Laura Rodriguez,4.0,M,,Pediatria,2024-05-03,143.0
+P618,Laura Rodriguez,29.0,M,,Pediatria,2024-02-19,
+P520,Carlos Gomez,94.0,M,Callao,Odontologia,invalid,378.01
+P744,Juan Martinez,79.0,M,San Isidro,Cardiologia,2024-08-12,270.03
+P242,Laura Rodriguez,9.0,M,Lima,Odontologia,2024-08-17,73.12
+P497,Sofia Lopez,96.0,F,Surco,Odontologia,2024-12-11,270.22
+P213,Maria Lopez,50.0,F,Surco,General,2024-12-04,176.32
+P970,Pedro Rodriguez,31.0,F,Miraflores,Pediatria,2024-09-27,441.18
+P651,Sofia Lopez,6.0,M,,Dermatologia,2024-02-19,352.05
+P270,Laura Rodriguez,82.0,F,,Dermatologia,2024-02-25,115.2
+P042,Maria Perez,48.0,F,Lima,Cardiologia,invalid,99.23
+P647,Juan Martinez,73.0,M,Callao,General,2024-07-02,478.46
+P640,Sofia Lopez,15.0,F,Lima,General,2024-03-28,198.57
+P674,Laura Martinez,6.0,F,Surco,General,2024-12-01,97.27
+P051,Luis Lopez,7.0,F,Callao,Cardiologia,2024-06-16,393.89
+P686,Maria Rodriguez,53.0,M,,Dermatologia,2024-01-29,185.02
+P839,Luis Martinez,94.0,M,Callao,Cardiologia,2024-03-18,139.89
+P180,Sofia Perez,5.0,F,Surco,Odontologia,2024-03-01,287.69
+P083,Carlos Torres,83.0,M,Lima,Cardiologia,2024-10-01,381.16
+P120,Pedro Lopez,19.0,F,Lima,Odontologia,2024-10-13,68.14
+P779,Luis Torres,99.0,M,Lima,Pediatria,2024-07-07,427.02
+P601,Laura Gomez,52.0,F,Callao,Cardiologia,2024-08-22,400.92
+P335,Luis Lopez,35.0,M,Callao,Cardiologia,2024-10-15,55.77
+P073,Pedro Rodriguez,62.0,F,Lima,General,2024-07-30,97.13
+P070,Carlos Torres,63.0,F,San Isidro,Pediatria,2024-04-07,96.29
+P473,Sofia Rodriguez,57.0,F,Callao,Odontologia,invalid,85.97
+P305,Maria Rodriguez,86.0,M,Lima,Dermatologia,2024-01-27,404.89
+P836,Juan Martinez,13.0,F,San Isidro,Cardiologia,2024-10-27,239.27
+P135,Pedro Lopez,22.0,M,Surco,Odontologia,2024-12-10,352.74
+P934,Ana Lopez,40.0,M,San Isidro,Cardiologia,2024-03-24,469.76
+P177,Laura Rodriguez,51.0,M,Callao,General,2024-12-02,205.43
+P132,Pedro Gomez,76.0,F,Surco,Odontologia,2024-10-30,201.87
+P212,Laura Torres,41.0,M,Surco,Cardiologia,2024-07-05,418.46
+P031,Ana Rodriguez,78.0,M,Lima,General,2024-04-14,326.02
+P521,Ana Torres,38.0,F,San Isidro,Dermatologia,2024-07-28,127.82
+P353,Pedro Gomez,67.0,F,Surco,Cardiologia,invalid,462.7
+P089,Maria Martinez,88.0,M,Surco,Odontologia,2024-01-10,155.23
+P953,Luis Rodriguez,22.0,M,Callao,Dermatologia,2024-11-11,266.35
+P802,Luis Rodriguez,,M,,Odontologia,2024-01-11,485.95
+P538,Maria Lopez,49.0,F,Lima,Dermatologia,2024-01-26,156.52
+P396,Juan Torres,48.0,M,Miraflores,General,2024-01-09,61.35
+P943,Juan Gomez,,F,,General,invalid,334.71
+P455,Sofia Perez,82.0,M,Lima,Cardiologia,2024-09-22,73.42
+P158,Carlos Rodriguez,,M,San Isidro,Odontologia,2024-10-28,131.37
+P367,Ana Gomez,4.0,F,Callao,Cardiologia,2024-03-22,100.24
+P675,Ana Rodriguez,96.0,M,Callao,Dermatologia,2024-11-09,214.54
+P050,Luis Gomez,1.0,F,Miraflores,Cardiologia,2024-02-02,435.65
+P526,Laura Perez,41.0,M,Surco,General,2024-07-18,336.8
+P738,Laura Lopez,53.0,M,Surco,Dermatologia,2024-07-06,145.8
+P605,Luis Lopez,36.0,F,Miraflores,General,invalid,486.24
+P285,Luis Gomez,33.0,F,Callao,Pediatria,2024-04-17,178.63
+P252,Sofia Perez,33.0,M,Callao,Cardiologia,2024-12-25,346.92
+P773,Sofia Rodriguez,100.0,F,Miraflores,General,2024-08-18,480.4
+P274,Ana Rodriguez,12.0,M,Lima,Pediatria,2024-05-22,417.19
+P494,Sofia Perez,42.0,M,,Cardiologia,2024-12-01,183.16
+P049,Maria Torres,79.0,M,Surco,Dermatologia,2024-01-08,126.23
+P413,Luis Torres,15.0,F,Surco,Cardiologia,2024-08-30,493.48
+P250,Carlos Gomez,28.0,F,San Isidro,Cardiologia,2024-08-07,491.8
+P083,Laura Gomez,67.0,M,,Odontologia,2024-03-23,92.73
+P336,Maria Lopez,61.0,F,Callao,Odontologia,2024-12-02,236.44
+P622,Laura Martinez,87.0,M,San Isidro,General,2024-09-29,60.43
+P631,Juan Rodriguez,,F,Callao,Odontologia,2024-11-02,496.04
+P954,Juan Rodriguez,75.0,F,San Isidro,Dermatologia,2024-08-19,81.59
+P638,Sofia Torres,38.0,M,San Isidro,Pediatria,invalid,68.0
+P056,Juan Perez,99.0,M,Callao,Cardiologia,2024-10-02,128.48
+P584,Ana Rodriguez,7.0,F,Lima,Dermatologia,2024-08-10,338.92
+P927,Ana Lopez,45.0,F,,Pediatria,2024-04-15,405.81
+P062,Sofia Gomez,47.0,F,,Odontologia,2024-09-03,113.51
+P575,Ana Rodriguez,77.0,F,Surco,Pediatria,2024-10-24,356.05
+P229,Juan Torres,11.0,F,Surco,Pediatria,2024-01-11,122.86
+P072,Ana Perez,95.0,M,Miraflores,Cardiologia,2024-03-08,338.84
+P834,Juan Torres,52.0,F,Miraflores,Cardiologia,2024-03-19,64.54
+P676,Ana Perez,25.0,M,Miraflores,Dermatologia,2024-07-26,106.42
+P935,Ana Lopez,49.0,M,Callao,Odontologia,2024-12-02,81.09
+P444,Laura Lopez,25.0,M,Surco,Dermatologia,2024-06-18,454.82
+P904,Maria Gomez,52.0,F,San Isidro,Dermatologia,2024-11-08,395.68
+P456,Pedro Lopez,23.0,M,Callao,Cardiologia,2024-12-29,
+P496,Maria Perez,66.0,M,,Dermatologia,2024-12-27,460.65
+P703,Maria Torres,,M,Miraflores,Dermatologia,2024-09-26,348.14
+P993,Sofia Rodriguez,15.0,M,,Dermatologia,2024-01-14,357.37
+P306,Carlos Torres,37.0,M,Surco,Pediatria,2024-11-10,181.0
+P050,Juan Torres,15.0,M,Lima,Cardiologia,2024-12-21,62.4
+P038,Ana Torres,60.0,F,Surco,Cardiologia,2024-06-03,305.82
+P517,Sofia Lopez,16.0,M,,Dermatologia,2024-05-24,274.55
+P584,Ana Torres,64.0,F,,Cardiologia,2024-04-19,306.67
+P889,Sofia Gomez,4.0,M,Miraflores,Odontologia,2024-05-23,239.14
+P351,Luis Torres,22.0,M,Miraflores,Cardiologia,2024-02-06,319.0
+P335,Laura Lopez,66.0,F,Miraflores,Dermatologia,2024-10-09,315.88
+P556,Laura Martinez,,M,,Odontologia,invalid,404.31
+P812,Ana Perez,14.0,M,Miraflores,Pediatria,2024-07-04,290.04
+P161,Sofia Martinez,47.0,F,San Isidro,Pediatria,2024-08-03,67.41
+P134,Maria Rodriguez,68.0,M,San Isidro,Pediatria,invalid,66.7
+P927,Pedro Martinez,8.0,F,San Isidro,Odontologia,2024-07-01,409.95
+P939,Carlos Torres,90.0,M,,Cardiologia,2024-09-21,134.85
+P476,Laura Lopez,1.0,F,,Cardiologia,2024-07-31,459.4
+P895,Ana Lopez,55.0,M,Lima,Pediatria,2024-11-08,208.73
+P132,Maria Torres,25.0,M,Surco,Odontologia,2024-01-27,406.56
+P538,Juan Torres,22.0,M,San Isidro,Cardiologia,2024-08-12,495.01
+P961,Sofia Perez,79.0,M,,Dermatologia,2024-02-12,404.54
+P616,Luis Lopez,89.0,M,San Isidro,Odontologia,invalid,399.73
+P442,Luis Perez,31.0,F,Surco,Dermatologia,2024-02-21,274.38
+P903,Pedro Rodriguez,61.0,F,Callao,General,2024-10-24,390.1
+P512,Ana Gomez,27.0,M,San Isidro,Cardiologia,2024-08-28,52.83
+P214,Juan Martinez,8.0,M,Lima,Dermatologia,invalid,373.51
+P828,Pedro Lopez,62.0,F,Callao,General,2024-09-22,491.96
+P939,Laura Torres,64.0,M,Surco,General,2024-09-09,182.46
+P681,Luis Martinez,68.0,M,San Isidro,Odontologia,2024-03-22,476.25
+P151,Laura Martinez,89.0,F,Surco,General,2024-09-17,305.69
+P019,Sofia Martinez,75.0,M,Callao,General,2024-01-24,148.56
+P560,Laura Rodriguez,83.0,F,,Pediatria,2024-03-27,97.92
+P796,Carlos Martinez,18.0,M,Miraflores,Cardiologia,2024-11-06,129.72
+P373,Sofia Rodriguez,90.0,F,San Isidro,Dermatologia,2024-07-10,238.1
+P409,Pedro Torres,79.0,F,Lima,General,2024-09-10,205.88
+P653,Laura Gomez,20.0,F,,Odontologia,2024-04-04,457.39
+P113,Pedro Martinez,8.0,F,Lima,Odontologia,2024-07-26,376.39
+P026,Carlos Perez,6.0,M,Miraflores,Odontologia,2024-12-17,461.46
+P942,Laura Torres,18.0,M,Lima,Pediatria,2024-10-24,57.88
+P429,Carlos Rodriguez,97.0,F,Callao,Pediatria,invalid,330.68
+P424,Sofia Gomez,25.0,F,Lima,Dermatologia,2024-06-06,328.56
+P852,Maria Torres,,M,San Isidro,Pediatria,2024-07-31,299.3
+P782,Pedro Lopez,14.0,F,Lima,Cardiologia,invalid,471.37
+P519,Laura Gomez,25.0,F,Surco,General,2024-08-02,241.36
+P922,Pedro Lopez,87.0,F,Lima,General,2024-10-08,299.29
+P291,Maria Gomez,63.0,M,San Isidro,General,2024-09-25,333.82
+P402,Sofia Martinez,86.0,F,Surco,Odontologia,invalid,387.27
+P960,Carlos Perez,22.0,F,Lima,General,2024-09-12,
+P469,Luis Gomez,77.0,M,Callao,Pediatria,2024-10-04,234.23
+P533,Juan Perez,53.0,M,San Isidro,General,2024-07-11,485.99
+P437,Ana Gomez,95.0,F,Lima,Odontologia,2024-12-10,76.83
+P099,Maria Gomez,33.0,M,Surco,Odontologia,2024-05-23,215.0
+P719,Pedro Martinez,94.0,F,Miraflores,General,2024-02-27,455.1
+P329,Carlos Gomez,15.0,F,Callao,General,invalid,273.83
+P292,Sofia Martinez,15.0,M,Miraflores,Cardiologia,2024-04-10,346.97
+P704,Luis Rodriguez,4.0,M,Miraflores,Odontologia,2024-08-10,368.69
+P032,Carlos Martinez,82.0,M,Surco,Dermatologia,2024-09-14,335.77
+P260,Laura Martinez,98.0,M,Lima,Pediatria,2024-08-19,314.19
+P084,Maria Gomez,44.0,M,Lima,Odontologia,2024-02-06,484.77
+P037,Luis Torres,97.0,M,Callao,Pediatria,invalid,78.4
+P786,Ana Perez,49.0,F,Lima,Cardiologia,2024-05-22,376.4
+P090,Laura Rodriguez,39.0,M,Miraflores,Pediatria,2024-06-22,62.58
+P643,Pedro Torres,80.0,F,San Isidro,General,2024-01-06,115.8
+P042,Pedro Gomez,64.0,M,Miraflores,Cardiologia,2024-01-01,
+P517,Maria Torres,90.0,F,Surco,Dermatologia,2024-03-24,423.75
+P219,Luis Rodriguez,24.0,F,Callao,Dermatologia,2024-10-28,406.89
+P306,Sofia Perez,84.0,M,,Dermatologia,2024-01-24,249.84
+P097,Laura Gomez,58.0,M,Callao,Cardiologia,2024-05-20,304.02
+P859,Luis Perez,81.0,M,Lima,Cardiologia,2024-10-29,110.64
+P524,Sofia Torres,9.0,M,Miraflores,General,2024-06-24,236.61
+P401,Laura Lopez,85.0,F,,Pediatria,2024-10-02,293.79
+P907,Luis Torres,58.0,M,,Pediatria,2024-10-03,243.09
+P947,Laura Torres,92.0,F,San Isidro,Odontologia,2024-09-07,155.27
+P680,Maria Lopez,38.0,F,San Isidro,Pediatria,2024-09-21,152.87
+P549,Ana Torres,78.0,M,San Isidro,Odontologia,2024-11-22,383.52
+P373,Juan Perez,97.0,F,Lima,Pediatria,2024-11-01,260.55
+P729,Sofia Torres,91.0,F,,Odontologia,2024-10-26,408.83
+P737,Laura Gomez,25.0,M,Surco,Dermatologia,2024-07-09,436.0
+P880,Carlos Perez,13.0,F,,General,2024-01-02,120.35
+P211,Pedro Torres,27.0,F,Callao,General,invalid,115.24
+P232,Carlos Martinez,93.0,M,Lima,Dermatologia,2024-12-21,99.62
+P668,Sofia Perez,27.0,F,Surco,General,2024-04-23,118.28
+P186,Carlos Torres,78.0,F,Lima,Dermatologia,2024-02-25,465.24
+P694,Sofia Martinez,93.0,F,Surco,General,2024-11-22,165.31
+P111,Luis Gomez,46.0,M,,Cardiologia,2024-03-31,130.82
+P791,Juan Rodriguez,75.0,F,Surco,Dermatologia,2024-03-20,213.89
+P976,Luis Gomez,31.0,F,Miraflores,Pediatria,2024-07-19,466.82
+P665,Maria Torres,6.0,M,,General,invalid,499.93
+P711,Laura Perez,41.0,F,Lima,Cardiologia,2024-10-23,314.88
+P858,Luis Gomez,14.0,F,Callao,Dermatologia,2024-11-23,299.99
+P742,Sofia Lopez,7.0,M,Miraflores,Cardiologia,2024-10-28,314.81
+P377,Maria Torres,85.0,M,Surco,Odontologia,2024-09-13,260.91
+P826,Laura Martinez,98.0,F,Surco,Dermatologia,2024-08-26,131.51
+P118,Maria Perez,96.0,M,,Pediatria,2024-04-17,436.49
+P390,Laura Martinez,58.0,F,Miraflores,Dermatologia,invalid,162.33
+P649,Ana Perez,,M,Lima,Cardiologia,2024-05-04,
+P867,Juan Lopez,50.0,M,Miraflores,General,2024-05-10,114.86
+P939,Pedro Martinez,61.0,M,,General,2024-03-12,224.03
+P212,Luis Perez,66.0,F,Callao,Pediatria,2024-11-09,147.11
+P650,Juan Rodriguez,68.0,M,Surco,Cardiologia,2024-03-17,416.78
+P563,Carlos Torres,92.0,F,San Isidro,Cardiologia,2024-08-06,
+P916,Laura Gomez,48.0,F,Lima,Cardiologia,2024-02-29,352.07
+P228,Laura Martinez,88.0,F,Callao,Cardiologia,2024-08-27,461.65
+P840,Luis Martinez,33.0,F,Callao,Dermatologia,2024-08-11,145.15
+P101,Sofia Lopez,66.0,M,San Isidro,Dermatologia,invalid,121.82
+P930,Luis Rodriguez,32.0,F,Miraflores,Odontologia,2024-11-17,429.66
+P751,Laura Perez,1.0,F,,Pediatria,2024-08-15,388.94
+P224,Sofia Martinez,,M,Callao,Pediatria,2024-01-17,174.53
+P927,Laura Lopez,48.0,M,San Isidro,Dermatologia,2024-03-02,265.49
+P587,Laura Rodriguez,76.0,M,Callao,Cardiologia,2024-09-10,464.93
+P225,Sofia Martinez,57.0,M,Lima,Pediatria,2024-11-12,473.7
+P766,Laura Gomez,57.0,F,San Isidro,Cardiologia,2024-06-24,460.78
+P267,Ana Martinez,73.0,M,Lima,Dermatologia,2024-09-26,237.8
+P620,Maria Lopez,79.0,F,Surco,Cardiologia,invalid,299.7
+P065,Luis Torres,26.0,F,Surco,Pediatria,2024-10-10,87.52
+P574,Juan Rodriguez,2.0,M,Lima,Odontologia,2024-04-02,121.28
+P555,Maria Rodriguez,55.0,F,,General,2024-07-20,284.13
+P311,Maria Lopez,83.0,M,Surco,Pediatria,2024-05-29,381.17
+P629,Carlos Torres,91.0,F,Surco,Pediatria,2024-03-30,499.56
+P540,Ana Lopez,20.0,F,San Isidro,Pediatria,2024-03-03,
+P347,Juan Torres,64.0,M,San Isidro,Odontologia,2024-09-20,406.95
+P974,Luis Gomez,49.0,M,San Isidro,General,2024-07-28,304.98
+P498,Sofia Torres,93.0,M,Callao,Dermatologia,invalid,144.1
+P132,Laura Perez,4.0,M,Callao,Pediatria,2024-07-10,62.37
+P823,Juan Lopez,38.0,F,Lima,Dermatologia,2024-08-24,200.47
+P283,Carlos Rodriguez,98.0,M,San Isidro,General,2024-03-14,155.26
+P280,Maria Martinez,20.0,F,,Odontologia,2024-01-01,422.97
+P646,Pedro Perez,14.0,M,San Isidro,Pediatria,2024-06-02,200.7
+P971,Juan Perez,67.0,M,San Isidro,Cardiologia,2024-01-21,258.09
+P138,Laura Rodriguez,43.0,M,Callao,Dermatologia,2024-09-11,402.02
+P006,Sofia Rodriguez,69.0,F,Callao,Odontologia,2024-09-14,196.23
+P741,Ana Lopez,96.0,M,Lima,General,2024-07-30,327.4
+P992,Luis Perez,31.0,F,Lima,Dermatologia,2024-12-05,313.68
+P669,Carlos Martinez,2.0,M,,Odontologia,2024-01-22,348.27
+P720,Ana Gomez,,M,,Odontologia,2024-10-29,64.8
+P588,Ana Martinez,79.0,M,Surco,Pediatria,2024-04-19,385.63
+P512,Maria Rodriguez,40.0,F,Miraflores,General,2024-04-07,340.4
+P885,Sofia Gomez,91.0,F,Miraflores,General,2024-02-13,367.45
+P440,Pedro Martinez,12.0,M,Miraflores,General,2024-12-28,309.45
+P595,Luis Lopez,13.0,M,Miraflores,Pediatria,2024-06-12,251.77
+P475,Pedro Martinez,48.0,F,San Isidro,Odontologia,2024-08-16,425.46
+P927,Carlos Torres,34.0,F,Surco,Odontologia,2024-09-23,87.58
+P589,Maria Lopez,66.0,M,San Isidro,Dermatologia,2024-09-29,220.64
+P236,Carlos Lopez,92.0,M,Surco,Dermatologia,2024-09-04,82.98
+P287,Maria Torres,12.0,M,Surco,Cardiologia,2024-01-21,221.92
+P048,Juan Torres,25.0,M,San Isidro,Pediatria,2024-07-28,211.89
+P106,Ana Perez,81.0,F,Surco,Dermatologia,2024-07-31,396.73
+P606,Maria Gomez,54.0,M,Lima,Dermatologia,2024-08-01,146.79
+P287,Pedro Torres,39.0,F,Lima,Odontologia,2024-08-03,380.36
+P738,Carlos Torres,91.0,M,Lima,Dermatologia,2024-01-19,471.35
+P912,Juan Torres,86.0,F,,Dermatologia,2024-04-02,174.08
+P343,Luis Gomez,74.0,F,Callao,Dermatologia,2024-03-13,297.08
+P167,Ana Rodriguez,21.0,M,Miraflores,Pediatria,2024-03-17,322.04
+P510,Juan Lopez,82.0,M,Lima,Dermatologia,invalid,390.23
+P908,Sofia Perez,47.0,M,,Cardiologia,2024-10-15,107.37
+P223,Ana Torres,66.0,M,Callao,Pediatria,2024-09-18,198.39
+P685,Pedro Torres,50.0,F,Lima,Pediatria,invalid,405.16
+P706,Juan Lopez,19.0,M,San Isidro,Cardiologia,2024-12-31,288.16
+P579,Carlos Martinez,20.0,F,San Isidro,Cardiologia,2024-08-26,387.68
+P078,Maria Perez,13.0,F,Surco,General,2024-02-14,374.87
+P230,Juan Lopez,,F,Lima,Dermatologia,2024-12-17,205.85
+P707,Luis Rodriguez,25.0,F,Lima,Cardiologia,2024-11-24,113.43
+P168,Pedro Rodriguez,52.0,M,Callao,General,invalid,413.27
+P920,Carlos Gomez,88.0,F,Miraflores,Odontologia,invalid,78.02
+P640,Carlos Gomez,32.0,F,San Isidro,General,2024-03-30,276.34
+P637,Sofia Perez,87.0,F,Callao,Cardiologia,invalid,103.59
+P498,Juan Perez,28.0,F,Miraflores,Dermatologia,2024-01-29,278.5
+P969,Pedro Lopez,71.0,M,San Isidro,General,2024-11-10,354.49
+P348,Laura Martinez,89.0,F,Surco,Pediatria,2024-02-24,277.62
+P445,Carlos Perez,37.0,M,Surco,Dermatologia,2024-04-18,494.9
+P594,Maria Martinez,71.0,F,Lima,General,2024-10-03,463.39
+P238,Carlos Torres,58.0,F,San Isidro,Cardiologia,2024-02-11,499.45
+P539,Ana Gomez,33.0,F,Surco,Dermatologia,2024-12-24,236.33
+P866,Juan Gomez,72.0,M,Surco,Pediatria,2024-11-09,127.57
+P310,Sofia Torres,52.0,F,Callao,Dermatologia,2024-03-26,331.43
+P712,Laura Lopez,89.0,M,Lima,Cardiologia,2024-06-01,438.51
+P386,Ana Martinez,73.0,M,,Cardiologia,2024-09-03,50.55
+P618,Pedro Lopez,16.0,F,Callao,Cardiologia,2024-11-23,459.04
+P125,Juan Perez,88.0,F,,General,2024-12-19,231.63
+P708,Ana Rodriguez,31.0,M,Surco,Pediatria,2024-11-29,495.8
+P931,Carlos Perez,25.0,M,,General,2024-03-19,227.77
+P221,Pedro Gomez,33.0,F,Miraflores,Dermatologia,2024-08-02,264.25
+P443,Carlos Perez,50.0,M,Surco,Dermatologia,2024-07-28,350.39
+P751,Ana Torres,3.0,F,San Isidro,Pediatria,2024-07-31,457.16
+P216,Maria Rodriguez,48.0,F,Callao,Odontologia,2024-04-09,140.33
+P076,Maria Torres,71.0,M,Miraflores,Dermatologia,2024-06-05,412.21
+P099,Maria Perez,50.0,M,Lima,Odontologia,2024-04-10,386.27
+P279,Maria Torres,32.0,F,Lima,Odontologia,2024-12-20,452.78
+P551,Carlos Perez,9.0,M,Callao,General,2024-12-06,
+P102,Maria Lopez,11.0,F,,Odontologia,2024-01-19,462.94
+P660,Maria Martinez,49.0,M,Miraflores,General,2024-02-19,62.11
+P256,Laura Perez,75.0,F,Surco,Odontologia,2024-11-24,384.02
+P252,Sofia Lopez,70.0,F,Callao,General,2024-11-20,
+P436,Carlos Martinez,30.0,M,Lima,Odontologia,2024-05-27,214.48
+P130,Juan Martinez,12.0,F,Miraflores,Cardiologia,2024-07-02,245.85
+P125,Juan Perez,65.0,M,,Pediatria,2024-02-04,86.91
+P484,Sofia Rodriguez,83.0,F,San Isidro,Dermatologia,invalid,445.35
+P829,Carlos Rodriguez,76.0,M,Callao,Cardiologia,2024-08-15,348.0
+P925,Sofia Lopez,93.0,M,Callao,Pediatria,2024-03-16,229.87
+P758,Carlos Lopez,,F,,General,2024-01-06,428.83
+P307,Sofia Gomez,49.0,M,Lima,Dermatologia,2024-05-28,495.54
+P535,Sofia Lopez,79.0,M,Surco,Odontologia,2024-08-31,484.05
+P176,Sofia Martinez,4.0,M,Miraflores,Cardiologia,2024-11-09,454.86
+P216,Sofia Torres,25.0,F,Surco,Cardiologia,2024-05-05,196.71
+P436,Sofia Torres,23.0,F,Surco,Cardiologia,2024-04-29,400.21
+P777,Maria Martinez,59.0,F,Surco,Pediatria,2024-09-23,396.7
+P731,Maria Rodriguez,93.0,F,Callao,Cardiologia,2024-04-25,379.35
+P240,Luis Perez,19.0,F,Callao,Dermatologia,2024-05-08,221.65
+P293,Luis Rodriguez,91.0,F,Lima,Pediatria,2024-09-16,462.59
+P317,Laura Perez,95.0,F,Surco,General,2024-05-09,448.17
+P697,Ana Gomez,72.0,M,Miraflores,Odontologia,2024-05-26,325.06
+P246,Sofia Gomez,73.0,M,Callao,Pediatria,2024-08-22,90.63
+P769,Maria Torres,94.0,F,Callao,General,2024-04-08,445.61
+P940,Laura Perez,15.0,M,San Isidro,General,2024-09-07,52.38
+P332,Maria Gomez,63.0,F,Surco,Pediatria,2024-04-17,184.13
+P466,Carlos Martinez,39.0,F,Lima,Pediatria,2024-08-24,382.45
+P672,Sofia Martinez,43.0,F,San Isidro,Odontologia,2024-10-03,177.0
+P172,Luis Torres,36.0,F,,Odontologia,2024-03-22,371.91
+P449,Juan Perez,60.0,F,San Isidro,Dermatologia,2024-12-06,205.33
+P941,Sofia Rodriguez,,F,Miraflores,Odontologia,2024-04-17,467.24
+P049,Laura Rodriguez,89.0,F,Surco,Odontologia,2024-12-21,481.83
+P189,Carlos Martinez,31.0,M,Miraflores,Odontologia,2024-01-02,233.52
+P865,Pedro Martinez,10.0,F,San Isidro,Dermatologia,2024-01-07,177.75
+P670,Juan Torres,34.0,M,Lima,General,2024-04-13,329.95
+P306,Luis Gomez,49.0,F,Surco,General,2024-10-03,86.18
+P947,Maria Lopez,43.0,F,Miraflores,Odontologia,2024-03-21,221.79
+P272,Ana Perez,,F,San Isidro,Dermatologia,2024-10-22,283.73
+P015,Luis Torres,10.0,M,Surco,Dermatologia,2024-10-12,353.77
+P448,Carlos Perez,,M,Callao,Pediatria,2024-08-20,86.96
+P755,Carlos Martinez,80.0,M,,General,2024-07-24,201.12
+P281,Laura Rodriguez,53.0,M,,Cardiologia,2024-12-03,381.93
+P238,Ana Torres,95.0,M,,Dermatologia,2024-12-24,140.53
+P789,Carlos Gomez,83.0,M,Miraflores,General,2024-02-12,219.22
+P1000,Ana Lopez,4.0,M,Callao,Pediatria,2024-01-22,122.46
+P522,Ana Torres,52.0,F,Callao,Odontologia,2024-12-25,467.68
+P405,Pedro Gomez,71.0,M,Surco,Cardiologia,2024-09-26,95.49
+P326,Sofia Gomez,85.0,M,Callao,Odontologia,2024-06-01,95.32
+P516,Maria Perez,55.0,F,Lima,Cardiologia,2024-11-01,347.37
+P051,Sofia Rodriguez,37.0,F,San Isidro,Odontologia,2024-06-22,266.15
+P639,Laura Perez,72.0,M,Lima,Dermatologia,2024-08-10,273.11
+P741,Luis Lopez,59.0,F,Surco,Pediatria,invalid,162.66
+P973,Luis Gomez,23.0,F,San Isidro,Cardiologia,2024-04-24,298.43
+P328,Sofia Gomez,49.0,F,Surco,Cardiologia,2024-08-04,413.64
+P127,Maria Martinez,,M,Callao,Odontologia,2024-02-03,155.82
+P861,Ana Rodriguez,32.0,F,San Isidro,Cardiologia,2024-04-05,77.24
+P405,Maria Martinez,67.0,M,San Isidro,Dermatologia,2024-11-19,149.01
+P189,Juan Gomez,47.0,F,Surco,General,2024-07-18,322.1
+P674,Maria Gomez,7.0,F,Callao,Odontologia,2024-12-18,198.91
+P229,Carlos Martinez,46.0,M,San Isidro,Dermatologia,2024-06-07,180.55
+P531,Ana Gomez,91.0,F,Miraflores,Cardiologia,2024-03-24,
+P864,Luis Torres,,F,,General,2024-07-14,495.07
+P043,Pedro Martinez,20.0,M,Surco,General,2024-02-13,
+P890,Carlos Martinez,,F,Surco,Odontologia,2024-02-08,185.76
+P375,Carlos Torres,3.0,F,Callao,Cardiologia,2024-04-27,217.23
+P147,Ana Perez,77.0,F,,Dermatologia,2024-08-04,350.58
+P058,Carlos Gomez,39.0,M,Callao,Cardiologia,2024-11-04,264.65
+P343,Ana Gomez,8.0,M,San Isidro,Cardiologia,2024-02-11,341.37
+P581,Luis Gomez,56.0,F,,General,2024-01-14,299.87
+P963,Ana Perez,47.0,F,Callao,Cardiologia,2024-04-21,249.51
+P438,Ana Perez,81.0,M,Callao,Pediatria,2024-02-09,96.94
+P908,Luis Perez,37.0,F,,Odontologia,2024-02-29,310.77
+P992,Sofia Gomez,63.0,F,,General,2024-08-25,284.12
+P624,Sofia Torres,40.0,F,San Isidro,Cardiologia,2024-07-21,120.72
+P332,Laura Martinez,91.0,M,Surco,Pediatria,2024-01-07,162.25
+P359,Laura Martinez,100.0,M,Lima,Cardiologia,2024-12-12,220.46
+P760,Sofia Rodriguez,57.0,F,Miraflores,Cardiologia,invalid,394.34
+P941,Carlos Torres,29.0,F,,Pediatria,2024-06-01,356.26
+P418,Carlos Rodriguez,58.0,M,Miraflores,Cardiologia,2024-06-24,71.68
+P214,Laura Martinez,33.0,F,Callao,Pediatria,2024-12-21,225.25
+P865,Maria Gomez,27.0,F,San Isidro,General,2024-07-28,361.63
+P088,Pedro Torres,46.0,M,Lima,Cardiologia,2024-01-15,312.33
+P090,Pedro Martinez,78.0,F,,Pediatria,2024-02-01,134.8
+P257,Luis Perez,53.0,M,Surco,Cardiologia,2024-01-29,
+P555,Laura Perez,86.0,M,Callao,Cardiologia,2024-05-24,89.06
+P959,Maria Lopez,70.0,F,Lima,Dermatologia,2024-03-05,103.42
+P489,Juan Torres,88.0,M,Surco,General,2024-02-28,156.64
+P612,Carlos Perez,35.0,F,Lima,Pediatria,2024-12-18,
+P474,Laura Perez,78.0,F,Surco,General,2024-04-29,354.07
+P657,Pedro Torres,95.0,F,Lima,Odontologia,2024-11-12,374.73
+P118,Pedro Rodriguez,8.0,F,,General,2024-09-10,287.17
+P261,Laura Gomez,97.0,F,San Isidro,General,2024-08-06,412.65
+P154,Carlos Perez,,F,Callao,Odontologia,2024-10-04,408.97
+P273,Sofia Gomez,73.0,F,Callao,Pediatria,2024-06-23,106.94
+P200,Ana Rodriguez,83.0,F,Lima,Odontologia,2024-02-12,257.13
+P109,Maria Lopez,42.0,M,Miraflores,General,2024-03-09,148.02
+P479,Laura Lopez,61.0,M,Lima,Pediatria,2024-07-14,436.42
+P896,Maria Torres,26.0,M,Callao,Odontologia,2024-05-12,493.26
+P793,Juan Lopez,82.0,F,Callao,Pediatria,2024-05-13,377.62
+P647,Laura Torres,11.0,F,,Pediatria,2024-11-14,364.8
+P817,Sofia Gomez,51.0,M,Lima,General,2024-02-12,86.1
+P870,Maria Gomez,9.0,M,Surco,Odontologia,2024-11-22,371.66
+P639,Carlos Perez,71.0,M,,Dermatologia,2024-10-22,387.45
+P021,Maria Gomez,6.0,M,San Isidro,Cardiologia,2024-04-18,107.81
+P894,Juan Rodriguez,11.0,F,San Isidro,Pediatria,2024-03-30,183.72
+P542,Laura Martinez,43.0,M,Callao,Cardiologia,2024-06-16,358.88
+P365,Juan Martinez,20.0,M,Miraflores,Odontologia,2024-09-12,397.77
+P579,Juan Martinez,20.0,M,Surco,Odontologia,2024-02-22,342.31
+P247,Pedro Rodriguez,33.0,M,Surco,Dermatologia,2024-05-04,71.32
+P066,Carlos Perez,18.0,M,Lima,Dermatologia,2024-05-18,284.55
+P538,Juan Gomez,51.0,M,Lima,Dermatologia,2024-02-03,372.36
+P192,Ana Gomez,44.0,F,,Cardiologia,2024-06-09,
+P902,Carlos Rodriguez,8.0,F,Miraflores,Dermatologia,2024-07-19,269.26
+P564,Carlos Rodriguez,35.0,M,San Isidro,Pediatria,2024-04-05,444.77
+P441,Carlos Gomez,6.0,M,Lima,Pediatria,2024-09-11,108.52
+P623,Sofia Perez,44.0,F,Callao,Pediatria,2024-11-26,117.44
+P136,Pedro Lopez,62.0,F,Miraflores,General,2024-03-10,377.89
+P925,Laura Rodriguez,,M,Callao,Dermatologia,2024-01-06,253.62
+P462,Sofia Gomez,81.0,F,Surco,Cardiologia,invalid,86.21
+P625,Pedro Rodriguez,27.0,M,Surco,Odontologia,2024-10-04,155.62
+P378,Laura Torres,96.0,F,San Isidro,Pediatria,invalid,178.8
+P110,Carlos Martinez,11.0,F,Lima,Pediatria,2024-08-19,477.13
+P928,Ana Lopez,16.0,M,,Pediatria,2024-10-29,259.21
+P146,Ana Rodriguez,91.0,F,Surco,Dermatologia,2024-03-19,338.96
+P086,Pedro Lopez,84.0,F,,General,2024-05-21,441.73
+P643,Pedro Gomez,100.0,F,,General,2024-07-29,196.97
+P043,Pedro Martinez,53.0,M,Callao,Cardiologia,2024-11-10,383.52
+P231,Maria Martinez,56.0,M,Miraflores,Cardiologia,2024-03-01,
+P710,Juan Perez,50.0,F,Callao,Dermatologia,2024-06-22,415.38
+P673,Pedro Martinez,35.0,M,,Pediatria,2024-06-06,254.26
+P753,Maria Gomez,83.0,M,Miraflores,Dermatologia,2024-01-29,472.96
+P472,Juan Gomez,14.0,F,Callao,Odontologia,2024-02-08,319.66
+P193,Ana Lopez,93.0,F,Surco,Odontologia,2024-04-04,288.95
+P132,Juan Gomez,22.0,F,,Cardiologia,2024-07-21,320.57
+P085,Luis Rodriguez,13.0,M,San Isidro,Cardiologia,invalid,423.59
+P415,Pedro Torres,48.0,F,San Isidro,Pediatria,2024-09-16,287.68
+P144,Pedro Gomez,12.0,F,San Isidro,Cardiologia,2024-11-19,193.7
+P658,Ana Gomez,87.0,M,,Odontologia,2024-02-28,269.66
+P891,Pedro Gomez,21.0,M,,Odontologia,2024-12-08,98.61
+P989,Laura Rodriguez,,M,San Isidro,Pediatria,2024-04-27,221.75
+P641,Luis Lopez,,M,Miraflores,Odontologia,2024-12-13,152.89
+P646,Juan Perez,1.0,F,Lima,Cardiologia,2024-11-03,192.22
+P419,Laura Lopez,13.0,F,Miraflores,Odontologia,2024-07-08,98.26
+P612,Maria Rodriguez,97.0,F,Lima,Dermatologia,2024-09-28,
+P760,Ana Perez,88.0,M,Miraflores,Cardiologia,2024-09-06,204.4
+P318,Carlos Perez,91.0,M,Callao,Cardiologia,2024-06-28,81.73
+P544,Luis Gomez,60.0,F,,Dermatologia,2024-08-25,190.08
+P741,Carlos Gomez,44.0,M,Surco,General,invalid,
+P911,Ana Rodriguez,,M,Miraflores,Cardiologia,2024-07-04,375.97
+P158,Sofia Lopez,85.0,M,,Pediatria,2024-03-17,275.32
+P106,Maria Gomez,87.0,M,San Isidro,Dermatologia,2024-07-24,478.32
+P125,Juan Rodriguez,58.0,M,Surco,General,invalid,199.33
+P735,Juan Perez,70.0,M,San Isidro,Cardiologia,2024-12-16,
+P159,Juan Torres,23.0,M,San Isidro,Dermatologia,2024-04-04,404.76
+P948,Maria Torres,22.0,F,,Dermatologia,2024-02-17,480.03
+P910,Laura Perez,17.0,M,Callao,Odontologia,2024-10-29,171.88
+P332,Juan Martinez,10.0,F,Callao,General,2024-01-06,169.7
+P890,Sofia Gomez,32.0,F,San Isidro,Dermatologia,2024-05-29,390.17
+P638,Maria Rodriguez,19.0,M,Miraflores,Pediatria,invalid,323.57
+P222,Juan Martinez,58.0,M,Miraflores,Odontologia,2024-09-24,182.76
+P958,Laura Martinez,28.0,F,San Isidro,Cardiologia,2024-04-02,51.88
+P538,Luis Rodriguez,43.0,M,Lima,Pediatria,2024-04-28,377.43
+P213,Juan Rodriguez,58.0,F,Lima,Odontologia,2024-02-14,463.32
+P701,Carlos Lopez,64.0,F,San Isidro,General,2024-11-11,166.57
+P940,Ana Lopez,44.0,M,Callao,Pediatria,2024-06-15,404.11
+P666,Pedro Martinez,2.0,M,Callao,Dermatologia,2024-02-21,324.97
+P635,Luis Martinez,19.0,M,,Dermatologia,2024-02-13,402.68
+P250,Ana Gomez,77.0,F,San Isidro,Cardiologia,2024-05-03,65.52
+P042,Sofia Lopez,62.0,F,Lima,General,2024-05-15,207.47
+P073,Sofia Rodriguez,7.0,M,Miraflores,Odontologia,2024-11-15,157.43
+P705,Luis Martinez,85.0,M,San Isidro,Cardiologia,2024-12-26,321.68
+P824,Pedro Torres,100.0,M,Callao,Pediatria,2024-03-12,90.37
+P354,Juan Torres,98.0,M,Surco,Pediatria,2024-03-08,414.81
+P965,Ana Lopez,26.0,M,Miraflores,Odontologia,2024-11-19,53.9
+P732,Sofia Gomez,14.0,F,,Cardiologia,2024-03-29,95.89
+P362,Ana Torres,77.0,M,Miraflores,Odontologia,2024-08-03,395.68
+P405,Sofia Lopez,51.0,F,San Isidro,Dermatologia,2024-06-13,
+P126,Pedro Torres,80.0,M,Lima,General,2024-09-08,452.5
+P423,Laura Lopez,100.0,M,San Isidro,General,invalid,128.74
+P297,Pedro Perez,96.0,M,Miraflores,Dermatologia,2024-12-06,342.75
+P998,Pedro Gomez,90.0,F,Callao,Odontologia,2024-01-24,223.61
+P652,Laura Torres,29.0,M,Surco,Pediatria,2024-09-28,198.65
+P703,Pedro Rodriguez,8.0,M,Miraflores,General,2024-10-02,396.07
+P749,Juan Gomez,86.0,F,San Isidro,General,2024-03-11,473.28
+P675,Juan Perez,80.0,M,Surco,General,2024-10-11,280.74
+P135,Sofia Torres,46.0,F,Surco,Odontologia,2024-03-22,342.23
+P686,Laura Rodriguez,95.0,M,Lima,Cardiologia,invalid,370.38
+P772,Maria Perez,25.0,M,San Isidro,Odontologia,2024-06-29,262.86
+P826,Maria Gomez,23.0,M,Lima,Odontologia,2024-09-11,216.3
+P371,Ana Martinez,91.0,F,San Isidro,Odontologia,2024-09-24,96.13
+P629,Juan Gomez,96.0,F,,Cardiologia,2024-10-25,99.04
+P285,Luis Gomez,23.0,M,Callao,Dermatologia,invalid,454.04
+P178,Pedro Martinez,95.0,M,,Odontologia,2024-01-28,470.92
+P814,Ana Perez,93.0,F,Miraflores,Odontologia,2024-12-18,244.55
+P578,Laura Gomez,19.0,F,Lima,Dermatologia,2024-05-10,294.94
+P944,Maria Gomez,36.0,F,,Cardiologia,invalid,203.78
+P645,Juan Rodriguez,52.0,M,,Odontologia,2024-06-03,178.16
+P104,Sofia Martinez,32.0,M,Lima,Odontologia,2024-03-27,91.45
+P119,Luis Gomez,51.0,F,,Pediatria,2024-08-19,345.24
+P726,Ana Rodriguez,8.0,M,Lima,Cardiologia,2024-11-07,378.83
+P637,Luis Martinez,82.0,M,,Dermatologia,invalid,465.87
+P057,Ana Gomez,40.0,F,Callao,Cardiologia,2024-11-16,132.56
+P432,Maria Lopez,10.0,M,San Isidro,Pediatria,2024-01-28,325.7
+P193,Maria Martinez,93.0,M,Callao,General,2024-02-17,139.09
+P796,Laura Gomez,56.0,M,Callao,Dermatologia,2024-07-19,176.31
+P276,Ana Gomez,92.0,M,Lima,Pediatria,2024-08-27,473.73
+P526,Maria Lopez,77.0,M,Lima,General,2024-05-24,175.77
+P781,Ana Perez,10.0,M,Surco,Cardiologia,2024-09-16,288.18
+P628,Carlos Martinez,91.0,M,Miraflores,Pediatria,invalid,79.87
+P794,Ana Torres,90.0,F,Lima,Cardiologia,2024-08-12,335.72
+P873,Ana Martinez,40.0,M,Lima,Odontologia,2024-09-04,346.27
+P807,Ana Lopez,74.0,M,Miraflores,General,2024-04-27,471.91
+P714,Carlos Martinez,17.0,M,San Isidro,Odontologia,2024-02-16,333.98
+P430,Maria Torres,98.0,F,,General,2024-11-15,493.5
+P934,Sofia Gomez,26.0,F,Surco,Odontologia,2024-04-19,91.9
+P742,Luis Lopez,12.0,M,Lima,Dermatologia,2024-01-15,160.23
+P824,Ana Martinez,74.0,M,Surco,Odontologia,2024-09-13,272.26
+P952,Sofia Torres,83.0,F,Miraflores,Dermatologia,2024-05-29,288.37
+P998,Laura Torres,28.0,M,Surco,Odontologia,invalid,214.57
+P176,Maria Torres,76.0,F,,Odontologia,2024-01-05,186.4
+P988,Juan Gomez,79.0,F,,General,2024-09-22,453.91
+P462,Luis Torres,77.0,M,Callao,Cardiologia,2024-02-12,328.92
+P009,Laura Perez,69.0,F,Surco,Cardiologia,2024-12-03,61.9
+P523,Juan Perez,,M,Miraflores,Cardiologia,2024-08-22,442.13
+P692,Carlos Rodriguez,65.0,F,Lima,Cardiologia,2024-09-16,395.8
+P842,Maria Gomez,47.0,M,,Cardiologia,2024-11-16,494.39
+P474,Laura Lopez,,F,Lima,Cardiologia,2024-04-20,433.68
+P902,Juan Martinez,84.0,F,Lima,Pediatria,2024-06-23,290.75
+P905,Laura Torres,91.0,F,,Odontologia,2024-01-30,
+P644,Juan Gomez,37.0,M,Lima,Pediatria,2024-10-10,349.9
+P044,Pedro Rodriguez,37.0,M,Callao,General,2024-08-05,474.31
+P931,Pedro Torres,86.0,M,Lima,Dermatologia,invalid,465.22
+P874,Laura Martinez,13.0,F,Surco,Dermatologia,2024-10-28,
+P662,Luis Perez,66.0,F,,General,2024-12-09,495.74
+P344,Pedro Torres,67.0,M,Surco,Pediatria,2024-03-24,209.13
+P966,Luis Gomez,40.0,M,Callao,General,2024-06-08,450.08
+P205,Maria Rodriguez,2.0,M,Lima,General,2024-09-09,241.09
+P675,Luis Perez,92.0,M,Surco,Pediatria,2024-11-16,437.11
+P745,Laura Gomez,68.0,M,San Isidro,Dermatologia,2024-04-24,75.34
+P336,Ana Perez,16.0,M,San Isidro,General,2024-04-17,291.4
+P651,Carlos Torres,68.0,M,San Isidro,Cardiologia,2024-08-15,172.4
+P928,Luis Rodriguez,4.0,F,Miraflores,General,2024-10-04,172.45
+P532,Pedro Torres,78.0,M,San Isidro,Odontologia,2024-06-14,252.98
+P713,Pedro Lopez,97.0,F,San Isidro,Cardiologia,2024-12-17,253.0
+P804,Sofia Perez,54.0,F,Lima,Odontologia,2024-03-16,339.02
+P673,Maria Martinez,80.0,M,Miraflores,Dermatologia,2024-10-17,111.32
+P762,Maria Perez,,F,Callao,General,2024-07-20,143.26
+P565,Ana Rodriguez,34.0,F,Miraflores,Cardiologia,2024-12-08,116.31
+P057,Carlos Rodriguez,66.0,M,San Isidro,General,2024-02-29,358.5
+P988,Ana Gomez,23.0,F,San Isidro,Odontologia,2024-01-16,414.15
+P556,Pedro Perez,87.0,F,Lima,Cardiologia,2024-09-16,453.67
+P779,Laura Rodriguez,11.0,F,Callao,Odontologia,invalid,404.69
+P323,Maria Perez,53.0,M,Callao,Pediatria,2024-09-28,227.72
+P874,Sofia Martinez,67.0,F,Miraflores,Odontologia,2024-07-09,224.16
+P669,Sofia Lopez,78.0,M,San Isidro,Odontologia,invalid,242.53
+P234,Ana Perez,62.0,F,San Isidro,Dermatologia,2024-02-28,340.23
+P129,Juan Martinez,92.0,M,Surco,General,2024-12-29,104.89
+P347,Sofia Gomez,26.0,M,San Isidro,General,2024-06-17,335.13
+P350,Luis Perez,72.0,M,Callao,Pediatria,2024-07-21,82.68
+P659,Laura Gomez,,F,,Dermatologia,invalid,82.83
+P810,Pedro Martinez,38.0,M,Lima,Pediatria,2024-08-03,394.89
+P108,Carlos Martinez,92.0,F,,Cardiologia,invalid,202.9
+P496,Juan Rodriguez,43.0,F,Callao,Cardiologia,2024-12-28,295.47
+P692,Carlos Rodriguez,29.0,F,Lima,Dermatologia,2024-09-02,467.37
+P556,Ana Torres,83.0,M,,Odontologia,2024-02-05,314.13
+P887,Juan Perez,46.0,F,,General,2024-12-08,360.07
+P887,Juan Gomez,42.0,F,San Isidro,Dermatologia,2024-02-05,62.85
+P297,Luis Gomez,31.0,M,Surco,Dermatologia,2024-06-25,464.0
+P438,Luis Martinez,91.0,F,Lima,Odontologia,2024-10-26,390.42
+P646,Sofia Gomez,10.0,M,,Odontologia,2024-03-12,196.53
+P802,Carlos Lopez,93.0,M,Callao,General,2024-05-17,359.27
+P424,Sofia Perez,41.0,M,San Isidro,Odontologia,2024-03-25,381.54
+P868,Juan Martinez,7.0,F,Surco,Cardiologia,2024-05-08,133.3
+P421,Sofia Martinez,13.0,M,Lima,Pediatria,2024-05-08,468.25
+P397,Sofia Rodriguez,80.0,M,Surco,Pediatria,2024-11-12,261.23
+P060,Maria Torres,69.0,M,San Isidro,Dermatologia,2024-01-28,417.14
+P403,Carlos Perez,68.0,M,Callao,Cardiologia,2024-08-10,413.44
+P899,Sofia Gomez,31.0,M,,Dermatologia,2024-06-07,373.02
+P681,Sofia Gomez,40.0,F,Miraflores,Pediatria,2024-06-23,251.89
+P245,Carlos Lopez,12.0,F,Miraflores,Pediatria,2024-05-01,278.38
+P204,Maria Rodriguez,7.0,M,Surco,Pediatria,2024-10-27,461.15
+P522,Carlos Torres,,F,,Pediatria,2024-12-30,83.06
+P718,Sofia Lopez,65.0,F,Surco,Dermatologia,2024-04-28,385.42
+P763,Laura Rodriguez,50.0,M,San Isidro,General,invalid,342.06
+P199,Pedro Martinez,91.0,F,Callao,General,2024-07-12,235.21
+P894,Juan Gomez,20.0,M,Miraflores,Cardiologia,2024-06-22,347.82
+P331,Luis Torres,,F,,Dermatologia,2024-06-30,428.44
+P514,Ana Gomez,45.0,F,,Odontologia,2024-06-03,441.16
+P768,Maria Torres,38.0,F,Miraflores,Pediatria,2024-02-25,82.07
+P415,Juan Martinez,45.0,F,Miraflores,Cardiologia,2024-08-22,352.33
+P737,Luis Torres,88.0,F,San Isidro,Dermatologia,2024-05-08,446.29
+P972,Sofia Torres,28.0,F,Lima,General,invalid,74.88
+P556,Sofia Martinez,56.0,M,Lima,Odontologia,2024-10-20,
+P466,Pedro Perez,30.0,F,Lima,Pediatria,2024-07-13,131.18
+P081,Laura Perez,97.0,F,Callao,Dermatologia,2024-09-21,133.02
+P434,Carlos Rodriguez,73.0,M,San Isidro,Pediatria,2024-02-10,451.78
+P219,Juan Martinez,65.0,M,San Isidro,Odontologia,2024-05-05,420.28
+P132,Laura Lopez,89.0,F,Miraflores,General,2024-11-07,93.9
+P758,Juan Torres,61.0,M,Surco,Cardiologia,2024-04-28,494.04
+P234,Luis Lopez,71.0,F,Lima,Pediatria,2024-07-28,103.46
+P822,Carlos Torres,78.0,F,,Cardiologia,invalid,144.96
+P085,Pedro Martinez,37.0,F,Callao,Cardiologia,2024-02-22,428.38
+P388,Juan Lopez,4.0,F,Surco,Odontologia,2024-01-11,151.99
+P409,Ana Torres,46.0,M,Lima,Cardiologia,2024-07-29,351.48
+P116,Ana Lopez,38.0,M,Miraflores,General,2024-03-01,447.45
+P163,Sofia Gomez,68.0,M,San Isidro,Dermatologia,2024-11-17,458.44
+P373,Juan Lopez,28.0,M,San Isidro,Cardiologia,2024-08-11,475.15
+P385,Ana Gomez,90.0,F,Lima,Pediatria,2024-04-07,442.31
+P520,Ana Lopez,,F,San Isidro,Dermatologia,2024-08-04,180.64
+P405,Luis Martinez,66.0,M,Callao,Pediatria,2024-06-23,389.81
+P414,Juan Rodriguez,47.0,F,Callao,Odontologia,2024-06-27,75.14
+P486,Juan Rodriguez,22.0,M,Surco,Pediatria,2024-10-24,139.38
+P329,Luis Torres,81.0,F,Surco,Cardiologia,2024-01-11,265.53
+P603,Pedro Torres,53.0,F,Miraflores,General,2024-09-29,406.18
+P410,Juan Torres,67.0,F,San Isidro,General,2024-03-29,401.05
+P957,Maria Rodriguez,90.0,F,,Pediatria,2024-11-14,158.19
+P691,Sofia Torres,19.0,M,Lima,Dermatologia,2024-10-06,337.82
+P086,Laura Lopez,43.0,F,Callao,Odontologia,2024-08-01,241.44
+P237,Pedro Torres,45.0,M,Callao,Odontologia,2024-07-15,50.48
+P290,Pedro Gomez,59.0,F,,Pediatria,invalid,160.39
+P057,Pedro Lopez,68.0,M,Callao,Odontologia,2024-07-27,172.97
+P862,Pedro Martinez,93.0,F,Surco,General,2024-08-15,143.7
+P123,Ana Torres,28.0,F,Surco,Dermatologia,2024-10-24,363.49
+P917,Laura Perez,,M,Lima,Odontologia,2024-11-22,207.74
+P324,Juan Rodriguez,78.0,M,Miraflores,General,2024-06-04,142.08
+P473,Luis Gomez,55.0,M,Callao,Odontologia,2024-10-31,162.03
+P862,Sofia Gomez,81.0,M,Surco,Cardiologia,2024-03-01,471.57
+P044,Carlos Martinez,89.0,M,Callao,Dermatologia,2024-08-08,114.33
+P839,Luis Perez,97.0,M,,Cardiologia,2024-10-21,119.18
+P076,Pedro Gomez,28.0,M,,Pediatria,2024-02-04,93.0
+P158,Sofia Gomez,79.0,F,Lima,Pediatria,invalid,493.43
+P606,Carlos Rodriguez,3.0,F,Lima,Odontologia,invalid,271.96
+P211,Juan Perez,64.0,M,Lima,Dermatologia,2024-04-29,184.16
+P556,Laura Gomez,10.0,F,Surco,Dermatologia,2024-06-15,372.88
+P007,Pedro Torres,87.0,M,Surco,Cardiologia,2024-11-01,401.22
+P865,Maria Gomez,16.0,M,San Isidro,General,2024-02-06,163.88
+P187,Laura Perez,89.0,F,Lima,Dermatologia,2024-10-17,120.47
+P214,Ana Perez,44.0,F,,Odontologia,invalid,404.64
+P682,Laura Lopez,94.0,M,San Isidro,Odontologia,2024-11-21,405.06
+P641,Ana Torres,71.0,M,Miraflores,Dermatologia,2024-04-15,54.29
+P688,Maria Perez,82.0,M,Surco,Odontologia,2024-08-11,480.32
+P192,Sofia Lopez,51.0,M,,Dermatologia,2024-09-08,140.95
+P312,Pedro Gomez,96.0,M,,Pediatria,2024-05-14,106.29
+P958,Maria Torres,,M,Surco,Cardiologia,2024-08-19,178.87
+P286,Sofia Martinez,47.0,F,Lima,Pediatria,invalid,241.1
+P045,Maria Torres,42.0,F,Miraflores,Pediatria,2024-01-14,172.76
+P253,Luis Lopez,4.0,M,,Dermatologia,2024-05-11,91.49
+P492,Luis Perez,8.0,M,Surco,Cardiologia,invalid,138.22
+P276,Carlos Rodriguez,68.0,M,Surco,Dermatologia,2024-10-21,367.31
+P627,Juan Torres,22.0,M,,Dermatologia,2024-11-01,
+P060,Luis Rodriguez,84.0,F,San Isidro,Cardiologia,2024-10-28,220.98
+P702,Laura Torres,55.0,M,,Odontologia,2024-05-03,470.7
+P479,Juan Martinez,29.0,M,Lima,Odontologia,2024-08-18,338.66
+P313,Ana Martinez,9.0,F,Lima,Cardiologia,2024-11-19,396.87
+P028,Juan Torres,76.0,M,Miraflores,Cardiologia,2024-06-07,262.05
+P478,Sofia Gomez,59.0,M,,Cardiologia,2024-02-08,422.3
+P586,Laura Lopez,1.0,M,Miraflores,General,2024-05-19,365.71
+P406,Juan Rodriguez,88.0,M,Callao,Pediatria,2024-08-10,311.18
+P887,Ana Rodriguez,8.0,M,Lima,General,2024-08-05,280.36
+P866,Pedro Gomez,20.0,F,San Isidro,Pediatria,2024-11-19,177.5
+P571,Maria Perez,43.0,M,San Isidro,General,2024-12-05,393.23
+P548,Carlos Rodriguez,57.0,M,San Isidro,Odontologia,2024-11-02,325.67
+P024,Maria Torres,1.0,M,San Isidro,Dermatologia,2024-10-20,389.73
+P689,Ana Perez,16.0,M,,Odontologia,2024-10-15,192.26
+P335,Carlos Martinez,20.0,F,Miraflores,General,2024-04-21,52.94
+P973,Sofia Martinez,28.0,M,,General,2024-08-01,
+P712,Maria Torres,79.0,M,Miraflores,Dermatologia,2024-12-19,157.03
+P610,Laura Martinez,8.0,F,Lima,Odontologia,2024-01-08,497.6
+P350,Pedro Torres,63.0,F,Surco,Pediatria,invalid,93.06
+P379,Luis Perez,74.0,M,San Isidro,Cardiologia,2024-12-30,251.73
+P695,Maria Perez,14.0,F,Surco,General,2024-11-05,332.75
+P067,Sofia Lopez,50.0,F,Lima,Pediatria,2024-04-08,345.74
+P431,Ana Gomez,,M,Callao,Cardiologia,2024-08-03,164.45
+P371,Carlos Torres,27.0,M,Miraflores,Odontologia,2024-03-20,101.54
+P948,Juan Gomez,73.0,F,San Isidro,Pediatria,2024-08-31,255.55
+P545,Luis Torres,38.0,M,Callao,Odontologia,2024-09-14,375.16
+P419,Carlos Martinez,64.0,F,Lima,General,2024-09-13,122.48
+P675,Carlos Rodriguez,87.0,F,,Odontologia,invalid,455.45
+P542,Juan Martinez,56.0,F,Lima,Pediatria,2024-12-11,134.72
+P432,Luis Perez,9.0,M,Callao,Dermatologia,invalid,108.61
+P515,Sofia Rodriguez,40.0,M,Callao,Odontologia,2024-11-02,409.15
+P914,Pedro Torres,48.0,F,San Isidro,Odontologia,2024-09-25,145.74
+P834,Luis Rodriguez,75.0,F,Miraflores,Odontologia,2024-04-30,183.75
+P935,Luis Perez,74.0,M,Surco,Pediatria,2024-08-14,116.5
+P239,Ana Torres,40.0,F,Miraflores,Dermatologia,2024-01-15,171.49
+P487,Laura Gomez,38.0,M,Lima,Odontologia,2024-12-12,351.12
+P647,Sofia Rodriguez,18.0,M,Lima,Cardiologia,2024-01-15,426.9
+P620,Luis Torres,40.0,M,,Cardiologia,2024-10-19,190.89
+P399,Juan Lopez,80.0,M,Callao,General,invalid,288.04
+P691,Laura Gomez,11.0,M,,Cardiologia,2024-05-21,426.29
+P887,Laura Martinez,90.0,F,Surco,Odontologia,2024-02-13,110.13
+P283,Carlos Lopez,86.0,F,Lima,Pediatria,2024-06-27,
+P966,Luis Gomez,54.0,M,Callao,Dermatologia,2024-07-13,416.75
+P316,Carlos Rodriguez,28.0,F,Surco,Odontologia,2024-09-20,61.71
+P378,Carlos Perez,82.0,F,Surco,Odontologia,2024-12-02,182.57
+P536,Pedro Martinez,60.0,M,Miraflores,Cardiologia,2024-09-25,166.68
+P725,Laura Martinez,100.0,F,,Pediatria,2024-07-23,452.93
+P152,Sofia Martinez,1.0,M,,Odontologia,2024-06-09,295.29
+P625,Sofia Lopez,36.0,F,San Isidro,General,2024-09-11,262.2
+P119,Juan Lopez,25.0,F,Lima,Dermatologia,2024-08-14,278.45
+P428,Maria Perez,,F,Lima,General,2024-08-25,294.5
+P652,Luis Lopez,,F,Lima,Odontologia,2024-12-20,325.79
+P953,Sofia Torres,32.0,M,San Isidro,Cardiologia,2024-03-06,303.23
+P356,Pedro Gomez,81.0,F,Callao,Odontologia,2024-07-27,355.87
+P233,Juan Martinez,,F,San Isidro,Odontologia,2024-10-01,258.25
+P113,Sofia Gomez,53.0,F,San Isidro,General,2024-06-07,427.61
+P363,Pedro Martinez,21.0,M,,Pediatria,invalid,388.82
+P702,Carlos Gomez,92.0,M,,Pediatria,2024-08-15,459.76
+P256,Ana Perez,41.0,F,Callao,Dermatologia,2024-12-06,84.71
+P463,Pedro Rodriguez,88.0,M,Surco,Odontologia,2024-05-10,388.78
+P969,Pedro Perez,73.0,M,,Dermatologia,2024-02-22,272.23
+P505,Luis Perez,8.0,M,Surco,Pediatria,2024-12-24,472.89
+P325,Laura Rodriguez,19.0,M,Miraflores,General,2024-11-23,322.35
+P570,Sofia Martinez,58.0,M,San Isidro,Odontologia,2024-11-28,57.27
+P189,Juan Martinez,87.0,M,Lima,Dermatologia,2024-09-24,401.11
+P723,Luis Martinez,20.0,M,Callao,Odontologia,invalid,335.49
+P999,Carlos Martinez,48.0,M,Lima,Cardiologia,2024-10-31,474.03
+P521,Laura Gomez,50.0,F,Lima,General,2024-07-09,170.46
+P138,Luis Gomez,31.0,F,Miraflores,General,2024-05-24,418.58
+P058,Ana Perez,52.0,M,San Isidro,Pediatria,2024-07-23,109.81
+P567,Luis Martinez,16.0,F,Callao,Cardiologia,2024-10-26,153.03
+P155,Juan Rodriguez,45.0,M,Miraflores,Cardiologia,2024-03-17,259.35
+P832,Maria Martinez,95.0,F,Lima,Odontologia,2024-07-08,441.78
+P736,Laura Lopez,41.0,F,Lima,Odontologia,2024-05-10,386.63
+P591,Ana Gomez,78.0,F,Lima,Cardiologia,2024-11-06,417.04
+P154,Laura Rodriguez,97.0,M,Callao,Pediatria,2024-10-09,163.29
+P589,Pedro Rodriguez,81.0,F,San Isidro,General,2024-04-25,148.15
+P497,Juan Rodriguez,33.0,M,,Pediatria,2024-06-12,66.04
+P775,Sofia Martinez,49.0,F,,Cardiologia,2024-04-18,405.02
+P486,Luis Lopez,14.0,F,Lima,Odontologia,2024-01-08,75.16
+P645,Luis Lopez,35.0,M,Surco,Dermatologia,2024-02-09,222.15
+P626,Juan Gomez,44.0,M,Callao,Pediatria,invalid,371.08
+P839,Pedro Lopez,52.0,M,Lima,General,2024-07-25,50.88
+P973,Luis Martinez,,M,Surco,Dermatologia,2024-01-27,268.03
+P838,Ana Lopez,12.0,F,Lima,Dermatologia,2024-12-30,148.33
+P004,Pedro Rodriguez,17.0,F,Surco,Cardiologia,invalid,331.43
+P450,Ana Rodriguez,15.0,F,Callao,Odontologia,2024-10-01,105.02
+P657,Maria Lopez,35.0,M,Callao,General,2024-02-13,264.31
+P409,Juan Martinez,51.0,F,San Isidro,Odontologia,2024-08-12,250.25
+P310,Ana Gomez,87.0,F,Surco,Dermatologia,2024-01-11,
+P801,Sofia Lopez,75.0,M,Miraflores,Dermatologia,2024-09-03,472.13
+P282,Carlos Rodriguez,17.0,M,San Isidro,Dermatologia,2024-10-01,207.69
+P560,Carlos Perez,79.0,M,Callao,Cardiologia,2024-03-24,155.83
+P190,Ana Rodriguez,47.0,M,Miraflores,Cardiologia,2024-01-08,422.96
+P956,Carlos Torres,64.0,M,Surco,General,2024-09-27,238.9
+P314,Maria Torres,25.0,M,Miraflores,Dermatologia,2024-08-11,461.48
+P304,Ana Gomez,66.0,M,,Cardiologia,2024-08-11,244.93
+P697,Luis Lopez,76.0,M,Lima,Cardiologia,2024-11-21,210.03
+P535,Sofia Martinez,39.0,F,,Odontologia,invalid,419.36
+P443,Maria Rodriguez,,F,Lima,Pediatria,2024-07-16,139.67
+P197,Laura Rodriguez,16.0,M,Miraflores,Odontologia,2024-09-14,113.7
+P290,Luis Martinez,65.0,M,Miraflores,Pediatria,2024-11-02,52.87
+P695,Luis Gomez,18.0,M,San Isidro,Cardiologia,2024-08-24,381.94
+P634,Ana Lopez,69.0,F,,General,2024-01-08,164.2
+P844,Ana Lopez,43.0,F,Miraflores,Pediatria,2024-10-24,178.51
+P580,Luis Torres,41.0,M,Surco,Dermatologia,2024-06-27,194.66
+P600,Maria Gomez,13.0,F,,Dermatologia,invalid,285.6
+P278,Maria Gomez,52.0,F,Callao,Cardiologia,2024-06-22,361.08
+P755,Juan Perez,46.0,F,Callao,Pediatria,2024-09-06,462.89
+P090,Pedro Lopez,70.0,F,Callao,General,2024-08-19,273.52
+P717,Laura Perez,53.0,M,,General,2024-06-19,
+P146,Laura Rodriguez,100.0,M,,General,2024-02-27,50.25
+P796,Pedro Martinez,,M,Miraflores,Cardiologia,2024-10-09,126.43
+P534,Sofia Gomez,65.0,M,Surco,Cardiologia,invalid,188.35
+P278,Pedro Lopez,76.0,F,San Isidro,General,invalid,355.61
+P083,Carlos Martinez,34.0,M,,Pediatria,2024-11-16,372.7
+P350,Sofia Perez,76.0,M,Lima,General,2024-05-11,433.37
+P885,Laura Perez,67.0,M,Miraflores,Odontologia,2024-06-15,197.05
+P085,Pedro Martinez,75.0,M,Lima,Odontologia,2024-08-19,165.86
+P398,Luis Perez,34.0,F,,Cardiologia,2024-05-04,177.54
+P027,Sofia Martinez,50.0,M,Callao,Cardiologia,2024-12-31,275.4
+P314,Maria Gomez,74.0,F,Lima,Odontologia,2024-07-29,376.15
+P914,Luis Torres,71.0,F,Miraflores,Dermatologia,2024-04-21,208.38
+P679,Laura Torres,20.0,M,,General,2024-09-11,
+P364,Luis Rodriguez,78.0,F,Miraflores,General,invalid,
+P718,Laura Martinez,52.0,M,San Isidro,Pediatria,2024-12-28,154.8
+P216,Luis Perez,53.0,F,Surco,Pediatria,2024-02-15,351.12
+P495,Luis Rodriguez,92.0,M,San Isidro,General,2024-08-13,206.48
+P653,Luis Gomez,45.0,F,Lima,Cardiologia,2024-01-31,385.61
+P291,Pedro Martinez,45.0,M,San Isidro,Pediatria,2024-03-12,317.4
+P603,Pedro Perez,47.0,M,Callao,Pediatria,2024-10-15,488.58
+P674,Ana Martinez,27.0,M,San Isidro,Dermatologia,2024-06-01,319.85
+P624,Luis Torres,68.0,F,San Isidro,Dermatologia,2024-09-08,120.55
+P474,Sofia Gomez,55.0,M,,Dermatologia,2024-03-01,431.1
+P182,Juan Torres,26.0,F,San Isidro,Cardiologia,2024-03-24,445.93
+P425,Maria Martinez,51.0,F,Callao,Cardiologia,2024-12-16,169.8
+P563,Maria Lopez,16.0,M,Lima,Odontologia,invalid,301.7
+P333,Pedro Lopez,15.0,F,San Isidro,General,2024-03-17,113.96
+P246,Juan Martinez,57.0,M,Callao,Odontologia,2024-08-08,357.05
+P288,Ana Torres,22.0,M,Lima,Dermatologia,2024-04-15,189.13
+P200,Pedro Martinez,74.0,M,Surco,Odontologia,invalid,493.74
+P086,Maria Perez,24.0,F,Surco,Cardiologia,2024-09-09,113.73
+P085,Sofia Gomez,15.0,F,Surco,General,2024-07-22,373.58
+P141,Maria Rodriguez,22.0,F,Miraflores,Dermatologia,2024-10-11,276.22
+P454,Laura Torres,69.0,M,Surco,Dermatologia,2024-09-22,460.63
+P365,Sofia Perez,77.0,F,Lima,Odontologia,2024-02-04,367.89
+P628,Sofia Perez,83.0,M,Surco,General,2024-07-11,245.8
+P659,Laura Gomez,83.0,M,San Isidro,General,2024-11-21,303.56
+P848,Carlos Lopez,85.0,M,Miraflores,Cardiologia,2024-01-16,367.09
+P081,Ana Gomez,54.0,M,Miraflores,Cardiologia,2024-12-25,
+P009,Luis Lopez,35.0,F,Lima,Dermatologia,2024-11-11,408.28
+P934,Luis Rodriguez,16.0,M,Callao,Pediatria,2024-10-24,253.51
+P993,Juan Martinez,53.0,M,Callao,General,invalid,214.98
+P774,Juan Lopez,25.0,M,Lima,Pediatria,invalid,297.94
+P735,Pedro Martinez,99.0,M,San Isidro,Dermatologia,2024-09-16,328.41
+P053,Sofia Rodriguez,56.0,M,,Odontologia,2024-09-25,213.85
+P945,Ana Gomez,56.0,M,Lima,Dermatologia,2024-09-25,110.67
+P435,Maria Gomez,56.0,M,San Isidro,Odontologia,2024-08-21,425.38
+P585,Juan Torres,31.0,M,San Isidro,Cardiologia,2024-11-05,
+P870,Sofia Torres,28.0,F,Lima,General,2024-06-11,165.51
+P348,Carlos Torres,26.0,M,San Isidro,Dermatologia,2024-10-05,72.77
+P506,Maria Martinez,38.0,F,Lima,General,2024-04-02,337.18
+P244,Laura Torres,55.0,M,Surco,Pediatria,2024-03-19,54.07
+P567,Maria Gomez,96.0,F,Callao,General,2024-11-19,477.16
+P642,Juan Rodriguez,16.0,M,,Odontologia,2024-11-17,485.21
+P632,Carlos Lopez,98.0,F,Surco,Dermatologia,2024-04-05,182.4
+P593,Juan Gomez,1.0,M,Lima,General,2024-06-29,344.48
+P309,Ana Perez,76.0,M,Lima,General,2024-09-17,133.42
+P909,Carlos Rodriguez,1.0,M,Miraflores,Dermatologia,invalid,441.3
+P267,Sofia Gomez,82.0,M,San Isidro,General,invalid,429.55
+P074,Pedro Perez,78.0,F,Surco,Cardiologia,2024-10-17,152.86
+P991,Carlos Torres,79.0,M,,Pediatria,2024-08-29,109.79
+P589,Sofia Perez,92.0,F,,Cardiologia,2024-06-23,99.18
+P297,Ana Torres,94.0,F,Lima,Cardiologia,2024-12-07,160.71
+P050,Luis Rodriguez,42.0,F,Surco,Cardiologia,2024-01-24,249.33
+P029,Juan Rodriguez,90.0,F,,Cardiologia,2024-09-03,467.3
+P513,Sofia Martinez,81.0,M,San Isidro,Dermatologia,2024-06-13,386.39
+P945,Sofia Lopez,43.0,M,Surco,Pediatria,2024-10-14,339.97
+P711,Juan Torres,40.0,F,Miraflores,Dermatologia,invalid,52.09
+P210,Maria Torres,86.0,M,Callao,Cardiologia,2024-07-21,256.63
+P342,Ana Martinez,39.0,M,Lima,Dermatologia,2024-01-23,167.48
+P532,Maria Rodriguez,52.0,F,,Odontologia,2024-02-18,474.96
+P760,Juan Gomez,,F,Lima,Dermatologia,2024-04-21,170.85
+P784,Juan Martinez,17.0,F,San Isidro,General,2024-03-23,437.31
+P940,Sofia Torres,71.0,F,Surco,Odontologia,2024-03-28,152.8
+P873,Luis Torres,82.0,M,Surco,Pediatria,2024-04-10,487.78
+P639,Sofia Perez,34.0,M,,General,2024-05-31,171.98
+P802,Luis Lopez,58.0,M,San Isidro,Dermatologia,2024-04-21,375.78
+P961,Carlos Gomez,56.0,F,San Isidro,Cardiologia,invalid,91.56
+P577,Ana Perez,99.0,M,Callao,Dermatologia,2024-06-22,159.28
+P678,Pedro Perez,49.0,M,Lima,Pediatria,invalid,68.35
+P826,Maria Martinez,20.0,M,Surco,Odontologia,2024-11-13,133.47
+P154,Juan Lopez,54.0,F,,Odontologia,2024-08-09,421.18
+P689,Juan Rodriguez,13.0,M,San Isidro,Dermatologia,2024-05-14,250.29
+P210,Maria Rodriguez,24.0,M,Miraflores,Pediatria,invalid,181.96
+P992,Luis Perez,2.0,F,Surco,General,2024-12-07,173.93
+P779,Juan Martinez,2.0,F,Lima,Dermatologia,2024-09-02,277.16
+P998,Pedro Torres,49.0,M,,Dermatologia,2024-02-03,264.95
+P483,Luis Martinez,38.0,F,Miraflores,Pediatria,2024-12-23,283.9
+P119,Maria Torres,99.0,M,Lima,Odontologia,2024-08-26,149.91
+P782,Ana Lopez,27.0,M,Callao,General,2024-07-14,381.87
+P726,Carlos Gomez,95.0,F,Surco,General,2024-04-02,499.13
+P260,Laura Gomez,68.0,M,San Isidro,Dermatologia,2024-07-15,116.92
+P490,Pedro Torres,45.0,M,Callao,Cardiologia,2024-02-18,284.25
+P973,Juan Gomez,12.0,M,Miraflores,Odontologia,invalid,146.7
+P738,Carlos Gomez,34.0,M,Callao,Dermatologia,2024-03-05,180.89
+P409,Sofia Torres,41.0,M,Lima,General,invalid,392.29
+P539,Maria Perez,32.0,F,Surco,Pediatria,2024-08-04,
+P349,Pedro Torres,57.0,M,Miraflores,Odontologia,2024-08-11,253.51
+P113,Pedro Perez,61.0,F,San Isidro,Odontologia,invalid,251.78
+P305,Juan Martinez,88.0,M,Callao,Dermatologia,2024-03-20,300.46
+P835,Juan Lopez,89.0,M,Surco,Cardiologia,2024-10-31,461.1
+P791,Pedro Perez,,F,,General,2024-10-30,235.62
+P072,Carlos Martinez,53.0,F,San Isidro,Odontologia,2024-12-23,155.87
+P191,Carlos Rodriguez,23.0,F,San Isidro,Pediatria,2024-08-17,455.94
+P846,Maria Rodriguez,60.0,F,San Isidro,Odontologia,2024-07-14,316.45
+P586,Laura Martinez,30.0,F,Lima,Dermatologia,2024-04-29,95.38
+P098,Juan Lopez,83.0,F,Lima,General,2024-09-11,321.72
+P895,Carlos Torres,20.0,M,Miraflores,General,2024-03-05,359.01
+P898,Sofia Perez,17.0,F,Miraflores,Odontologia,2024-03-20,136.79
+P970,Maria Perez,47.0,F,Surco,General,2024-08-24,296.97
+P326,Maria Martinez,54.0,M,Lima,Odontologia,2024-02-20,388.94
+P151,Pedro Lopez,38.0,F,Lima,Pediatria,2024-07-14,411.95
+P002,Maria Perez,96.0,F,,Cardiologia,2024-04-09,481.46
+P410,Sofia Gomez,59.0,F,Surco,Pediatria,2024-01-23,152.5
+P283,Laura Gomez,80.0,F,San Isidro,Pediatria,2024-12-23,205.48
+P568,Pedro Martinez,8.0,F,Lima,General,2024-11-29,419.31
+P844,Maria Rodriguez,68.0,M,Callao,General,2024-03-25,
+P596,Carlos Martinez,8.0,M,Lima,Dermatologia,2024-01-09,121.57
+P030,Maria Lopez,59.0,M,San Isidro,Cardiologia,2024-09-17,61.97
+P241,Luis Torres,43.0,M,Lima,General,invalid,264.56
+P495,Pedro Martinez,44.0,F,Miraflores,Dermatologia,2024-01-19,442.53
+P543,Pedro Perez,71.0,M,Callao,Pediatria,2024-04-14,
+P724,Maria Perez,16.0,F,,Cardiologia,2024-02-04,91.7
+P581,Laura Gomez,82.0,M,Callao,Odontologia,2024-12-25,211.47
+P012,Sofia Lopez,90.0,M,Lima,General,2024-02-28,475.0
+P602,Luis Perez,32.0,M,Surco,Odontologia,2024-06-02,476.45
+P990,Ana Lopez,65.0,M,,Odontologia,2024-12-29,498.68
+P366,Luis Perez,7.0,M,Miraflores,General,2024-04-04,182.64
+P428,Luis Rodriguez,63.0,F,Lima,Odontologia,2024-12-17,219.48
+P869,Pedro Rodriguez,43.0,M,Callao,Cardiologia,2024-07-25,285.2
+P938,Laura Perez,96.0,M,San Isidro,Cardiologia,2024-01-18,277.85
+P666,Sofia Torres,34.0,M,San Isidro,Dermatologia,2024-12-30,281.45
+P083,Ana Perez,20.0,F,Miraflores,Dermatologia,2024-09-27,137.9
+P728,Ana Lopez,47.0,M,Lima,Cardiologia,2024-11-25,59.67
+P715,Laura Perez,29.0,F,Lima,Pediatria,2024-01-04,428.39
+P227,Sofia Gomez,98.0,F,Miraflores,Pediatria,2024-03-11,348.53
+P938,Pedro Martinez,58.0,F,Callao,Pediatria,2024-04-21,142.71
+P629,Laura Lopez,87.0,M,Surco,Pediatria,2024-04-05,188.63
+P324,Laura Rodriguez,91.0,M,Lima,General,2024-10-21,114.14
+P211,Pedro Perez,44.0,M,Miraflores,Dermatologia,2024-02-14,399.85
+P535,Ana Lopez,12.0,F,Lima,Odontologia,2024-08-15,256.37
+P453,Juan Lopez,99.0,F,Callao,Dermatologia,2024-01-01,112.53
+P219,Pedro Martinez,46.0,M,Lima,Pediatria,2024-08-25,84.09
+P453,Ana Gomez,37.0,M,Miraflores,Odontologia,2024-10-07,59.71
+P760,Sofia Torres,81.0,F,Callao,Odontologia,invalid,83.88
+P079,Carlos Martinez,12.0,M,Callao,Odontologia,2024-05-12,384.06
+P575,Juan Gomez,48.0,F,,Dermatologia,2024-07-10,342.26
+P766,Pedro Torres,69.0,F,Callao,General,2024-02-01,357.65
+P676,Maria Martinez,74.0,F,San Isidro,Cardiologia,2024-11-08,393.65
+P924,Laura Rodriguez,68.0,M,Surco,Cardiologia,2024-01-26,249.24
+P048,Pedro Gomez,9.0,M,Miraflores,Cardiologia,2024-10-31,289.35
+P120,Maria Torres,58.0,F,Lima,Cardiologia,2024-10-15,136.38
+P805,Maria Torres,78.0,M,,Odontologia,invalid,411.61
+P797,Laura Gomez,50.0,F,Lima,Odontologia,2024-07-12,474.84
+P024,Ana Rodriguez,22.0,M,Miraflores,Odontologia,2024-02-11,115.38
+P304,Luis Martinez,11.0,F,Callao,Cardiologia,invalid,190.36
+P574,Maria Rodriguez,30.0,M,Miraflores,Cardiologia,2024-03-22,176.51
+P395,Juan Lopez,64.0,M,Callao,Dermatologia,2024-06-04,117.18
+P627,Ana Perez,94.0,M,Surco,Pediatria,2024-12-31,357.03
+P595,Pedro Lopez,79.0,M,Surco,General,2024-06-01,135.73
+P026,Pedro Rodriguez,48.0,M,Lima,General,2024-11-26,328.21
+P473,Juan Perez,23.0,F,,Pediatria,2024-03-14,263.95
+P675,Pedro Perez,57.0,M,Surco,General,2024-04-22,304.61
+P543,Laura Gomez,94.0,M,,Cardiologia,2024-12-09,
