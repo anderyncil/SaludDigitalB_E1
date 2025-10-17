@@ -53,4 +53,5 @@ Proyecto desarrollado aplicando conceptos de Big Data, Vs Code, Python,
 MongoDB y Jenkins. 
 YNCIL RAMIREZ DIEGO ANDERSON
 Fecha: 17.10.2025 
+
 ```
